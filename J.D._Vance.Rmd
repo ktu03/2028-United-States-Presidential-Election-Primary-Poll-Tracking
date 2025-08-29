@@ -1,0 +1,21 @@
+```{r}
+source("Main.R") 
+```
+
+```{r}
+jd_vance_data <- republican_party_primary_polling|> filter(Candidate=="J.D. Vance") |> mutate(Poll_Boundary=ifelse(State=="NULL", "Nationwide",State))
+print(jd_vance_data)
+```
+
+
+```{r,fig.width=13,fig.height=5}
+jd_vance_chart <- jd_vance_data |> ggplot(aes(x=DMY, y=Polling,color=Poll_Boundary))+geom_point(alpha=0.6)+geom_line() + scale_x_date(date_breaks="3 months")+ labs(title= "J.D. Vance",x="Date",y="Polling (%)") 
+jd_vance_chart
+```
+```{r}
+jd_vance_summary<- jd_vance_data|>summarise(avg_polling=round(mean(Polling,na.rm=TRUE),digits=2), weighted_avg_polling=round(sum(Sample_Size/sum(Sample_Size,na.rm=TRUE) * Polling,na.rm=TRUE),digits=2),
+                                                    standard_deviation=round(sd(Polling,na.rm=TRUE),digits=2),maximum_polling=max(Polling),minimum_polling=min(Polling),median_polling=median(Polling))
+print(jd_vance_summary) 
+```
+
+

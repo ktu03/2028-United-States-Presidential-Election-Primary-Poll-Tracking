@@ -1,0 +1,20 @@
+```{r}
+source("Main.R")
+```
+
+```{r}
+marco_rubio_data<-republican_party_primary_polling|>filter(Candidate=="Marco Rubio")|>mutate(Poll_Boundary=ifelse(State=="NULL","Nationwide",State))
+print(marco_rubio_data)
+```
+
+```{r}
+marco_rubio_chart<-marco_rubio_data|>ggplot(aes(x=DMY,y=Polling,color=Poll_Boundary))+geom_point(alpha=0.6)+geom_line()+scale_x_date(date_breaks="3 months")+labs(title="Marco Rubio",x="Date",y="Polling (%)")
+marco_rubio_chart
+```
+
+```{r}
+marco_rubio_summary<-marco_rubio_data|>summarise(avg_polling=round(mean(Polling),digits=2),weighted_avg_polling=round(sum(Polling * Sample_Size/(sum(Sample_Size,na.rm=TRUE)),na.rm=TRUE),digits=2),
+                                                 standard_deviation=round(sd(Polling),digits=2),maximum_polling=max(Polling),minimum_polling=min(Polling),median_polling=median(Polling))
+print(marco_rubio_summary) 
+```
+

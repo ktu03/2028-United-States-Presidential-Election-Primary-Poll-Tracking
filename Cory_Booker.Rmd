@@ -1,0 +1,20 @@
+```{r}
+source("Main.R")
+```
+
+```{r}
+cory_booker_data<-democratic_party_primary_polling|>filter(Candidate=="Cory Booker")|>mutate(Poll_Boundary=ifelse(State=="NULL","Nationwide",State))
+print(cory_booker_data)
+```
+
+```{r}
+cory_booker_chart<-cory_booker_data|>ggplot(aes(x=DMY,y=Polling,color=Poll_Boundary))+ theme_gray(base_size=14)+geom_point(alpha=0.6)+geom_line()+scale_x_date(date_breaks="3 months")+labs(title="Cory Booker",x="Date",y="Polling (%)")
+print(cory_booker_chart)
+```
+
+```{r}
+cory_booker_summary<-cory_booker_data|>summarise(avg_polling=round(mean(Polling),digits=2),weighted_avg_polling=round(sum(Polling*Sample_Size/(sum(Sample_Size,na.rm=TRUE)),na.rm=TRUE),digits=2), standard_deviation=round(sd(Polling),digits=2),maximum_polling=max(Polling),minimum_polling=min(Polling),median_polling=median(Polling))
+print(cory_booker_summary)
+```
+
+

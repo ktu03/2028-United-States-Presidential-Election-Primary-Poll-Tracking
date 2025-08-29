@@ -1,0 +1,20 @@
+```{r}
+source("Main.R")
+```
+
+```{r}
+josh_shapiro_data<-democratic_party_primary_polling|>filter(Candidate=="Josh Shapiro")|>mutate(Poll_Boundary=ifelse(State=="NULL","Nationwide",State))
+print(josh_shapiro_data)
+```
+
+```{r}
+josh_shapiro_chart<-josh_shapiro_data|>ggplot(aes(x=DMY,y=Polling,color=Poll_Boundary))+geom_point(alpha=0.6)+ theme_gray(base_size=14)+geom_line()+scale_x_date(date_breaks="3 months")+labs(title="Josh Shapiro",x="Date",y="Polling (%)")
+josh_shapiro_chart
+```
+
+```{r}
+josh_shapiro_summary<-josh_shapiro_data|>summarise(avg_polling=round(mean(Polling),digits=2),weighted_avg_polling=round(sum(Polling*Sample_Size/(sum(Sample_Size,na.rm=TRUE)),na.rm=TRUE),digits=2),
+                                                   standard_deviation=round(sd(Polling),digits=2),maximum_polling=max(Polling),minimum_polling=min(Polling),median_polling=median(Polling))
+josh_shapiro_summary
+```
+

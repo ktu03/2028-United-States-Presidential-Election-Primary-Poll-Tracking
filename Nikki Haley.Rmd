@@ -1,0 +1,20 @@
+```{r}
+source("Main.R")
+```
+
+```{r}
+nikki_haley_data<-republican_party_primary_polling|>filter(Candidate=="Nikki Haley")|>mutate(Poll_Boundary=ifelse(State=="NULL","Nationwide",State))
+print(nikki_haley_data)
+```
+
+```{r}
+nikki_haley_chart<-nikki_haley_data|>ggplot(aes(x=DMY,y=Polling,color=Poll_Boundary))+geom_point(alpha=0.6)+geom_line()+scale_x_date(date_breaks="3 months")+labs(title="Nikki Haley",x="Date",y="Polling (%)")
+nikki_haley_chart 
+``` 
+
+```{r}
+nikki_haley_summary<-nikki_haley_data|>summarise(avg_polling=round(mean(Polling),digits=2),weighted_avg_polling=round(sum(Polling * (Sample_Size/(sum(Sample_Size,na.rm=TRUE))),na.rm=TRUE),digits=2),
+                                                 standard_deviation=round(sd(Polling),digits=2),maximum_polling=max(Polling),minimum_polling=min(Polling),median_polling=round(median(Polling),digits=2)) 
+print(nikki_haley_summary)
+``` 
+

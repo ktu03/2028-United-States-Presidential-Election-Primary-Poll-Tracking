@@ -1,0 +1,19 @@
+```{r}
+source("Main.R")
+```
+
+```{r}
+vivek_ramaswamy_data<-republican_party_primary_polling|>filter(Candidate=="Vivek Ramaswamy")|>mutate(Poll_Boundary=ifelse(State=="NULL","Nationwide",State))
+print(vivek_ramaswamy_data)
+```
+
+```{r}
+vivek_ramaswamy_chart <- vivek_ramaswamy_data|>ggplot(aes(x=DMY,y=Polling,color=Poll_Boundary))+geom_point(alpha=0.6)+geom_line()+scale_x_date(date_breaks="3 months")+labs(title="Vivek Ramaswamy",x="Date",y="Polling (%)")
+vivek_ramaswamy_chart
+```
+```{r}
+vivek_ramaswamy_summary<- vivek_ramaswamy_data|>summarise(avg_polling=round(mean(Polling,na.rm=TRUE),digits=2), weighted_avg_polling=round(sum(Sample_Size/sum(Sample_Size,na.rm=TRUE) * Polling,na.rm=TRUE),digits=2),
+                                                    standard_deviation=round(sd(Polling,na.rm=TRUE),digits=2),maximum_polling=max(Polling),minimum_polling=min(Polling),median_polling=median(Polling))
+print(vivek_ramaswamy_summary)
+```
+

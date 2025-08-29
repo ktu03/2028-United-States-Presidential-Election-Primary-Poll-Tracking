@@ -77,7 +77,6 @@
 -- ('Glenn Youngkin',1, 'Emerson College',TRUE	,420, 'Registered Voters','2024-11-20','https://emersoncollegepolling.com/november-2024-national-poll-trump-favorability-jumps-post-election-2028-election-kicks-off-with-harris-and-vance-leading-primaries/');
 
 
-
 ##Insert Morning Consult 2024-12-06
 -- USE `2028 United States Presidential Election`;
 -- INSERT INTO `Republican_Party_Primary_Polling` (Candidate, Polling, Pollster, Nationwide, Sample_Size, Voter_Type, DMY, Link)
@@ -393,7 +392,7 @@
 -- ('Andy Beshear', 2, 'Morning Consult', TRUE, 1012, 'Registered Voters','2024-11-15','https://pro.morningconsult.com/analysis/kamala-harris-2028-democratic-primary-polling-november-2024'),
 -- ('J.B. Pritzker', 1, 'Morning Consult', TRUE, 1012, 'Registered Voters','2024-11-15','https://pro.morningconsult.com/analysis/kamala-harris-2028-democratic-primary-polling-november-2024');
 
-##Insert Echelon Insights 2024-07-19
+##Insert Echelon Insights 2024-11-14
 -- USE `2028 United States Presidential Election`;
 -- INSERT INTO `Democratic_Party_Primary_Polling` (Candidate, Polling, Pollster, Nationwide, Sample_Size, Voter_Type, DMY, Link)
 -- Values ('Kamala Harris',41, 'Echelon Insights',TRUE	,457, 'Likely Voters','2024-11-14','https://echeloninsights.com/in-the-news/nov-2024-verified-voter-omnibus/'),

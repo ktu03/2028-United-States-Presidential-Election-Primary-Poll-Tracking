@@ -1,0 +1,20 @@
+```{r}
+source("Main.R")
+```
+
+```{r}
+pete_buttigieg_data<- democratic_party_primary_polling|>filter(Candidate =="Pete Buttigieg")|>mutate(Poll_Boundary=ifelse(State=="NULL","Nationwide",State))
+print(pete_buttigieg_data)
+```
+
+```{r}
+pete_buttigieg_chart<-pete_buttigieg_data|>ggplot(aes(x=DMY,y=Polling,color=Poll_Boundary)) + geom_point(alpha=0.6)+geom_line()+scale_x_date(date_breaks="3 months") + labs(title="Pete Buttigieg",x="Date",y="Polling (%)")
+pete_buttigieg_chart
+```
+
+```{r}
+pete_buttigieg_summary<-pete_buttigieg_data|>summarise(avg_polling=round(mean(Polling),digits=2),weighted_avg_polling=round(sum(Polling*Sample_Size/(sum(Sample_Size,na.rm=TRUE)),na.rm=TRUE),digits=2),
+                                                       standard_deviation=round(sd(Polling),digits=2),maximum_polling=max(Polling),minimum_polling=min(Polling),median_polling=median(Polling))
+pete_buttigieg_summary
+```
+

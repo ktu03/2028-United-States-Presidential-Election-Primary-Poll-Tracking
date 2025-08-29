@@ -1,0 +1,10 @@
+name: republica_app
+title:
+username: ktu03
+account: ktu03
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 15003705
+bundleId: 10722577
+url: https://ktu03.shinyapps.io/republica_app/
+version: 1

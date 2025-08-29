@@ -1,0 +1,20 @@
+```{r}
+source("Main.R")
+```
+
+```{r}
+ted_cruz_data<-republican_party_primary_polling|>filter(Candidate=="Ted Cruz")|>mutate(Poll_Boundary=ifelse(State=="NULL","Nationwide",State))
+print(ted_cruz_data)
+```
+
+```{r}
+ted_cruz_chart<-ted_cruz_data|>ggplot(aes(x=DMY,y=Polling,color=Poll_Boundary))+geom_point(alpha=0.6)+geom_line()+scale_x_date(date_breaks="3 months")+labs(title="Ted Cruz",x="Date",y="Polling (%)")
+print(ted_cruz_chart)
+```
+
+```{r}
+ted_cruz_summary<-ted_cruz_data|>summarise(avg_polling=round(mean(Polling),digits=2),weighted_avg_polling=round(sum(Polling * Sample_Size/(sum(Sample_Size,na.rm=TRUE)),na.rm=TRUE),digits=2),
+                                           standard_deviation=round(sd(Polling),digits=2),maximum_polling=max(Polling),minimum_polling=min(Polling),median_polling=median(Polling))
+print(ted_cruz_summary) 
+```
+

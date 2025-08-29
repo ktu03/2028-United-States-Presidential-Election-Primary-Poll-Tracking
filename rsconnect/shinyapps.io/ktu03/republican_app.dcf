@@ -1,0 +1,10 @@
+name: republican_app
+title:
+username: ktu03
+account: ktu03
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 14913412
+bundleId: 10726460
+url: https://ktu03.shinyapps.io/republican_app/
+version: 1
