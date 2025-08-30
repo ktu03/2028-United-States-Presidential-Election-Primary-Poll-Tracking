@@ -26,7 +26,7 @@ Polls are stored in a local MySQL database in two separate tables, one for the D
 
 [Gretchen Whitmer](https://ktu03.github.io/2028-United-States-Presidential-Election-Primary-Poll-Tracking/Gretchen_Whitmer.html)
 
-## Democratic Party Analyses
+## Republican Party Analyses
 
 [All](https://ktu03.shinyapps.io/republican_app/)
 
@@ -38,6 +38,6 @@ Polls are stored in a local MySQL database in two separate tables, one for the D
 
 [Vivek Ramaswamy](https://ktu03.github.io/2028-United-States-Presidential-Election-Primary-Poll-Tracking/Vivek_Ramaswamy.html)
 
-[Nikki Haley](https://ktu03.github.io/2028-United-States-Presidential-Election-Primary-Poll-Tracking/Nikki_Haley.html)
+[Nikki Haley](https://ktu03.github.io/2028-United-States-Presidential-Election-Primary-Poll-Tracking/Nikki-Haley.html)
 
 [Ted Cruz](https://ktu03.github.io/2028-United-States-Presidential-Election-Primary-Poll-Tracking/Ted_Cruz.html)
