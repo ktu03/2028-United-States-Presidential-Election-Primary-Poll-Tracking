@@ -8,6 +8,8 @@ The purpose of this project is to track polls and identify polling trends for po
 
 Polls are stored in a local MySQL database in two separate tables, one for the Democratic Party and one for the Republican Party. Then, the tables are exported as CSV files and read into RStudio to compute summary statistics and plot line charts. Note that not all candidates are further analyzed at this step. For the Democratic and Republican parties, 7 and 6 potentially competitive candidates, respectively, based on personal judgement, are selected and observed. Not only are there individual files created for each candidate's analysis, but a Shiny app deployed on shinyapps.io is also created for each party to aggregate all candidates in one dashboard.
 
+Note that this project is still in its very early stages as there are still more than two years before the next Primary season. As more of the potential candidates begin campaign activities and make more news, there will be more opportunity for analysis.
+
 ## Democratic Party
 
 [All](https://ktu03.shinyapps.io/Democratic_App/)
