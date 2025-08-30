@@ -7,7 +7,7 @@ tim_walz_data<-democratic_party_primary_polling|>filter(Candidate=="Tim Walz")|>
 print(tim_walz_data)
 ```
 
-```{r}
+```{r, fig.width=10}
 tim_walz_chart<-tim_walz_data|>ggplot(aes(x=DMY,y=Polling,color=Poll_Boundary))+geom_point(alpha=0.6)+ theme_gray(base_size=14)+geom_line()+scale_x_date(date_breaks="3 months")+labs(title="Tim Walz",x="Date",y="Polling (%)")
 print(tim_walz_chart)
 ```

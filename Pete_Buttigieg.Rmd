@@ -2,7 +2,7 @@
 source("Main.R")
 ```
 
-```{r}
+```{r, fig.width=10}
 pete_buttigieg_data<- democratic_party_primary_polling|>filter(Candidate =="Pete Buttigieg")|>mutate(Poll_Boundary=ifelse(State=="NULL","Nationwide",State))
 print(pete_buttigieg_data)
 ```
