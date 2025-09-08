@@ -1,0 +1,29 @@
+## Emerson College 2025-07-28
+
+USE `2028 United States Presidential Election`;
+
+INSERT INTO `Republican_Party_Primary_Polling` (Candidate, Polling, Pollster, State, Sample_Size, Voter_Type, DMY, Link)
+Values ('J.D. Vance',53, 'Emerson College','North Carolina'	,416, 'Likely Voters','2025-07-28','https://emersoncollegepolling.com/north-carolina-2026-poll-cooper-starts-us-senate-race-with-six-point-lead-and-clear-name-recognition-advantage-over-whatley/'),
+('Nikki Haley',2.7, 'Emerson College','North Carolina'	,416, 'Likely Voters','2025-07-28','https://emersoncollegepolling.com/north-carolina-2026-poll-cooper-starts-us-senate-race-with-six-point-lead-and-clear-name-recognition-advantage-over-whatley/'),
+('Vivek Ramaswamy',3, 'Emerson College','North Carolina'	,416, 'Likely Voters','2025-07-28','https://emersoncollegepolling.com/north-carolina-2026-poll-cooper-starts-us-senate-race-with-six-point-lead-and-clear-name-recognition-advantage-over-whatley/'),
+('Marco Rubio',5.3, 'Emerson College','North Carolina'	,416, 'Likely Voters','2025-07-28','https://emersoncollegepolling.com/north-carolina-2026-poll-cooper-starts-us-senate-race-with-six-point-lead-and-clear-name-recognition-advantage-over-whatley/'),
+('Ted Cruz',2.4, 'Emerson College','North Carolina'	,416, 'Likely Voters','2025-07-28','https://emersoncollegepolling.com/north-carolina-2026-poll-cooper-starts-us-senate-race-with-six-point-lead-and-clear-name-recognition-advantage-over-whatley/'),
+('Ron Desantis',7.4, 'Emerson College','North Carolina'	,416, 'Likely Voters','2025-07-28','https://emersoncollegepolling.com/north-carolina-2026-poll-cooper-starts-us-senate-race-with-six-point-lead-and-clear-name-recognition-advantage-over-whatley/'),
+('Tulsi Gabbard',0.5, 'Emerson College','North Carolina'	,416, 'Likely Voters','2025-07-28','https://emersoncollegepolling.com/north-carolina-2026-poll-cooper-starts-us-senate-race-with-six-point-lead-and-clear-name-recognition-advantage-over-whatley/'),
+('Kristi Noem',1, 'Emerson College','North Carolina'	,416, 'Likely Voters','2025-07-28','https://emersoncollegepolling.com/north-carolina-2026-poll-cooper-starts-us-senate-race-with-six-point-lead-and-clear-name-recognition-advantage-over-whatley/'),
+('Brian Kemp',0.8, 'Emerson College','North Carolina'	,416, 'Likely Voters','2025-07-28','https://emersoncollegepolling.com/north-carolina-2026-poll-cooper-starts-us-senate-race-with-six-point-lead-and-clear-name-recognition-advantage-over-whatley/'),
+('Glenn Youngkin',0.8, 'Emerson College','North Carolina'	,416, 'Likely Voters','2025-07-28','https://emersoncollegepolling.com/north-carolina-2026-poll-cooper-starts-us-senate-race-with-six-point-lead-and-clear-name-recognition-advantage-over-whatley/');
+
+INSERT INTO `Democratic_Party_Primary_Polling` (Candidate, Polling, Pollster, State, Sample_Size, Voter_Type, DMY, Link)
+Values ('Kamala Harris',12, 'Emerson College','North Carolina'	,445, 'Likely Voters','2025-07-28','https://emersoncollegepolling.com/north-carolina-2026-poll-cooper-starts-us-senate-race-with-six-point-lead-and-clear-name-recognition-advantage-over-whatley/'),
+('Gavin Newsom',10.2, 'Emerson College','North Carolina'	,445, 'Likely Voters','2025-07-28','https://emersoncollegepolling.com/north-carolina-2026-poll-cooper-starts-us-senate-race-with-six-point-lead-and-clear-name-recognition-advantage-over-whatley/'),
+('Josh Shapiro',3.2, 'Emerson College','North Carolina'	,445, 'Likely Voters','2025-07-28','https://emersoncollegepolling.com/north-carolina-2026-poll-cooper-starts-us-senate-race-with-six-point-lead-and-clear-name-recognition-advantage-over-whatley/'),
+('Gretchen Whitmer',3.2, 'Emerson College','North Carolina'	,445, 'Likely Voters','2025-07-28','https://emersoncollegepolling.com/north-carolina-2026-poll-cooper-starts-us-senate-race-with-six-point-lead-and-clear-name-recognition-advantage-over-whatley/'),
+('Cory Booker',5.2, 'Emerson College','North Carolina'	,445, 'Likely Voters','2025-07-28','https://emersoncollegepolling.com/north-carolina-2026-poll-cooper-starts-us-senate-race-with-six-point-lead-and-clear-name-recognition-advantage-over-whatley/'),
+('Pete Buttigieg',16.8, 'Emerson College','North Carolina'	,445, 'Likely Voters','2025-07-28','https://emersoncollegepolling.com/north-carolina-2026-poll-cooper-starts-us-senate-race-with-six-point-lead-and-clear-name-recognition-advantage-over-whatley/'),
+('Andy Beshear',3.7, 'Emerson College','North Carolina'	,445, 'Likely Voters','2025-07-28','https://emersoncollegepolling.com/north-carolina-2026-poll-cooper-starts-us-senate-race-with-six-point-lead-and-clear-name-recognition-advantage-over-whatley/'),
+('Tim Walz',3.3, 'Emerson College','North Carolina'	,445, 'Likely Voters','2025-07-28','https://emersoncollegepolling.com/north-carolina-2026-poll-cooper-starts-us-senate-race-with-six-point-lead-and-clear-name-recognition-advantage-over-whatley/'),
+('Amy Klobuchar',1, 'Emerson College','North Carolina'	,445, 'Likely Voters','2025-07-28','https://emersoncollegepolling.com/north-carolina-2026-poll-cooper-starts-us-senate-race-with-six-point-lead-and-clear-name-recognition-advantage-over-whatley/'),
+('Rahm Emanuel',0.3, 'Emerson College','North Carolina'	,445, 'Likely Voters','2025-07-28','https://emersoncollegepolling.com/north-carolina-2026-poll-cooper-starts-us-senate-race-with-six-point-lead-and-clear-name-recognition-advantage-over-whatley/'),
+('Alexandria Ocasio-Cortez',4.1, 'Emerson College','North Carolina'	,445, 'Likely Voters','2025-07-28','https://emersoncollegepolling.com/north-carolina-2026-poll-cooper-starts-us-senate-race-with-six-point-lead-and-clear-name-recognition-advantage-over-whatley/'),
+('J.B. Pritzker',2.7, 'Emerson College','North Carolina'	,445, 'Likely Voters','2025-07-28','https://emersoncollegepolling.com/north-carolina-2026-poll-cooper-starts-us-senate-race-with-six-point-lead-and-clear-name-recognition-advantage-over-whatley/');
