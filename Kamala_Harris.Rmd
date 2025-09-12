@@ -4,7 +4,7 @@ source("Main.R")
 
 ```{r}
 kamala_harris_data<-democratic_party_primary_polling|>filter(Candidate=="Kamala Harris")|>mutate(Poll_Boundary=ifelse(State=="NULL","Nationwide",State))
-print(kamala_harris_data)
+head(kamala_harris_data)
 ```
 
 ```{r fig.width=10}

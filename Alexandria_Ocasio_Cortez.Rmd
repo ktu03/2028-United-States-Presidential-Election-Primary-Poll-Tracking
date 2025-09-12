@@ -4,7 +4,7 @@ source("Main.R")
 
 ```{r}
 alexandria_ocasio_cortez_data <- democratic_party_primary_polling|>filter(Candidate=="Alexandria Ocasio-Cortez")|> mutate(Poll_Boundary=ifelse(State=="NULL","Nationwide",State))
-alexandria_ocasio_cortez_data
+head(alexandria_ocasio_cortez_data)
 ```
 
 ```{r, fig.width=10}

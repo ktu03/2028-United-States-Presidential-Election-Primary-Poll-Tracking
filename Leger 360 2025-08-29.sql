@@ -11,6 +11,7 @@ INSERT INTO `Democratic_Party_Primary_Polling` (Candidate, Polling, Pollster, Na
 Values ('Kamala Harris',30, 'Leger360',TRUE	,328, 'Likely Voters','2025-08-30','https://leger360.com/wp-content/uploads/2025/09/Leger_Can_US-Relations_Aug2025.pdf'),
 ('Gavin Newsom',24, 'Leger360',TRUE	,328, 'Likely Voters','2025-08-30','https://leger360.com/wp-content/uploads/2025/09/Leger_Can_US-Relations_Aug2025.pdf'),
 ('Josh Shapiro',2, 'Leger360',TRUE	,328, 'Likely Voters','2025-08-30','https://leger360.com/wp-content/uploads/2025/09/Leger_Can_US-Relations_Aug2025.pdf'),
+('Pete Buttigieg',8, 'Leger360',TRUE	,328, 'Likely Voters','2025-08-30','https://leger360.com/wp-content/uploads/2025/09/Leger_Can_US-Relations_Aug2025.pdf'),
 ('Gretchen Whitmer',2, 'Leger360',TRUE	,328, 'Likely Voters','2025-08-30','https://leger360.com/wp-content/uploads/2025/09/Leger_Can_US-Relations_Aug2025.pdf'),
 ('Alexandria Ocasio-Cortez',10, 'Leger360',TRUE	,328, 'Likely Voters','2025-08-30','https://leger360.com/wp-content/uploads/2025/09/Leger_Can_US-Relations_Aug2025.pdf'),
 ('J.B. Pritzker',4, 'Leger360',TRUE	,328, 'Likely Voters','2025-08-30','https://leger360.com/wp-content/uploads/2025/09/Leger_Can_US-Relations_Aug2025.pdf');

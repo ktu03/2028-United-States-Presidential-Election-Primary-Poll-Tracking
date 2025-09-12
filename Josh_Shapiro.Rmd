@@ -4,7 +4,7 @@ source("Main.R")
 
 ```{r}
 josh_shapiro_data<-democratic_party_primary_polling|>filter(Candidate=="Josh Shapiro")|>mutate(Poll_Boundary=ifelse(State=="NULL","Nationwide",State))
-print(josh_shapiro_data)
+head(josh_shapiro_data)
 ```
 
 ```{r, fig.width=10}

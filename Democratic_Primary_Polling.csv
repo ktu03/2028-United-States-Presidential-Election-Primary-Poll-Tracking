@@ -7,12 +7,6 @@ Candidate,Polling,Pollster,Nationwide,State,Sample_Size,Voter_Type,DMY,Link
 "Andy Beshear",1.00,"Echelon Insights",1,NULL,499,"Registered Voters",2024-01-16,https://x.com/Politics_Polls/status/1749632663122505993?s=20
 "J.B. Pritzker",3.00,"Echelon Insights",1,NULL,499,"Registered Voters",2024-01-16,https://x.com/Politics_Polls/status/1749632663122505993?s=20
 "Raphael Warnock",2.00,"Echelon Insights",1,NULL,499,"Registered Voters",2024-01-16,https://x.com/Politics_Polls/status/1749632663122505993?s=20
-"Kamala Harris",21.00,"Morning Consult",1,NULL,3997,"Registered Voters",2024-05-28,https://www.politico.com/f/?id=0000018f-f8f8-d844-a1ff-fffed00f0000
-"Gavin Newsom",10.00,"Morning Consult",1,NULL,3997,"Registered Voters",2024-05-28,https://www.politico.com/f/?id=0000018f-f8f8-d844-a1ff-fffed00f0000
-"Josh Shapiro",3.00,"Morning Consult",1,NULL,3997,"Registered Voters",2024-05-28,https://www.politico.com/f/?id=0000018f-f8f8-d844-a1ff-fffed00f0000
-"Pete Buttigieg",10.00,"Morning Consult",1,NULL,3997,"Registered Voters",2024-05-28,https://www.politico.com/f/?id=0000018f-f8f8-d844-a1ff-fffed00f0000
-"Gretchen Whitmer",4.00,"Morning Consult",1,NULL,3997,"Registered Voters",2024-05-28,https://www.politico.com/f/?id=0000018f-f8f8-d844-a1ff-fffed00f0000
-"Mark Kelly",4.00,"Morning Consult",1,NULL,3997,"Registered Voters",2024-05-28,https://www.politico.com/f/?id=0000018f-f8f8-d844-a1ff-fffed00f0000
 "Kamala Harris",43.00,"Morning Consult",1,NULL,1012,"Registered Voters",2024-11-15,https://pro.morningconsult.com/analysis/kamala-harris-2028-democratic-primary-polling-november-2024
 "Gavin Newsom",8.00,"Morning Consult",1,NULL,1012,"Registered Voters",2024-11-15,https://pro.morningconsult.com/analysis/kamala-harris-2028-democratic-primary-polling-november-2024
 "Josh Shapiro",5.00,"Morning Consult",1,NULL,1012,"Registered Voters",2024-11-15,https://pro.morningconsult.com/analysis/kamala-harris-2028-democratic-primary-polling-november-2024
@@ -82,9 +76,7 @@ Candidate,Polling,Pollster,Nationwide,State,Sample_Size,Voter_Type,DMY,Link
 "Gavin Newsom",7.00,"Echelon Insights",1,NULL,457,"Likely Voters",2025-03-10,https://echeloninsights.com/in-the-news/march-2025-verified-voter-omnibus-2-2-2/
 "Josh Shapiro",2.00,"Echelon Insights",1,NULL,457,"Likely Voters",2025-03-10,https://echeloninsights.com/in-the-news/march-2025-verified-voter-omnibus-2-2-2/
 "Gretchen Whitmer",2.00,"Echelon Insights",1,NULL,457,"Likely Voters",2025-03-10,https://echeloninsights.com/in-the-news/march-2025-verified-voter-omnibus-2-2-2/
-"Pete Buttigieg",10.00,"Echelon Insights",1,NULL,457,"Likely Voters",2025-03-10,https://echeloninsights.com/in-the-news/march-2025-verified-voter-omnibus-2-2-2/
 "Tim Walz",5.00,"Echelon Insights",1,NULL,457,"Likely Voters",2025-03-10,https://echeloninsights.com/in-the-news/march-2025-verified-voter-omnibus-2-2-2/
-"Alexandria Ocasio-Cortez",7.00,"Echelon Insights",1,NULL,457,"Likely Voters",2025-03-10,https://echeloninsights.com/in-the-news/march-2025-verified-voter-omnibus-2-2-2/
 "J.B. Pritzker",2.00,"Echelon Insights",1,NULL,457,"Likely Voters",2025-03-10,https://echeloninsights.com/in-the-news/march-2025-verified-voter-omnibus-2-2-2/
 "Cory Booker",2.00,"Echelon Insights",1,NULL,457,"Likely Voters",2025-03-10,https://echeloninsights.com/in-the-news/march-2025-verified-voter-omnibus-2-2-2/
 "Jasmine Crockett",3.00,"Echelon Insights",1,NULL,457,"Likely Voters",2025-03-10,https://echeloninsights.com/in-the-news/march-2025-verified-voter-omnibus-2-2-2/
@@ -139,15 +131,6 @@ Candidate,Polling,Pollster,Nationwide,State,Sample_Size,Voter_Type,DMY,Link
 "Alexandria Ocasio-Cortez",21.00,"Yale Youth Poll",1,NULL,NULL,NULL,2025-04-01,https://docs.google.com/spreadsheets/d/1JhSWPVcKK6tdufsa52TeRk3JRwSsgtglVQP1ZAa8fg4/edit?gid=0#gid=0
 "J.B. Pritzker",3.00,"Yale Youth Poll",1,NULL,NULL,NULL,2025-04-01,https://docs.google.com/spreadsheets/d/1JhSWPVcKK6tdufsa52TeRk3JRwSsgtglVQP1ZAa8fg4/edit?gid=0#gid=0
 "Andy Beshear",3.00,"Yale Youth Poll",1,NULL,NULL,NULL,2025-04-01,https://docs.google.com/spreadsheets/d/1JhSWPVcKK6tdufsa52TeRk3JRwSsgtglVQP1ZAa8fg4/edit?gid=0#gid=0
-"Kamala Harris",24.00,"Atlas Intel",1,NULL,2347,NULL,2025-04-11,https://cdn.atlasintel.org/e3edc86b-aac7-4ebe-9ef7-6a8346f658f6.pdf?_gl=1*1po007n*_ga*NjMxOTI2NjYxLjE3NDQ5Mjc1MzM.*_ga_W78QD5CNP1*MTc0NDkyNzUzMy4xLjAuMTc0NDkyNzUzMy4wLjAuMA
-"Cory Booker",9.00,"Atlas Intel",1,NULL,2347,NULL,2025-04-11,https://cdn.atlasintel.org/e3edc86b-aac7-4ebe-9ef7-6a8346f658f6.pdf?_gl=1*1po007n*_ga*NjMxOTI2NjYxLjE3NDQ5Mjc1MzM.*_ga_W78QD5CNP1*MTc0NDkyNzUzMy4xLjAuMTc0NDkyNzUzMy4wLjAuMA
-"Pete Buttigieg",28.00,"Atlas Intel",1,NULL,2347,NULL,2025-04-11,https://cdn.atlasintel.org/e3edc86b-aac7-4ebe-9ef7-6a8346f658f6.pdf?_gl=1*1po007n*_ga*NjMxOTI2NjYxLjE3NDQ5Mjc1MzM.*_ga_W78QD5CNP1*MTc0NDkyNzUzMy4xLjAuMTc0NDkyNzUzMy4wLjAuMA
-"Gavin Newsom",7.00,"Atlas Intel",1,NULL,2347,NULL,2025-04-11,https://cdn.atlasintel.org/e3edc86b-aac7-4ebe-9ef7-6a8346f658f6.pdf?_gl=1*1po007n*_ga*NjMxOTI2NjYxLjE3NDQ5Mjc1MzM.*_ga_W78QD5CNP1*MTc0NDkyNzUzMy4xLjAuMTc0NDkyNzUzMy4wLjAuMA
-"Alexandria Ocasio-Cortez",16.00,"Atlas Intel",1,NULL,2347,NULL,2025-04-11,https://cdn.atlasintel.org/e3edc86b-aac7-4ebe-9ef7-6a8346f658f6.pdf?_gl=1*1po007n*_ga*NjMxOTI2NjYxLjE3NDQ5Mjc1MzM.*_ga_W78QD5CNP1*MTc0NDkyNzUzMy4xLjAuMTc0NDkyNzUzMy4wLjAuMA
-"Gretchen Whitmer",9.00,"Atlas Intel",1,NULL,2347,NULL,2025-04-11,https://cdn.atlasintel.org/e3edc86b-aac7-4ebe-9ef7-6a8346f658f6.pdf?_gl=1*1po007n*_ga*NjMxOTI2NjYxLjE3NDQ5Mjc1MzM.*_ga_W78QD5CNP1*MTc0NDkyNzUzMy4xLjAuMTc0NDkyNzUzMy4wLjAuMA
-"Andy Beshear",2.00,"Atlas Intel",1,NULL,2347,NULL,2025-04-11,https://cdn.atlasintel.org/e3edc86b-aac7-4ebe-9ef7-6a8346f658f6.pdf?_gl=1*1po007n*_ga*NjMxOTI2NjYxLjE3NDQ5Mjc1MzM.*_ga_W78QD5CNP1*MTc0NDkyNzUzMy4xLjAuMTc0NDkyNzUzMy4wLjAuMA
-"Chris Murphy",2.00,"Atlas Intel",1,NULL,2347,NULL,2025-04-11,https://cdn.atlasintel.org/e3edc86b-aac7-4ebe-9ef7-6a8346f658f6.pdf?_gl=1*1po007n*_ga*NjMxOTI2NjYxLjE3NDQ5Mjc1MzM.*_ga_W78QD5CNP1*MTc0NDkyNzUzMy4xLjAuMTc0NDkyNzUzMy4wLjAuMA
-"Raphael Warnock",2.00,"Atlas Intel",1,NULL,2347,NULL,2025-04-11,https://cdn.atlasintel.org/e3edc86b-aac7-4ebe-9ef7-6a8346f658f6.pdf?_gl=1*1po007n*_ga*NjMxOTI2NjYxLjE3NDQ5Mjc1MzM.*_ga_W78QD5CNP1*MTc0NDkyNzUzMy4xLjAuMTc0NDkyNzUzMy4wLjAuMA
 "Kamala Harris",30.00,"Quantus Insights",1,NULL,1000,"Registered Voters",2025-04-21,https://quantusinsights.org/f/split-nation-unready-party-the-strategic-drift-of-2025
 "Gavin Newsom",7.00,"Quantus Insights",1,NULL,1000,"Registered Voters",2025-04-21,https://quantusinsights.org/f/split-nation-unready-party-the-strategic-drift-of-2025
 "Pete Buttigieg",13.00,"Quantus Insights",1,NULL,1000,"Registered Voters",2025-04-21,https://quantusinsights.org/f/split-nation-unready-party-the-strategic-drift-of-2025
@@ -217,22 +200,6 @@ Candidate,Polling,Pollster,Nationwide,State,Sample_Size,Voter_Type,DMY,Link
 "Cory Booker",7.00,"McLaughlin & Associates",1,NULL,439,"Likely Voters",2025-05-21,https://mclaughlinonline.com/pols/wp-content/uploads/2025/05/National-May-Presentation-RELEASE-05-27-25.pdf
 "J.B. Pritzker",2.00,"McLaughlin & Associates",1,NULL,439,"Likely Voters",2025-05-21,https://mclaughlinonline.com/pols/wp-content/uploads/2025/05/National-May-Presentation-RELEASE-05-27-25.pdf
 "Jasmine Crockett",2.00,"McLaughlin & Associates",1,NULL,439,"Likely Voters",2025-05-21,https://mclaughlinonline.com/pols/wp-content/uploads/2025/05/National-May-Presentation-RELEASE-05-27-25.pdf
-"Kamala Harris",16.60,"Atlas Intel",1,NULL,930,NULL,2025-05-22,https://cdn.atlasintel.org/20c89f8f-d65e-4991-a491-388ae96986c9.pdf
-"Cory Booker",10.40,"Atlas Intel",1,NULL,930,NULL,2025-05-22,https://cdn.atlasintel.org/20c89f8f-d65e-4991-a491-388ae96986c9.pdf
-"Pete Buttigieg",31.50,"Atlas Intel",1,NULL,930,NULL,2025-05-22,https://cdn.atlasintel.org/20c89f8f-d65e-4991-a491-388ae96986c9.pdf
-"Gavin Newsom",7.10,"Atlas Intel",1,NULL,930,NULL,2025-05-22,https://cdn.atlasintel.org/20c89f8f-d65e-4991-a491-388ae96986c9.pdf
-"Alexandria Ocasio-Cortez",19.40,"Atlas Intel",1,NULL,930,NULL,2025-05-22,https://cdn.atlasintel.org/20c89f8f-d65e-4991-a491-388ae96986c9.pdf
-"Gretchen Whitmer",3.70,"Atlas Intel",1,NULL,930,NULL,2025-05-22,https://cdn.atlasintel.org/20c89f8f-d65e-4991-a491-388ae96986c9.pdf
-"Josh Shapiro",4.80,"Atlas Intel",1,NULL,930,NULL,2025-05-22,https://cdn.atlasintel.org/20c89f8f-d65e-4991-a491-388ae96986c9.pdf
-"Raphael Warnock",1.40,"Atlas Intel",1,NULL,930,NULL,2025-05-22,https://cdn.atlasintel.org/20c89f8f-d65e-4991-a491-388ae96986c9.pdf
-"Kamala Harris",16.60,"Atlas Intel",1,NULL,930,NULL,2025-05-22,https://cdn.atlasintel.org/20c89f8f-d65e-4991-a491-388ae96986c9.pdf
-"Cory Booker",10.40,"Atlas Intel",1,NULL,930,NULL,2025-05-22,https://cdn.atlasintel.org/20c89f8f-d65e-4991-a491-388ae96986c9.pdf
-"Pete Buttigieg",31.50,"Atlas Intel",1,NULL,930,NULL,2025-05-22,https://cdn.atlasintel.org/20c89f8f-d65e-4991-a491-388ae96986c9.pdf
-"Gavin Newsom",7.10,"Atlas Intel",1,NULL,930,NULL,2025-05-22,https://cdn.atlasintel.org/20c89f8f-d65e-4991-a491-388ae96986c9.pdf
-"Alexandria Ocasio-Cortez",19.40,"Atlas Intel",1,NULL,930,NULL,2025-05-22,https://cdn.atlasintel.org/20c89f8f-d65e-4991-a491-388ae96986c9.pdf
-"Gretchen Whitmer",3.70,"Atlas Intel",1,NULL,930,NULL,2025-05-22,https://cdn.atlasintel.org/20c89f8f-d65e-4991-a491-388ae96986c9.pdf
-"Josh Shapiro",4.80,"Atlas Intel",1,NULL,930,NULL,2025-05-22,https://cdn.atlasintel.org/20c89f8f-d65e-4991-a491-388ae96986c9.pdf
-"Raphael Warnock",1.40,"Atlas Intel",1,NULL,930,NULL,2025-05-22,https://cdn.atlasintel.org/20c89f8f-d65e-4991-a491-388ae96986c9.pdf
 "Kamala Harris",15.30,"Capitol Weekly",NULL,California,1122,NULL,2025-05-30,https://capitolweekly.net/for-california-dems-will-the-past-be-prologue/
 "Gavin Newsom",17.20,"Capitol Weekly",NULL,California,1122,NULL,2025-05-30,https://capitolweekly.net/for-california-dems-will-the-past-be-prologue/
 "Pete Buttigieg",7.70,"Capitol Weekly",NULL,California,1122,NULL,2025-05-30,https://capitolweekly.net/for-california-dems-will-the-past-be-prologue/
@@ -253,17 +220,6 @@ Candidate,Polling,Pollster,Nationwide,State,Sample_Size,Voter_Type,DMY,Link
 "Gavin Newsom",12.00,"Victory Insights",NULL,Florida,600,NULL,2025-06-07,https://floridapolitics.com/archives/742956-excluding-undecideds-pete-buttigieg-leads-in-florida-dems-2028-poll/
 "Andy Beshear",5.00,"Victory Insights",NULL,Florida,600,NULL,2025-06-07,https://floridapolitics.com/archives/742956-excluding-undecideds-pete-buttigieg-leads-in-florida-dems-2028-poll/
 "Josh Shapiro",3.00,"Victory Insights",NULL,Florida,600,NULL,2025-06-07,https://floridapolitics.com/archives/742956-excluding-undecideds-pete-buttigieg-leads-in-florida-dems-2028-poll/
-"Kamala Harris",34.00,"Morning Consult",1,NULL,1000,"Registered Voters",2025-06-13,https://pro.morningconsult.com/analysis/2028-democratic-primary-gavin-newsom-polling-june-2025
-"Gavin Newsom",11.00,"Morning Consult",1,NULL,1000,"Registered Voters",2025-06-13,https://pro.morningconsult.com/analysis/2028-democratic-primary-gavin-newsom-polling-june-2025
-"Josh Shapiro",2.00,"Morning Consult",1,NULL,1000,"Registered Voters",2025-06-13,https://pro.morningconsult.com/analysis/2028-democratic-primary-gavin-newsom-polling-june-2025
-"Pete Buttigieg",7.00,"Morning Consult",1,NULL,1000,"Registered Voters",2025-06-13,https://pro.morningconsult.com/analysis/2028-democratic-primary-gavin-newsom-polling-june-2025
-"Gretchen Whitmer",2.00,"Morning Consult",1,NULL,1000,"Registered Voters",2025-06-13,https://pro.morningconsult.com/analysis/2028-democratic-primary-gavin-newsom-polling-june-2025
-"Tim Walz",4.00,"Morning Consult",1,NULL,1000,"Registered Voters",2025-06-13,https://pro.morningconsult.com/analysis/2028-democratic-primary-gavin-newsom-polling-june-2025
-"Alexandria Ocasio-Cortez",7.00,"Morning Consult",1,NULL,1000,"Registered Voters",2025-06-13,https://pro.morningconsult.com/analysis/2028-democratic-primary-gavin-newsom-polling-june-2025
-"Cory Booker",3.00,"Morning Consult",1,NULL,1000,"Registered Voters",2025-06-13,https://pro.morningconsult.com/analysis/2028-democratic-primary-gavin-newsom-polling-june-2025
-"Amy Klobuchar",2.00,"Morning Consult",1,NULL,1000,"Registered Voters",2025-06-13,https://pro.morningconsult.com/analysis/2028-democratic-primary-gavin-newsom-polling-june-2025
-"Andy Beshear",1.00,"Morning Consult",1,NULL,1000,"Registered Voters",2025-06-13,https://pro.morningconsult.com/analysis/2028-democratic-primary-gavin-newsom-polling-june-2025
-"J.B. Pritzker",2.00,"Morning Consult",1,NULL,1000,"Registered Voters",2025-06-13,https://pro.morningconsult.com/analysis/2028-democratic-primary-gavin-newsom-polling-june-2025
 "Kamala Harris",30.00,"McLaughlin & Associates",1,NULL,434,"Likely Voters",2025-06-10,https://mclaughlinonline.com/pols/wp-content/uploads/2025/06/National-June-Presentation-RELEASE-6-16-25.pdf
 "Pete Buttigieg",10.00,"McLaughlin & Associates",1,NULL,434,"Likely Voters",2025-06-10,https://mclaughlinonline.com/pols/wp-content/uploads/2025/06/National-June-Presentation-RELEASE-6-16-25.pdf
 "Gavin Newsom",8.00,"McLaughlin & Associates",1,NULL,434,"Likely Voters",2025-06-10,https://mclaughlinonline.com/pols/wp-content/uploads/2025/06/National-June-Presentation-RELEASE-6-16-25.pdf
@@ -282,17 +238,6 @@ Candidate,Polling,Pollster,Nationwide,State,Sample_Size,Voter_Type,DMY,Link
 "Alexandria Ocasio-Cortez",14.00,co/efficient,1,NULL,1035,"Likely Voters",2025-06-12,https://coefficient.org/national-ice-protests-study/
 "Tim Walz",10.00,co/efficient,1,NULL,1035,"Likely Voters",2025-06-12,https://coefficient.org/national-ice-protests-study/
 "Josh Shapiro",3.00,co/efficient,1,NULL,1035,"Likely Voters",2025-06-12,https://coefficient.org/national-ice-protests-study/
-"Kamala Harris",13.00,"Emerson College",1,NULL,404,"Registered Voters",2025-06-24,https://emersoncollegepolling.com/june-national-poll/
-"Gavin Newsom",12.00,"Emerson College",1,NULL,404,"Registered Voters",2025-06-24,https://emersoncollegepolling.com/june-national-poll/
-"Josh Shapiro",7.00,"Emerson College",1,NULL,404,"Registered Voters",2025-06-24,https://emersoncollegepolling.com/june-national-poll/
-"Gretchen Whitmer",3.00,"Emerson College",1,NULL,404,"Registered Voters",2025-06-24,https://emersoncollegepolling.com/june-national-poll/
-"Amy Klobuchar",1.00,"Emerson College",1,NULL,404,"Registered Voters",2025-06-24,https://emersoncollegepolling.com/june-national-poll/
-"Rahm Emanuel",1.00,"Emerson College",1,NULL,404,"Registered Voters",2025-06-24,https://emersoncollegepolling.com/june-national-poll/
-"Cory Booker",3.00,"Emerson College",1,NULL,404,"Registered Voters",2025-06-24,https://emersoncollegepolling.com/june-national-poll/
-"Pete Buttigieg",16.00,"Emerson College",1,NULL,404,"Registered Voters",2025-06-24,https://emersoncollegepolling.com/june-national-poll/
-"Andy Beshear",2.00,"Emerson College",1,NULL,404,"Registered Voters",2025-06-24,https://emersoncollegepolling.com/june-national-poll/
-"Alexandra Ocasio-Cortez",7.00,"Emerson College",1,NULL,404,"Registered Voters",2025-06-24,https://emersoncollegepolling.com/june-national-poll/
-"J.B. Pritzker",2.00,"Emerson College",1,NULL,404,"Registered Voters",2025-06-24,https://emersoncollegepolling.com/june-national-poll/
 "Kamala Harris",32.00,"Echelon Insights",1,NULL,471,"Likely Voters",2025-05-08,https://echeloninsights.com/in-the-news/may-2025-verified-voter-omnibus-2-2-2-2-2/
 "Gavin Newsom",5.00,"Echelon Insights",1,NULL,471,"Likely Voters",2025-05-08,https://echeloninsights.com/in-the-news/may-2025-verified-voter-omnibus-2-2-2-2-2/
 "Josh Shapiro",2.00,"Echelon Insights",1,NULL,471,"Likely Voters",2025-05-08,https://echeloninsights.com/in-the-news/may-2025-verified-voter-omnibus-2-2-2-2-2/
@@ -305,9 +250,7 @@ Candidate,Polling,Pollster,Nationwide,State,Sample_Size,Voter_Type,DMY,Link
 "Andy Beshear",1.00,"Echelon Insights",1,NULL,471,"Likely Voters",2025-05-08,https://echeloninsights.com/in-the-news/may-2025-verified-voter-omnibus-2-2-2-2-2/
 "Cory Booker",6.00,"Echelon Insights",1,NULL,471,"Likely Voters",2025-05-08,https://echeloninsights.com/in-the-news/may-2025-verified-voter-omnibus-2-2-2-2-2/
 "Raphael Warnock",1.00,"Echelon Insights",1,NULL,471,"Likely Voters",2025-05-08,https://echeloninsights.com/in-the-news/may-2025-verified-voter-omnibus-2-2-2-2-2/
-"Alexandria Ocasio-Cortez",2.00,"Emerson College",1,NULL,400,"Registered Voters",2024-11-20,https://emersoncollegepolling.com/november-2024-national-poll-trump-favorability-jumps-post-election-2028-election-kicks-off-with-harris-and-vance-leading-primaries/
 "Alexandria Ocasio-Cortez",7.00,"YouGov/The Times",1,NULL,1296,NULL,2025-04-22,https://d3nkl3psvxxpe9.cloudfront.net/documents/times_20250425.pdf
-"Alexandria Ocasio-Cortez",7.00,"Emerson College",1,NULL,404,"Registered Voters",2025-06-24,https://emersoncollegepolling.com/june-national-poll/
 "Gretchen Whitmer",3.00,"McLaughlin & Associates",1,NULL,428,"Likely Voters",2024-12-11,https://mclaughlinonline.com/pols/wp-content/uploads/2024/12/National-December-Presentation-RELEASE-12-17-24.pdf
 "Kamala Harris",38.00,"Overton Insights",1,NULL,396,"Registered Voters",2025-06-23,https://overtoninsights.com/wp-content/uploads/2025/07/July-2025-Poll.pdf
 "Gavin Newsom",10.00,"Overton Insights",1,NULL,396,"Registered Voters",2025-06-23,https://overtoninsights.com/wp-content/uploads/2025/07/July-2025-Poll.pdf
@@ -359,15 +302,177 @@ Candidate,Polling,Pollster,Nationwide,State,Sample_Size,Voter_Type,DMY,Link
 "Tim Walz",8.70,"Atlas Intel",1,NULL,1935,NULL,2025-07-13,https://atlasintel.org/poll/usa-national-2025-07-18
 "Rahm Emanuel",0.30,"Atlas Intel",1,NULL,1935,NULL,2025-07-13,https://atlasintel.org/poll/usa-national-2025-07-18
 "Raphael Warnock",0.50,"Atlas Intel",1,NULL,1935,NULL,2025-07-13,https://atlasintel.org/poll/usa-national-2025-07-18
+"Kamala Harris",24.00,"Atlas Intel",1,NULL,2347,NULL,2025-04-11,https://cdn.atlasintel.org/e3edc86b-aac7-4ebe-9ef7-6a8346f658f6.pdf?_gl=1*1po007n*_ga*NjMxOTI2NjYxLjE3NDQ5Mjc1MzM.*_ga_W78QD5CNP1*MTc0NDkyNzUzMy4xLjAuMTc0NDkyNzUzMy4wLjAuMA
+"Cory Booker",9.00,"Atlas Intel",1,NULL,2347,NULL,2025-04-11,https://cdn.atlasintel.org/e3edc86b-aac7-4ebe-9ef7-6a8346f658f6.pdf?_gl=1*1po007n*_ga*NjMxOTI2NjYxLjE3NDQ5Mjc1MzM.*_ga_W78QD5CNP1*MTc0NDkyNzUzMy4xLjAuMTc0NDkyNzUzMy4wLjAuMA
+"Pete Buttigieg",28.00,"Atlas Intel",1,NULL,2347,NULL,2025-04-11,https://cdn.atlasintel.org/e3edc86b-aac7-4ebe-9ef7-6a8346f658f6.pdf?_gl=1*1po007n*_ga*NjMxOTI2NjYxLjE3NDQ5Mjc1MzM.*_ga_W78QD5CNP1*MTc0NDkyNzUzMy4xLjAuMTc0NDkyNzUzMy4wLjAuMA
+"Gavin Newsom",7.00,"Atlas Intel",1,NULL,2347,NULL,2025-04-11,https://cdn.atlasintel.org/e3edc86b-aac7-4ebe-9ef7-6a8346f658f6.pdf?_gl=1*1po007n*_ga*NjMxOTI2NjYxLjE3NDQ5Mjc1MzM.*_ga_W78QD5CNP1*MTc0NDkyNzUzMy4xLjAuMTc0NDkyNzUzMy4wLjAuMA
+"Alexandria Ocasio-Cortez",16.00,"Atlas Intel",1,NULL,2347,NULL,2025-04-11,https://cdn.atlasintel.org/e3edc86b-aac7-4ebe-9ef7-6a8346f658f6.pdf?_gl=1*1po007n*_ga*NjMxOTI2NjYxLjE3NDQ5Mjc1MzM.*_ga_W78QD5CNP1*MTc0NDkyNzUzMy4xLjAuMTc0NDkyNzUzMy4wLjAuMA
+"Gretchen Whitmer",9.00,"Atlas Intel",1,NULL,2347,NULL,2025-04-11,https://cdn.atlasintel.org/e3edc86b-aac7-4ebe-9ef7-6a8346f658f6.pdf?_gl=1*1po007n*_ga*NjMxOTI2NjYxLjE3NDQ5Mjc1MzM.*_ga_W78QD5CNP1*MTc0NDkyNzUzMy4xLjAuMTc0NDkyNzUzMy4wLjAuMA
+"Andy Beshear",2.00,"Atlas Intel",1,NULL,2347,NULL,2025-04-11,https://cdn.atlasintel.org/e3edc86b-aac7-4ebe-9ef7-6a8346f658f6.pdf?_gl=1*1po007n*_ga*NjMxOTI2NjYxLjE3NDQ5Mjc1MzM.*_ga_W78QD5CNP1*MTc0NDkyNzUzMy4xLjAuMTc0NDkyNzUzMy4wLjAuMA
+"Chris Murphy",2.00,"Atlas Intel",1,NULL,2347,NULL,2025-04-11,https://cdn.atlasintel.org/e3edc86b-aac7-4ebe-9ef7-6a8346f658f6.pdf?_gl=1*1po007n*_ga*NjMxOTI2NjYxLjE3NDQ5Mjc1MzM.*_ga_W78QD5CNP1*MTc0NDkyNzUzMy4xLjAuMTc0NDkyNzUzMy4wLjAuMA
+"Raphael Warnock",2.00,"Atlas Intel",1,NULL,2347,NULL,2025-04-11,https://cdn.atlasintel.org/e3edc86b-aac7-4ebe-9ef7-6a8346f658f6.pdf?_gl=1*1po007n*_ga*NjMxOTI2NjYxLjE3NDQ5Mjc1MzM.*_ga_W78QD5CNP1*MTc0NDkyNzUzMy4xLjAuMTc0NDkyNzUzMy4wLjAuMA
 "Kamala Harris",12.00,"Emerson College",NULL,"North Carolina",445,"Likely Voters",2025-07-28,https://emersoncollegepolling.com/north-carolina-2026-poll-cooper-starts-us-senate-race-with-six-point-lead-and-clear-name-recognition-advantage-over-whatley/
 "Gavin Newsom",10.20,"Emerson College",NULL,"North Carolina",445,"Likely Voters",2025-07-28,https://emersoncollegepolling.com/north-carolina-2026-poll-cooper-starts-us-senate-race-with-six-point-lead-and-clear-name-recognition-advantage-over-whatley/
 "Josh Shapiro",3.20,"Emerson College",NULL,"North Carolina",445,"Likely Voters",2025-07-28,https://emersoncollegepolling.com/north-carolina-2026-poll-cooper-starts-us-senate-race-with-six-point-lead-and-clear-name-recognition-advantage-over-whatley/
 "Gretchen Whitmer",3.20,"Emerson College",NULL,"North Carolina",445,"Likely Voters",2025-07-28,https://emersoncollegepolling.com/north-carolina-2026-poll-cooper-starts-us-senate-race-with-six-point-lead-and-clear-name-recognition-advantage-over-whatley/
-"Amy Klobuchar",1.00,"Emerson College",NULL,"North Carolina",445,"Likely Voters",2025-07-28,https://emersoncollegepolling.com/north-carolina-2026-poll-cooper-starts-us-senate-race-with-six-point-lead-and-clear-name-recognition-advantage-over-whatley/
-"Rahm Emanuel",0.30,"Emerson College",NULL,"North Carolina",445,"Likely Voters",2025-07-28,https://emersoncollegepolling.com/north-carolina-2026-poll-cooper-starts-us-senate-race-with-six-point-lead-and-clear-name-recognition-advantage-over-whatley/
 "Cory Booker",5.20,"Emerson College",NULL,"North Carolina",445,"Likely Voters",2025-07-28,https://emersoncollegepolling.com/north-carolina-2026-poll-cooper-starts-us-senate-race-with-six-point-lead-and-clear-name-recognition-advantage-over-whatley/
 "Pete Buttigieg",16.80,"Emerson College",NULL,"North Carolina",445,"Likely Voters",2025-07-28,https://emersoncollegepolling.com/north-carolina-2026-poll-cooper-starts-us-senate-race-with-six-point-lead-and-clear-name-recognition-advantage-over-whatley/
-"Tim Walz",3.30,"Emerson College",NULL,"North Carolina",445,"Likely Voters",2025-07-28,https://emersoncollegepolling.com/north-carolina-2026-poll-cooper-starts-us-senate-race-with-six-point-lead-and-clear-name-recognition-advantage-over-whatley/
 "Andy Beshear",3.70,"Emerson College",NULL,"North Carolina",445,"Likely Voters",2025-07-28,https://emersoncollegepolling.com/north-carolina-2026-poll-cooper-starts-us-senate-race-with-six-point-lead-and-clear-name-recognition-advantage-over-whatley/
+"Tim Walz",3.30,"Emerson College",NULL,"North Carolina",445,"Likely Voters",2025-07-28,https://emersoncollegepolling.com/north-carolina-2026-poll-cooper-starts-us-senate-race-with-six-point-lead-and-clear-name-recognition-advantage-over-whatley/
+"Amy Klobuchar",1.00,"Emerson College",NULL,"North Carolina",445,"Likely Voters",2025-07-28,https://emersoncollegepolling.com/north-carolina-2026-poll-cooper-starts-us-senate-race-with-six-point-lead-and-clear-name-recognition-advantage-over-whatley/
+"Rahm Emanuel",0.30,"Emerson College",NULL,"North Carolina",445,"Likely Voters",2025-07-28,https://emersoncollegepolling.com/north-carolina-2026-poll-cooper-starts-us-senate-race-with-six-point-lead-and-clear-name-recognition-advantage-over-whatley/
 "Alexandria Ocasio-Cortez",4.10,"Emerson College",NULL,"North Carolina",445,"Likely Voters",2025-07-28,https://emersoncollegepolling.com/north-carolina-2026-poll-cooper-starts-us-senate-race-with-six-point-lead-and-clear-name-recognition-advantage-over-whatley/
 "J.B. Pritzker",2.70,"Emerson College",NULL,"North Carolina",445,"Likely Voters",2025-07-28,https://emersoncollegepolling.com/north-carolina-2026-poll-cooper-starts-us-senate-race-with-six-point-lead-and-clear-name-recognition-advantage-over-whatley/
+"Kamala Harris",13.00,"Emerson College",1,NULL,404,"Registered Voters",2025-06-24,https://emersoncollegepolling.com/june-national-poll/
+"Gavin Newsom",12.00,"Emerson College",1,NULL,404,"Registered Voters",2025-06-24,https://emersoncollegepolling.com/june-national-poll/
+"Josh Shapiro",7.00,"Emerson College",1,NULL,404,"Registered Voters",2025-06-24,https://emersoncollegepolling.com/june-national-poll/
+"Gretchen Whitmer",3.00,"Emerson College",1,NULL,404,"Registered Voters",2025-06-24,https://emersoncollegepolling.com/june-national-poll/
+"Cory Booker",3.00,"Emerson College",1,NULL,404,"Registered Voters",2025-06-24,https://emersoncollegepolling.com/june-national-poll/
+"Pete Buttigieg",16.00,"Emerson College",1,NULL,404,"Registered Voters",2025-06-24,https://emersoncollegepolling.com/june-national-poll/
+"Andy Beshear",2.00,"Emerson College",1,NULL,404,"Registered Voters",2025-06-24,https://emersoncollegepolling.com/june-national-poll/
+"Amy Klobuchar",1.00,"Emerson College",1,NULL,404,"Registered Voters",2025-06-24,https://emersoncollegepolling.com/june-national-poll/
+"Rahm Emanuel",1.00,"Emerson College",1,NULL,404,"Registered Voters",2025-06-24,https://emersoncollegepolling.com/june-national-poll/
+"Alexandria Ocasio-Cortez",7.00,"Emerson College",1,NULL,404,"Registered Voters",2025-06-24,https://emersoncollegepolling.com/june-national-poll/
+"J.B. Pritzker",2.00,"Emerson College",1,NULL,404,"Registered Voters",2025-06-24,https://emersoncollegepolling.com/june-national-poll/
+"Kamala Harris",11.00,"Emerson College",NULL,California,444,"Likely Voters",2025-08-04,https://emersoncollegepolling.com/california-2026-poll/
+"Gavin Newsom",23.10,"Emerson College",NULL,California,444,"Likely Voters",2025-08-04,https://emersoncollegepolling.com/california-2026-poll/
+"Josh Shapiro",4.40,"Emerson College",NULL,California,444,"Likely Voters",2025-08-04,https://emersoncollegepolling.com/california-2026-poll/
+"Gretchen Whitmer",1.60,"Emerson College",NULL,California,444,"Likely Voters",2025-08-04,https://emersoncollegepolling.com/california-2026-poll/
+"Cory Booker",2.70,"Emerson College",NULL,California,444,"Likely Voters",2025-08-04,https://emersoncollegepolling.com/california-2026-poll/
+"Pete Buttigieg",17.40,"Emerson College",NULL,California,444,"Likely Voters",2025-08-04,https://emersoncollegepolling.com/california-2026-poll/
+"Andy Beshear",4.80,"Emerson College",NULL,California,444,"Likely Voters",2025-08-04,https://emersoncollegepolling.com/california-2026-poll/
+"Tim Walz",2.30,"Emerson College",NULL,California,444,"Likely Voters",2025-08-04,https://emersoncollegepolling.com/california-2026-poll/
+"Amy Klobuchar",1.20,"Emerson College",NULL,California,444,"Likely Voters",2025-08-04,https://emersoncollegepolling.com/california-2026-poll/
+"Rahm Emanuel",0.80,"Emerson College",NULL,California,444,"Likely Voters",2025-08-04,https://emersoncollegepolling.com/california-2026-poll/
+"Alexandria Ocasio-Cortez",9.00,"Emerson College",NULL,California,444,"Likely Voters",2025-08-04,https://emersoncollegepolling.com/california-2026-poll/
+"Ro Khanna",0.60,"Emerson College",NULL,California,444,"Likely Voters",2025-08-04,https://emersoncollegepolling.com/california-2026-poll/
+"J.B. Pritzker",1.90,"Emerson College",NULL,California,444,"Likely Voters",2025-08-04,https://emersoncollegepolling.com/california-2026-poll/
+"Kamala Harris",16.80,"Emerson College",NULL,Texas,370,"Registered Voters",2025-08-11,https://emersoncollegepolling.com/texas-2026-poll-cornyn-and-paxton-in-dead-heat-for-gop-senate-nomination/
+"Gavin Newsom",19.50,"Emerson College",NULL,Texas,370,"Registered Voters",2025-08-11,https://emersoncollegepolling.com/texas-2026-poll-cornyn-and-paxton-in-dead-heat-for-gop-senate-nomination/
+"Josh Shapiro",1.40,"Emerson College",NULL,Texas,370,"Registered Voters",2025-08-11,https://emersoncollegepolling.com/texas-2026-poll-cornyn-and-paxton-in-dead-heat-for-gop-senate-nomination/
+"Gretchen Whitmer",1.60,"Emerson College",NULL,Texas,370,"Registered Voters",2025-08-11,https://emersoncollegepolling.com/texas-2026-poll-cornyn-and-paxton-in-dead-heat-for-gop-senate-nomination/
+"Cory Booker",3.50,"Emerson College",NULL,Texas,370,"Registered Voters",2025-08-11,https://emersoncollegepolling.com/texas-2026-poll-cornyn-and-paxton-in-dead-heat-for-gop-senate-nomination/
+"Pete Buttigieg",21.60,"Emerson College",NULL,Texas,370,"Registered Voters",2025-08-11,https://emersoncollegepolling.com/texas-2026-poll-cornyn-and-paxton-in-dead-heat-for-gop-senate-nomination/
+"Andy Beshear",1.30,"Emerson College",NULL,Texas,370,"Registered Voters",2025-08-11,https://emersoncollegepolling.com/texas-2026-poll-cornyn-and-paxton-in-dead-heat-for-gop-senate-nomination/
+"Tim Walz",3.50,"Emerson College",NULL,Texas,370,"Registered Voters",2025-08-11,https://emersoncollegepolling.com/texas-2026-poll-cornyn-and-paxton-in-dead-heat-for-gop-senate-nomination/
+"Amy Klobuchar",1.30,"Emerson College",NULL,Texas,370,"Registered Voters",2025-08-11,https://emersoncollegepolling.com/texas-2026-poll-cornyn-and-paxton-in-dead-heat-for-gop-senate-nomination/
+"Rahm Emanuel",0.30,"Emerson College",NULL,Texas,370,"Registered Voters",2025-08-11,https://emersoncollegepolling.com/texas-2026-poll-cornyn-and-paxton-in-dead-heat-for-gop-senate-nomination/
+"Alexandria Ocasio-Cortez",5.60,"Emerson College",NULL,Texas,370,"Registered Voters",2025-08-11,https://emersoncollegepolling.com/texas-2026-poll-cornyn-and-paxton-in-dead-heat-for-gop-senate-nomination/
+"Ro Khanna",0.10,"Emerson College",NULL,Texas,370,"Registered Voters",2025-08-11,https://emersoncollegepolling.com/texas-2026-poll-cornyn-and-paxton-in-dead-heat-for-gop-senate-nomination/
+"J.B. Pritzker",3.50,"Emerson College",NULL,Texas,370,"Registered Voters",2025-08-11,https://emersoncollegepolling.com/texas-2026-poll-cornyn-and-paxton-in-dead-heat-for-gop-senate-nomination/
+"Kamala Harris",26.00,"Echelon Insights",1,NULL,552,"Likely Voters",2025-08-12,https://echelonin.wpenginepowered.com/wp-content/uploads/August-2025-Voter-Omnibus-Topline-External.pdf
+"Gavin Newsom",13.00,"Echelon Insights",1,NULL,552,"Likely Voters",2025-08-12,https://echelonin.wpenginepowered.com/wp-content/uploads/August-2025-Voter-Omnibus-Topline-External.pdf
+"Josh Shapiro",3.00,"Echelon Insights",1,NULL,552,"Likely Voters",2025-08-12,https://echelonin.wpenginepowered.com/wp-content/uploads/August-2025-Voter-Omnibus-Topline-External.pdf
+"Gretchen Whitmer",3.00,"Echelon Insights",1,NULL,552,"Likely Voters",2025-08-12,https://echelonin.wpenginepowered.com/wp-content/uploads/August-2025-Voter-Omnibus-Topline-External.pdf
+"Pete Buttigieg",11.00,"Echelon Insights",1,NULL,552,"Likely Voters",2025-08-12,https://echelonin.wpenginepowered.com/wp-content/uploads/August-2025-Voter-Omnibus-Topline-External.pdf
+"Alexandria Ocasio-Cortez",6.00,"Echelon Insights",1,NULL,552,"Likely Voters",2025-08-12,https://echelonin.wpenginepowered.com/wp-content/uploads/August-2025-Voter-Omnibus-Topline-External.pdf
+"J.B. Pritzker",3.00,"Echelon Insights",1,NULL,552,"Likely Voters",2025-08-12,https://echelonin.wpenginepowered.com/wp-content/uploads/August-2025-Voter-Omnibus-Topline-External.pdf
+"Cory Booker",5.00,"Echelon Insights",1,NULL,552,"Likely Voters",2025-08-12,https://echelonin.wpenginepowered.com/wp-content/uploads/August-2025-Voter-Omnibus-Topline-External.pdf
+"Andy Beshear",2.00,"Echelon Insights",1,NULL,552,"Likely Voters",2025-08-12,https://echelonin.wpenginepowered.com/wp-content/uploads/August-2025-Voter-Omnibus-Topline-External.pdf
+"Jasmine Crockett",3.00,"Echelon Insights",1,NULL,552,"Likely Voters",2025-08-12,https://echelonin.wpenginepowered.com/wp-content/uploads/August-2025-Voter-Omnibus-Topline-External.pdf
+"Kamala Harris",6.80,"Emerson College",NULL,Ohio,383,"Likely Voters",2025-08-18,https://emersoncollegepolling.com/ohio-2026/
+"Gavin Newsom",20.00,"Emerson College",NULL,Ohio,383,"Likely Voters",2025-08-18,https://emersoncollegepolling.com/ohio-2026/
+"Josh Shapiro",2.80,"Emerson College",NULL,Ohio,383,"Likely Voters",2025-08-18,https://emersoncollegepolling.com/ohio-2026/
+"Gretchen Whitmer",1.40,"Emerson College",NULL,Ohio,383,"Likely Voters",2025-08-18,https://emersoncollegepolling.com/ohio-2026/
+"Cory Booker",2.70,"Emerson College",NULL,Ohio,383,"Likely Voters",2025-08-18,https://emersoncollegepolling.com/ohio-2026/
+"Pete Buttigieg",15.30,"Emerson College",NULL,Ohio,383,"Likely Voters",2025-08-18,https://emersoncollegepolling.com/ohio-2026/
+"Andy Beshear",4.30,"Emerson College",NULL,Ohio,383,"Likely Voters",2025-08-18,https://emersoncollegepolling.com/ohio-2026/
+"Tim Walz",7.10,"Emerson College",NULL,Ohio,383,"Likely Voters",2025-08-18,https://emersoncollegepolling.com/ohio-2026/
+"Amy Klobuchar",1.00,"Emerson College",NULL,Ohio,383,"Likely Voters",2025-08-18,https://emersoncollegepolling.com/ohio-2026/
+"Rahm Emanuel",1.40,"Emerson College",NULL,Ohio,383,"Likely Voters",2025-08-18,https://emersoncollegepolling.com/ohio-2026/
+"Alexandria Ocasio-Cortez",8.10,"Emerson College",NULL,Ohio,383,"Likely Voters",2025-08-18,https://emersoncollegepolling.com/ohio-2026/
+"Ro Khanna",0.20,"Emerson College",NULL,Ohio,383,"Likely Voters",2025-08-18,https://emersoncollegepolling.com/ohio-2026/
+"J.B. Pritzker",3.40,"Emerson College",NULL,Ohio,383,"Likely Voters",2025-08-18,https://emersoncollegepolling.com/ohio-2026/
+"Kamala Harris",11.40,"Emerson College",1,NULL,387,"Registered Voters",2025-08-25,https://emersoncollegepolling.com/august-2025-national/
+"Gavin Newsom",25.10,"Emerson College",1,NULL,387,"Registered Voters",2025-08-25,https://emersoncollegepolling.com/august-2025-national/
+"Josh Shapiro",5.30,"Emerson College",1,NULL,387,"Registered Voters",2025-08-25,https://emersoncollegepolling.com/august-2025-national/
+"Gretchen Whitmer",1.50,"Emerson College",1,NULL,387,"Registered Voters",2025-08-25,https://emersoncollegepolling.com/august-2025-national/
+"Cory Booker",2.30,"Emerson College",1,NULL,387,"Registered Voters",2025-08-25,https://emersoncollegepolling.com/august-2025-national/
+"Pete Buttigieg",16.00,"Emerson College",1,NULL,387,"Registered Voters",2025-08-25,https://emersoncollegepolling.com/august-2025-national/
+"Andy Beshear",2.00,"Emerson College",1,NULL,387,"Registered Voters",2025-08-25,https://emersoncollegepolling.com/august-2025-national/
+"Tim Walz",2.20,"Emerson College",1,NULL,387,"Registered Voters",2025-08-25,https://emersoncollegepolling.com/august-2025-national/
+"Amy Klobuchar",0.80,"Emerson College",1,NULL,387,"Registered Voters",2025-08-25,https://emersoncollegepolling.com/august-2025-national/
+"Rahm Emanuel",0.40,"Emerson College",1,NULL,387,"Registered Voters",2025-08-25,https://emersoncollegepolling.com/august-2025-national/
+"Ro Khanna",1.30,"Emerson College",1,NULL,387,"Registered Voters",2025-08-25,https://emersoncollegepolling.com/august-2025-national/
+"Alexandria Ocasio-Cortez",4.10,"Emerson College",1,NULL,387,"Registered Voters",2025-08-25,https://emersoncollegepolling.com/august-2025-national/
+"J.B. Pritzker",4.10,"Emerson College",1,NULL,387,"Registered Voters",2025-08-25,https://emersoncollegepolling.com/august-2025-national/
+"Kamala Harris",27.00,"McLaughlin & Associates",1,NULL,434,"Registered Voters",2025-08-21,https://mclaughlinonline.com/pols/wp-content/uploads/2025/09/National-August-Presentation-RELEASE-8-27-25.pdf
+"Cory Booker",3.00,"McLaughlin & Associates",1,NULL,434,"Registered Voters",2025-08-21,https://mclaughlinonline.com/pols/wp-content/uploads/2025/09/National-August-Presentation-RELEASE-8-27-25.pdf
+"Pete Buttigieg",9.00,"McLaughlin & Associates",1,NULL,434,"Registered Voters",2025-08-21,https://mclaughlinonline.com/pols/wp-content/uploads/2025/09/National-August-Presentation-RELEASE-8-27-25.pdf
+"Gavin Newsom",18.00,"McLaughlin & Associates",1,NULL,434,"Registered Voters",2025-08-21,https://mclaughlinonline.com/pols/wp-content/uploads/2025/09/National-August-Presentation-RELEASE-8-27-25.pdf
+"Alexandria Ocasio-Cortez",4.00,"McLaughlin & Associates",1,NULL,434,"Registered Voters",2025-08-21,https://mclaughlinonline.com/pols/wp-content/uploads/2025/09/National-August-Presentation-RELEASE-8-27-25.pdf
+"Josh Shapiro",3.00,"McLaughlin & Associates",1,NULL,434,"Registered Voters",2025-08-21,https://mclaughlinonline.com/pols/wp-content/uploads/2025/09/National-August-Presentation-RELEASE-8-27-25.pdf
+"Tim Walz",2.00,"McLaughlin & Associates",1,NULL,434,"Registered Voters",2025-08-21,https://mclaughlinonline.com/pols/wp-content/uploads/2025/09/National-August-Presentation-RELEASE-8-27-25.pdf
+"Amy Klobuchar",1.00,"McLaughlin & Associates",1,NULL,434,"Registered Voters",2025-08-21,https://mclaughlinonline.com/pols/wp-content/uploads/2025/09/National-August-Presentation-RELEASE-8-27-25.pdf
+"Gretchen Whitmer",2.00,"McLaughlin & Associates",1,NULL,434,"Registered Voters",2025-08-21,https://mclaughlinonline.com/pols/wp-content/uploads/2025/09/National-August-Presentation-RELEASE-8-27-25.pdf
+"J.B. Pritzker",2.00,"McLaughlin & Associates",1,NULL,434,"Registered Voters",2025-08-21,https://mclaughlinonline.com/pols/wp-content/uploads/2025/09/National-August-Presentation-RELEASE-8-27-25.pdf
+"Jasmine Crockett",3.00,"McLaughlin & Associates",1,NULL,434,"Registered Voters",2025-08-21,https://mclaughlinonline.com/pols/wp-content/uploads/2025/09/National-August-Presentation-RELEASE-8-27-25.pdf
+"Stephen A. Smith",1.00,"McLaughlin & Associates",1,NULL,434,"Registered Voters",2025-08-21,https://mclaughlinonline.com/pols/wp-content/uploads/2025/09/National-August-Presentation-RELEASE-8-27-25.pdf
+"Phil Murphy",1.00,"McLaughlin & Associates",1,NULL,434,"Registered Voters",2025-08-21,https://mclaughlinonline.com/pols/wp-content/uploads/2025/09/National-August-Presentation-RELEASE-8-27-25.pdf
+"Jared Polis",1.00,"McLaughlin & Associates",1,NULL,434,"Registered Voters",2025-08-21,https://mclaughlinonline.com/pols/wp-content/uploads/2025/09/National-August-Presentation-RELEASE-8-27-25.pdf
+"Rahm Emanuel",1.00,"McLaughlin & Associates",1,NULL,434,"Registered Voters",2025-08-21,https://mclaughlinonline.com/pols/wp-content/uploads/2025/09/National-August-Presentation-RELEASE-8-27-25.pdf
+"Roy Cooper",1.00,"McLaughlin & Associates",1,NULL,434,"Registered Voters",2025-08-21,https://mclaughlinonline.com/pols/wp-content/uploads/2025/09/National-August-Presentation-RELEASE-8-27-25.pdf
+"Kamala Harris",30.00,Leger360,1,NULL,328,"Likely Voters",2025-08-30,https://leger360.com/wp-content/uploads/2025/09/Leger_Can_US-Relations_Aug2025.pdf
+"Gavin Newsom",24.00,Leger360,1,NULL,328,"Likely Voters",2025-08-30,https://leger360.com/wp-content/uploads/2025/09/Leger_Can_US-Relations_Aug2025.pdf
+"Josh Shapiro",2.00,Leger360,1,NULL,328,"Likely Voters",2025-08-30,https://leger360.com/wp-content/uploads/2025/09/Leger_Can_US-Relations_Aug2025.pdf
+"Gretchen Whitmer",2.00,Leger360,1,NULL,328,"Likely Voters",2025-08-30,https://leger360.com/wp-content/uploads/2025/09/Leger_Can_US-Relations_Aug2025.pdf
+"Alexandria Ocasio-Cortez",10.00,Leger360,1,NULL,328,"Likely Voters",2025-08-30,https://leger360.com/wp-content/uploads/2025/09/Leger_Can_US-Relations_Aug2025.pdf
+"J.B. Pritzker",4.00,Leger360,1,NULL,328,"Likely Voters",2025-08-30,https://leger360.com/wp-content/uploads/2025/09/Leger_Can_US-Relations_Aug2025.pdf
+"Kamala Harris",6.00,"Saint Anselm",NULL,"New Hampshire",1776,"Registered Voters",2025-08-26,https://www.anselm.edu/about/anselmian-hub/news/new-saint-anselm-college-survey-center-poll-reveals-shifting-political-landscape-ahead-2028-primary
+"Gavin Newsom",23.00,"Saint Anselm",NULL,"New Hampshire",1776,"Registered Voters",2025-08-26,https://www.anselm.edu/about/anselmian-hub/news/new-saint-anselm-college-survey-center-poll-reveals-shifting-political-landscape-ahead-2028-primary
+"Josh Shapiro",3.00,"Saint Anselm",NULL,"New Hampshire",1776,"Registered Voters",2025-08-26,https://www.anselm.edu/about/anselmian-hub/news/new-saint-anselm-college-survey-center-poll-reveals-shifting-political-landscape-ahead-2028-primary
+"Gretchen Whitmer",2.00,"Saint Anselm",NULL,"New Hampshire",1776,"Registered Voters",2025-08-26,https://www.anselm.edu/about/anselmian-hub/news/new-saint-anselm-college-survey-center-poll-reveals-shifting-political-landscape-ahead-2028-primary
+"Cory Booker",5.00,"Saint Anselm",NULL,"New Hampshire",1776,"Registered Voters",2025-08-26,https://www.anselm.edu/about/anselmian-hub/news/new-saint-anselm-college-survey-center-poll-reveals-shifting-political-landscape-ahead-2028-primary
+"Pete Buttigieg",23.00,"Saint Anselm",NULL,"New Hampshire",1776,"Registered Voters",2025-08-26,https://www.anselm.edu/about/anselmian-hub/news/new-saint-anselm-college-survey-center-poll-reveals-shifting-political-landscape-ahead-2028-primary
+"Amy Klobuchar",3.00,"Saint Anselm",NULL,"New Hampshire",1776,"Registered Voters",2025-08-26,https://www.anselm.edu/about/anselmian-hub/news/new-saint-anselm-college-survey-center-poll-reveals-shifting-political-landscape-ahead-2028-primary
+"Alexandria Ocasio-Cortez",7.00,"Saint Anselm",NULL,"New Hampshire",1776,"Registered Voters",2025-08-26,https://www.anselm.edu/about/anselmian-hub/news/new-saint-anselm-college-survey-center-poll-reveals-shifting-political-landscape-ahead-2028-primary
+"J.B. Pritzker",9.00,"Saint Anselm",NULL,"New Hampshire",1776,"Registered Voters",2025-08-26,https://www.anselm.edu/about/anselmian-hub/news/new-saint-anselm-college-survey-center-poll-reveals-shifting-political-landscape-ahead-2028-primary
+"Kamala Harris",21.00,"Morning Consult",1,NULL,3997,"Registered Voters",2024-05-28,https://www.politico.com/f/?id=0000018f-f8f8-d844-a1ff-fffed00f0000
+"Gavin Newsom",10.00,"Morning Consult",1,NULL,3997,"Registered Voters",2024-05-28,https://www.politico.com/f/?id=0000018f-f8f8-d844-a1ff-fffed00f0000
+"Josh Shapiro",3.00,"Morning Consult",1,NULL,3997,"Registered Voters",2024-05-28,https://www.politico.com/f/?id=0000018f-f8f8-d844-a1ff-fffed00f0000
+"Gretchen Whitmer",4.00,"Morning Consult",1,NULL,3997,"Registered Voters",2024-05-28,https://www.politico.com/f/?id=0000018f-f8f8-d844-a1ff-fffed00f0000
+"Mark Kelly",4.00,"Morning Consult",1,NULL,3997,"Registered Voters",2024-05-28,https://www.politico.com/f/?id=0000018f-f8f8-d844-a1ff-fffed00f0000
+"Pete Buttigieg",10.00,"Morning Consult",1,NULL,3997,"Registered Voters",2024-05-28,https://www.politico.com/f/?id=0000018f-f8f8-d844-a1ff-fffed00f0000
+"Kamala Harris",19.00,Politico,NULL,California,1445,"Registered Voters",2025-07-28,https://www.politico.com/f/?id=00000198-c46f-da96-abff-d66f4c1e0000
+"Gavin Newsom",25.00,Politico,NULL,California,1445,"Registered Voters",2025-07-28,https://www.politico.com/f/?id=00000198-c46f-da96-abff-d66f4c1e0000
+"Josh Shapiro",3.00,Politico,NULL,California,1445,"Registered Voters",2025-07-28,https://www.politico.com/f/?id=00000198-c46f-da96-abff-d66f4c1e0000
+"Gretchen Whitmer",3.00,Politico,NULL,California,1445,"Registered Voters",2025-07-28,https://www.politico.com/f/?id=00000198-c46f-da96-abff-d66f4c1e0000
+"Amy Klobuchar",2.00,Politico,NULL,California,1445,"Registered Voters",2025-07-28,https://www.politico.com/f/?id=00000198-c46f-da96-abff-d66f4c1e0000
+"Cory Booker",4.00,Politico,NULL,California,1445,"Registered Voters",2025-07-28,https://www.politico.com/f/?id=00000198-c46f-da96-abff-d66f4c1e0000
+"Alexandria Ocasio-Cortez",10.00,Politico,NULL,California,1445,"Registered Voters",2025-07-28,https://www.politico.com/f/?id=00000198-c46f-da96-abff-d66f4c1e0000
+"Pete Buttigieg",13.00,Politico,NULL,California,1445,"Registered Voters",2025-07-28,https://www.politico.com/f/?id=00000198-c46f-da96-abff-d66f4c1e0000
+"Kamala Harris",29.00,"Morning Consult",1,NULL,NULL,"Registered Voters",2025-08-22,https://pro.morningconsult.com/analysis/democratic-primary-polling-august-2025
+"Gavin Newsom",19.00,"Morning Consult",1,NULL,NULL,"Registered Voters",2025-08-22,https://pro.morningconsult.com/analysis/democratic-primary-polling-august-2025
+"Alexandria Ocasio-Cortez",6.00,"Morning Consult",1,NULL,NULL,"Registered Voters",2025-08-22,https://pro.morningconsult.com/analysis/democratic-primary-polling-august-2025
+"Pete Buttigieg",9.00,"Morning Consult",1,NULL,NULL,"Registered Voters",2025-08-22,https://pro.morningconsult.com/analysis/democratic-primary-polling-august-2025
+"Kamala Harris",19.00,YouGov/Yahoo,1,NULL,1690,NULL,2025-08-29,https://www.yahoo.com/news/politics/article/poll-gavin-newsom-leads-2028-democratic-primary-field-edges-out-trump-in-head-to-head-matchup-180307176.html
+"Gavin Newsom",21.00,YouGov/Yahoo,1,NULL,1690,NULL,2025-08-29,https://www.yahoo.com/news/politics/article/poll-gavin-newsom-leads-2028-democratic-primary-field-edges-out-trump-in-head-to-head-matchup-180307176.html
+"Josh Shapiro",4.00,YouGov/Yahoo,1,NULL,1690,NULL,2025-08-29,https://www.yahoo.com/news/politics/article/poll-gavin-newsom-leads-2028-democratic-primary-field-edges-out-trump-in-head-to-head-matchup-180307176.html
+"Tim Walz",4.00,YouGov/Yahoo,1,NULL,1690,NULL,2025-08-29,https://www.yahoo.com/news/politics/article/poll-gavin-newsom-leads-2028-democratic-primary-field-edges-out-trump-in-head-to-head-matchup-180307176.html
+"Gretchen Whitmer",2.00,YouGov/Yahoo,1,NULL,1690,NULL,2025-08-29,https://www.yahoo.com/news/politics/article/poll-gavin-newsom-leads-2028-democratic-primary-field-edges-out-trump-in-head-to-head-matchup-180307176.html
+"J.B. Pritzker",7.00,YouGov/Yahoo,1,NULL,1690,NULL,2025-08-29,https://www.yahoo.com/news/politics/article/poll-gavin-newsom-leads-2028-democratic-primary-field-edges-out-trump-in-head-to-head-matchup-180307176.html
+"Alexandria Ocasio-Cortez",12.00,YouGov/Yahoo,1,NULL,1690,NULL,2025-08-29,https://www.yahoo.com/news/politics/article/poll-gavin-newsom-leads-2028-democratic-primary-field-edges-out-trump-in-head-to-head-matchup-180307176.html
+"Pete Buttigieg",10.00,YouGov/Yahoo,1,NULL,1690,NULL,2025-08-29,https://www.yahoo.com/news/politics/article/poll-gavin-newsom-leads-2028-democratic-primary-field-edges-out-trump-in-head-to-head-matchup-180307176.html
+"Kamala Harris",16.60,"Atlas Intel",1,NULL,930,NULL,2025-05-22,https://cdn.atlasintel.org/20c89f8f-d65e-4991-a491-388ae96986c9.pdf
+"Cory Booker",10.40,"Atlas Intel",1,NULL,930,NULL,2025-05-22,https://cdn.atlasintel.org/20c89f8f-d65e-4991-a491-388ae96986c9.pdf
+"Pete Buttigieg",31.50,"Atlas Intel",1,NULL,930,NULL,2025-05-22,https://cdn.atlasintel.org/20c89f8f-d65e-4991-a491-388ae96986c9.pdf
+"Gavin Newsom",7.10,"Atlas Intel",1,NULL,930,NULL,2025-05-22,https://cdn.atlasintel.org/20c89f8f-d65e-4991-a491-388ae96986c9.pdf
+"Alexandria Ocasio-Cortez",19.40,"Atlas Intel",1,NULL,930,NULL,2025-05-22,https://cdn.atlasintel.org/20c89f8f-d65e-4991-a491-388ae96986c9.pdf
+"Gretchen Whitmer",3.70,"Atlas Intel",1,NULL,930,NULL,2025-05-22,https://cdn.atlasintel.org/20c89f8f-d65e-4991-a491-388ae96986c9.pdf
+"Josh Shapiro",4.80,"Atlas Intel",1,NULL,930,NULL,2025-05-22,https://cdn.atlasintel.org/20c89f8f-d65e-4991-a491-388ae96986c9.pdf
+"Raphael Warnock",1.40,"Atlas Intel",1,NULL,930,NULL,2025-05-22,https://cdn.atlasintel.org/20c89f8f-d65e-4991-a491-388ae96986c9.pdf
+"Pete Buttigieg",8.00,Leger360,1,NULL,328,"Likely Voters",2025-08-30,https://leger360.com/wp-content/uploads/2025/09/Leger_Can_US-Relations_Aug2025.pdf
+"Pete Buttigieg",10.00,"Echelon Insights",1,NULL,457,"Likely Voters",2025-03-10,https://echeloninsights.com/in-the-news/march-2025-verified-voter-omnibus-2-2-2/
+"Kamala Harris",34.00,"Morning Consult",1,NULL,1000,"Registered Voters",2025-06-13,https://pro.morningconsult.com/analysis/2028-democratic-primary-gavin-newsom-polling-june-2025
+"Gavin Newsom",11.00,"Morning Consult",1,NULL,1000,"Registered Voters",2025-06-13,https://pro.morningconsult.com/analysis/2028-democratic-primary-gavin-newsom-polling-june-2025
+"Josh Shapiro",2.00,"Morning Consult",1,NULL,1000,"Registered Voters",2025-06-13,https://pro.morningconsult.com/analysis/2028-democratic-primary-gavin-newsom-polling-june-2025
+"Tim Walz",4.00,"Morning Consult",1,NULL,1000,"Registered Voters",2025-06-13,https://pro.morningconsult.com/analysis/2028-democratic-primary-gavin-newsom-polling-june-2025
+"Gretchen Whitmer",2.00,"Morning Consult",1,NULL,1000,"Registered Voters",2025-06-13,https://pro.morningconsult.com/analysis/2028-democratic-primary-gavin-newsom-polling-june-2025
+"Andy Beshear",1.00,"Morning Consult",1,NULL,1000,"Registered Voters",2025-06-13,https://pro.morningconsult.com/analysis/2028-democratic-primary-gavin-newsom-polling-june-2025
+"Amy Klobuchar",2.00,"Morning Consult",1,NULL,1000,"Registered Voters",2025-06-13,https://pro.morningconsult.com/analysis/2028-democratic-primary-gavin-newsom-polling-june-2025
+"Cory Booker",3.00,"Morning Consult",1,NULL,1000,"Registered Voters",2025-06-13,https://pro.morningconsult.com/analysis/2028-democratic-primary-gavin-newsom-polling-june-2025
+"J.B. Pritzker",2.00,"Morning Consult",1,NULL,1000,"Registered Voters",2025-06-13,https://pro.morningconsult.com/analysis/2028-democratic-primary-gavin-newsom-polling-june-2025
+"Alexandria Ocasio-Cortez",7.00,"Morning Consult",1,NULL,1000,"Registered Voters",2025-06-13,https://pro.morningconsult.com/analysis/2028-democratic-primary-gavin-newsom-polling-june-2025
+"Pete Buttigieg",7.00,"Morning Consult",1,NULL,1000,"Registered Voters",2025-06-13,https://pro.morningconsult.com/analysis/2028-democratic-primary-gavin-newsom-polling-june-2025
+"Alexandria Ocasio-Cortez",7.00,"Echelon Insights",1,NULL,457,"Likely Voters",2025-03-10,https://echeloninsights.com/in-the-news/march-2025-verified-voter-omnibus-2-2-2/
+"Tim Walz",5.00,"McLaughlin & Associates",1,NULL,428,"Likely Voters",2024-12-11,https://mclaughlinonline.com/pols/wp-content/uploads/2024/12/National-December-Presentation-RELEASE-12-17-24.pdf

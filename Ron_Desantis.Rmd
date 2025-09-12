@@ -4,7 +4,7 @@ source("Main.R")
 
 ```{r}
 ron_desantis_data<-republican_party_primary_polling|>filter(Candidate=="Ron Desantis")|>mutate(Poll_Boundary=ifelse(State=="NULL","Nationwide",State))
-print(ron_desantis_data)
+head(ron_desantis_data)
 ```
 ```{r}
 

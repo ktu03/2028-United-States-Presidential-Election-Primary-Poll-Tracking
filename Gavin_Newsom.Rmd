@@ -4,7 +4,7 @@ source("Main.R")
 
 ```{r}
 gavin_newsom_data <- democratic_party_primary_polling|>filter(Candidate=="Gavin Newsom")|>mutate(Poll_Boundary = ifelse (State=="NULL","Nationwide",State))
-gavin_newsom_data
+head(gavin_newsom_data)
 ```
 
 ```{r, fig.width=10}

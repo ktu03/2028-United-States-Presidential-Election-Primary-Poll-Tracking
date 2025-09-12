@@ -4,7 +4,7 @@ source("Main.R")
 
 ```{r}
 tim_walz_data<-democratic_party_primary_polling|>filter(Candidate=="Tim Walz")|>mutate(Poll_Boundary=ifelse(State=="NULL","Nationwide",State))
-print(tim_walz_data)
+head(tim_walz_data)
 ```
 
 ```{r, fig.width=10}

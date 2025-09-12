@@ -4,7 +4,7 @@ source("Main.R")
 
 ```{r}
 gretchen_whitmer_data<-democratic_party_primary_polling|>filter(Candidate=="Gretchen Whitmer")|>mutate(Poll_Boundary=ifelse(State=="NULL","Nationwide",State))
-print(gretchen_whitmer_data)
+head(gretchen_whitmer_data)
 ```
 
 ```{r, fig.width=10}
