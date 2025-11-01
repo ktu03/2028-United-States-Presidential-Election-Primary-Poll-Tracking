@@ -4,7 +4,7 @@ source("Main.R")
 
 ```{r}
 jd_vance_data <- republican_party_primary_polling|> filter(Candidate=="J.D. Vance") |> mutate(Poll_Boundary=ifelse(State=="NULL", "Nationwide",State))
-(jd_vance_data)
+print(jd_vance_data)
 ```
 
 

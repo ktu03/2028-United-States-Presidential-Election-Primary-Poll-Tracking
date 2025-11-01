@@ -4,7 +4,7 @@ source("Main.R")
 
 ```{r}
 cory_booker_data<-democratic_party_primary_polling|>filter(Candidate=="Cory Booker")|>mutate(Poll_Boundary=ifelse(State=="NULL","Nationwide",State))
-print(cory_booker_data)
+head(cory_booker_data)
 ```
 
 ```{r}

@@ -14,3 +14,4 @@ Values ('Kamala Harris',34, 'Morning Consult',TRUE	,1000,'Registered Voters','20
 ('J.B. Pritzker',2, 'Morning Consult',TRUE	,1000,'Registered Voters','2025-06-13','https://pro.morningconsult.com/analysis/2028-democratic-primary-gavin-newsom-polling-june-2025'),
 ('Alexandria Ocasio-Cortez',7, 'Morning Consult',TRUE	,1000,'Registered Voters','2025-06-13','https://pro.morningconsult.com/analysis/2028-democratic-primary-gavin-newsom-polling-june-2025'),
 ('Pete Buttigieg',7, 'Morning Consult',TRUE	,1000,'Registered Voters','2025-06-13','https://pro.morningconsult.com/analysis/2028-democratic-primary-gavin-newsom-polling-june-2025');
+

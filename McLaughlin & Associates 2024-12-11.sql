@@ -26,7 +26,10 @@ Values ('Kamala Harris',35, 'McLaughlin & Associates',TRUE	,428, 'Likely Voters'
 ('Josh Shapiro',5, 'McLaughlin & Associates',TRUE	,428, 'Likely Voters','2024-12-11','https://mclaughlinonline.com/pols/wp-content/uploads/2024/12/National-December-Presentation-RELEASE-12-17-24.pdf'),
 ('Alexandria Ocasio-Cortez',3, 'McLaughlin & Associates',TRUE	,428, 'Likely Voters','2024-12-11','https://mclaughlinonline.com/pols/wp-content/uploads/2024/12/National-December-Presentation-RELEASE-12-17-24.pdf'),
 ('J.B. Pritzker',3, 'McLaughlin & Associates',TRUE	,428, 'Likely Voters','2024-12-11','https://mclaughlinonline.com/pols/wp-content/uploads/2024/12/National-December-Presentation-RELEASE-12-17-24.pdf'),
+('Tim Walz',5, 'McLaughlin & Associates',TRUE	,428, 'Likely Voters','2024-12-11','https://mclaughlinonline.com/pols/wp-content/uploads/2024/12/National-December-Presentation-RELEASE-12-17-24.pdf'),
 ('Beto O\'Rourke',1, 'McLaughlin & Associates',TRUE	,428, 'Likely Voters','2024-12-11','https://mclaughlinonline.com/pols/wp-content/uploads/2024/12/National-December-Presentation-RELEASE-12-17-24.pdf'),
 ('Gretchen Whitmer',3, 'McLaughlin & Associates',TRUE	,428, 'Likely Voters','2024-12-11','https://mclaughlinonline.com/pols/wp-content/uploads/2024/12/National-December-Presentation-RELEASE-12-17-24.pdf'),
 ('Cory Booker',2, 'McLaughlin & Associates',TRUE	,428, 'Likely Voters','2024-12-11','https://mclaughlinonline.com/pols/wp-content/uploads/2024/12/National-December-Presentation-RELEASE-12-17-24.pdf'),
 ('Amy Klobuchar',1, 'McLaughlin & Associates',TRUE	,428, 'Likely Voters','2024-12-11','https://mclaughlinonline.com/pols/wp-content/uploads/2024/12/National-December-Presentation-RELEASE-12-17-24.pdf');
+
+
