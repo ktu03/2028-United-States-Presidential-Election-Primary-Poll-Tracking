@@ -5,7 +5,7 @@ account: ktu03
 server: shinyapps.io
 hostUrl: https://api.shinyapps.io/v1
 appId: 14913846
-bundleId:
+bundleId: 11353993
 url: https://ktu03.shinyapps.io/2028jj/
 version: 1
 asMultiple: FALSE

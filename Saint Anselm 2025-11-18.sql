@@ -1,0 +1,25 @@
+## Saint Anselm 2025-11-18
+
+USE `2028 United States Presidential Election`;
+
+INSERT INTO `Republican_Party_Primary_Polling` (Candidate, Polling, Pollster, State, Sample_Size, Voter_Type, DMY, Link)
+Values ('J.D. Vance',57, 'Saint Anselm','New Hampshire'	,1000, 'Likely Voters','2025-11-18','https://www.anselm.edu/about/anselmian-hub/news/new-poll-saint-anselm-college-survey-shows-declining-optimism-democracy-dominant-issue-and-early-partisan-divides-ahead-2026'),
+('Nikki Haley',4, 'Saint Anselm','New Hampshire'	,1000, 'Likely Voters','2025-11-18','https://www.anselm.edu/about/anselmian-hub/news/new-poll-saint-anselm-college-survey-shows-declining-optimism-democracy-dominant-issue-and-early-partisan-divides-ahead-2026'),
+('Vivek Ramaswamy',4, 'Saint Anselm','New Hampshire'	,1000, 'Likely Voters','2025-11-18','https://www.anselm.edu/about/anselmian-hub/news/new-poll-saint-anselm-college-survey-shows-declining-optimism-democracy-dominant-issue-and-early-partisan-divides-ahead-2026'),
+('Marco Rubio',9, 'Saint Anselm','New Hampshire'	,1000, 'Likely Voters','2025-11-18','https://www.anselm.edu/about/anselmian-hub/news/new-poll-saint-anselm-college-survey-shows-declining-optimism-democracy-dominant-issue-and-early-partisan-divides-ahead-2026'),
+('Ted Cruz',1, 'Saint Anselm','New Hampshire'	,1000, 'Likely Voters','2025-11-18','https://www.anselm.edu/about/anselmian-hub/news/new-poll-saint-anselm-college-survey-shows-declining-optimism-democracy-dominant-issue-and-early-partisan-divides-ahead-2026'),
+('Glenn Youngkin',1, 'Saint Anselm','New Hampshire'	,1000, 'Likely Voters','2025-11-18','https://www.anselm.edu/about/anselmian-hub/news/new-poll-saint-anselm-college-survey-shows-declining-optimism-democracy-dominant-issue-and-early-partisan-divides-ahead-2026'),
+('Ron Desantis',7, 'Saint Anselm','New Hampshire'	,1000, 'Likely Voters','2025-11-18','https://www.anselm.edu/about/anselmian-hub/news/new-poll-saint-anselm-college-survey-shows-declining-optimism-democracy-dominant-issue-and-early-partisan-divides-ahead-2026'),
+('Tulsi Gabbard',4, 'Saint Anselm','New Hampshire'	,1000, 'Likely Voters','2025-11-18','https://www.anselm.edu/about/anselmian-hub/news/new-poll-saint-anselm-college-survey-shows-declining-optimism-democracy-dominant-issue-and-early-partisan-divides-ahead-2026');
+
+INSERT INTO `Democratic_Party_Primary_Polling` (Candidate, Polling, Pollster, State, Sample_Size, Voter_Type, DMY, Link)
+Values ('Kamala Harris',6, 'Saint Anselm','New Hampshire'	,1015, 'Likely Voters','2025-11-18','https://www.anselm.edu/about/anselmian-hub/news/new-poll-saint-anselm-college-survey-shows-declining-optimism-democracy-dominant-issue-and-early-partisan-divides-ahead-2026'),
+('Gavin Newsom',24, 'Saint Anselm','New Hampshire'	,1015, 'Likely Voters','2025-11-18','https://www.anselm.edu/about/anselmian-hub/news/new-poll-saint-anselm-college-survey-shows-declining-optimism-democracy-dominant-issue-and-early-partisan-divides-ahead-2026'),
+('Josh Shapiro',3, 'Saint Anselm','New Hampshire'	,1015, 'Likely Voters','2025-11-18','https://www.anselm.edu/about/anselmian-hub/news/new-poll-saint-anselm-college-survey-shows-declining-optimism-democracy-dominant-issue-and-early-partisan-divides-ahead-2026'),
+('Chris Murphy',1, 'Saint Anselm','New Hampshire'	,1015, 'Likely Voters','2025-11-18','https://www.anselm.edu/about/anselmian-hub/news/new-poll-saint-anselm-college-survey-shows-declining-optimism-democracy-dominant-issue-and-early-partisan-divides-ahead-2026'),
+('Gretchen Whitmer',2, 'Saint Anselm','New Hampshire'	,1015, 'Likely Voters','2025-11-18','https://www.anselm.edu/about/anselmian-hub/news/new-poll-saint-anselm-college-survey-shows-declining-optimism-democracy-dominant-issue-and-early-partisan-divides-ahead-2026'),
+('Cory Booker',4, 'Saint Anselm','New Hampshire'	,1015, 'Likely Voters','2025-11-18','https://www.anselm.edu/about/anselmian-hub/news/new-poll-saint-anselm-college-survey-shows-declining-optimism-democracy-dominant-issue-and-early-partisan-divides-ahead-2026'),
+('Pete Buttigieg',28, 'Saint Anselm','New Hampshire'	,1015, 'Likely Voters','2025-11-18','https://www.anselm.edu/about/anselmian-hub/news/new-poll-saint-anselm-college-survey-shows-declining-optimism-democracy-dominant-issue-and-early-partisan-divides-ahead-2026'),
+('Amy Klobuchar',2, 'Saint Anselm','New Hampshire'	,1015, 'Likely Voters','2025-11-18','https://www.anselm.edu/about/anselmian-hub/news/new-poll-saint-anselm-college-survey-shows-declining-optimism-democracy-dominant-issue-and-early-partisan-divides-ahead-2026'),
+('Andy Beshear',2, 'Saint Anselm','New Hampshire'	,1015, 'Likely Voters','2025-11-18','https://www.anselm.edu/about/anselmian-hub/news/new-poll-saint-anselm-college-survey-shows-declining-optimism-democracy-dominant-issue-and-early-partisan-divides-ahead-2026'),
+('J.B. Pritzker',4, 'Saint Anselm','New Hampshire'	,1015, 'Likely Voters','2025-11-18','https://www.anselm.edu/about/anselmian-hub/news/new-poll-saint-anselm-college-survey-shows-declining-optimism-democracy-dominant-issue-and-early-partisan-divides-ahead-2026');

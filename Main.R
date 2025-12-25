@@ -51,3 +51,5 @@ democratic_party_primary_polling[72,"Candidate"]<-"Alexandria Ocasio-Cortez"
 
 democratic_party_primary_polling[226,"Polling"]<-3
 
+republican_party_primary_polling[485,"Polling"]<-7
+
