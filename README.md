@@ -40,6 +40,6 @@ Note that this project is still in its very early stages as there are still more
 
 [Vivek Ramaswamy](https://ktu03.github.io/2028-United-States-Presidential-Election-Primary-Poll-Tracking/Vivek_Ramaswamy.html)
 
-[Nikki Haley](https://ktu03.github.io/2028-United-States-Presidential-Election-Primary-Poll-Tracking/Nikki-Haley.html)
+[Nikki Haley](https://ktu03.github.io/2028-United-States-Presidential-Election-Primary-Poll-Tracking/Nikki_Haley.html)
 
 [Ted Cruz](https://ktu03.github.io/2028-United-States-Presidential-Election-Primary-Poll-Tracking/Ted_Cruz.html)
