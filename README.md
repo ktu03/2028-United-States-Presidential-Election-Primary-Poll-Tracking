@@ -14,7 +14,7 @@ Note that this project is still in its very early stages as there are still more
 
 [All](https://ktu03.shinyapps.io/Democratic_App/)
 
-[Kamala Harris](https://github.com/ktu03/2028-United-States-Presidential-Election-Primary-Poll-Tracking/blob/main/Kamala_Harris.html)
+[Kamala Harris](https://github.com/ktu03/2028-United-States-Presidential-Election-Primary-Poll-Tracking/Kamala_Harris.html)
 
 [Gavin Newsom](https://ktu03.github.io/2028-United-States-Presidential-Election-Primary-Poll-Tracking/Gavin_Newsom.html)
 
