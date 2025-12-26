@@ -9,51 +9,43 @@ rsconnect::setAccountInfo(name='ktu03',
                           token='779FAF60BC97C9B55D00781F78195742',
                           secret='lm7gDzn0EDCFGwVfThKqq8/+V2BTg5X28CnPYGnj')
 header <- dashboardHeader(
-  title = "Democratic Party"
+  title = "Republican Party"
 )
 
 sidebar <- dashboardSidebar(
   sidebarMenu (
     menuItem("Candidate",startExpanded = TRUE,
-             menuSubItem("Kamala Harris", tabName = "Kamala_Harris"),
-             menuSubItem("Gavin Newsom", tabName="Gavin_Newsom"),
-             menuSubItem("Pete Buttigieg", tabName="Pete_Buttigieg"),
-             menuSubItem("Alexandria Ocasio-Cortez", tabName="Alexandria_Ocasio_Cortez"),
-             menuSubItem("Cory Booker", tabName="Cory_Booker"),
-             menuSubItem("Tim Walz",tabName="Tim_Walz"),
-             menuSubItem("Gretchen Whitmer",tabName="Gretchen_Whitmer"),
-             menuSubItem("Josh Shapiro",tabName="Josh_Shapiro")
+             menuSubItem("Ron Desantis", tabName = "Ron_Desantis"),
+             menuSubItem("J.D. Vance", tabName="JD_Vance"),
+             menuSubItem("Nikki Haley", tabName="Nikki_Haley"),
+             menuSubItem("Vivek Ramaswamy", tabName="Vivek_Ramaswamy"),
+             menuSubItem("Ted Cruz", tabName="Ted_Cruz"),
+             menuSubItem("Marco Rubio",tabName="Marco_Rubio")
     )
   )
 )
-
+ron_desantis_data<-republican_party_primary_polling|>filter(Candidate=="Ron Desantis")|>mutate(Poll_Boundary=ifelse(State=="NULL","Nationwide",State))
 body <- dashboardBody(
   tabItems(
-    tabItem(tabName = "Kamala_Harris",
-            box(title = "Kamala Harris", width = 100, status = "warning", DTOutput("Kamala_Harris_Data"), plotOutput("Kamala_Harris_Chart", width="800px",height="600px"), DTOutput("Kamala_Harris_Summary"),uiOutput("Kamala_Harris_Text_1"),uiOutput("Kamala_Harris_Text_2"),uiOutput("Kamala_Harris_Text_3"),uiOutput("Kamala_Harris_Text_4"),uiOutput("Kamala_Harris_Text_5"),uiOutput("Kamala_Harris_Text_10"),uiOutput("Kamala_Harris_Text_6"),uiOutput("Kamala_Harris_Text_7"),uiOutput("Kamala_Harris_Text_8"),uiOutput("Kamala_Harris_Text_9"))
+    tabItem(tabName = "Ron_Desantis",
+            box(title = "Ron Desantis", width = 100, status = "warning", DTOutput("Ron_Desantis_Data"), plotOutput("Ron_Desantis_Chart", width="775px"),DTOutput("Ron_Desantis_Summary"),uiOutput("Ron_Desantis_Text_1"),uiOutput("Ron_Desantis_Text_2"),uiOutput("Ron_Desantis_Text_3"),uiOutput("Ron_Desantis_Text_4"))
     ),
     
-    tabItem(tabName = "Gavin_Newsom",
-            box(title = "Gavin Newsom", width = 100, status = "warning", DTOutput("Gavin_Newsom_Data"), plotOutput("Gavin_Newsom_Chart", width="800px",height="600px"),DTOutput("Gavin_Newsom_Summary"),uiOutput("Gavin_Newsom_Text_1"),uiOutput("Gavin_Newsom_Text_2"))
+    tabItem(tabName = "JD_Vance",
+            box(title = "J.D. Vance", width = 100, status = "warning", DTOutput("JD_Vance_Data"), plotOutput("JD_Vance_Chart", width="775px"),DTOutput("JD_Vance_Summary"),uiOutput("JD_Vance_Text_1"),uiOutput("JD_Vance_Text_2"),uiOutput("JD_Vance_Text_3"),uiOutput("JD_Vance_Text_4"),uiOutput("JD_Vance_Text_5"),uiOutput("JD_Vance_Text_6"))
             
     ),
-    tabItem(tabName = "Pete_Buttigieg",
-            box(title = "Pete Buttigieg", width = 100, status = "warning", DTOutput("Pete_Buttigieg_Data"), plotOutput("Pete_Buttigieg_Chart", width="800px",height="600px"),DTOutput("Pete_Buttigieg_Summary"),uiOutput("Pete_Buttigieg_Text_1"),uiOutput("Pete_Buttigieg_Text_2"),uiOutput("Pete_Buttigieg_Text_3"),uiOutput("Pete_Buttigieg_Text_4"))
+    tabItem(tabName = "Nikki_Haley",
+            box(title = "Nikki Haley", width = 100, status = "warning", DTOutput("Nikki_Haley_Data"), plotOutput("Nikki_Haley_Chart", width="775px"),DTOutput("Nikki_Haley_Summary"))
     ),
-    tabItem(tabName = "Alexandria_Ocasio_Cortez",
-            box(title = "Alexandria Ocasio Cortez", width = 100, status = "warning", DTOutput("Alexandria_Ocasio_Cortez_Data"), plotOutput("Alexandria_Ocasio_Cortez_Chart", width="800px",height="600px"),DTOutput("Alexandria_Ocasio_Cortez_Summary"),uiOutput("Alexandria_Ocasio_Cortez_Text_1"),uiOutput("Alexandria_Ocasio_Cortez_Text_2"),uiOutput("Alexandria_Ocasio_Cortez_Text_3"),uiOutput("Alexandria_Ocasio_Cortez_Text_4"),uiOutput("Alexandria_Ocasio_Cortez_Text_5"),uiOutput("Alexandria_Ocasio_Cortez_Text_6"))
+    tabItem(tabName = "Vivek_Ramaswamy",
+            box(title = "Vivek Ramaswamy", width = 100, status = "warning", DTOutput("Vivek_Ramaswamy_Data"), plotOutput("Vivek_Ramaswamy_Chart", width="775px"),DTOutput("Vivek_Ramaswamy_Summary"))
     ),
-    tabItem(tabName = "Cory_Booker",
-            box(title = "Cory Booker", width = 100, status = "warning", DTOutput("Cory_Booker_Data"), plotOutput("Cory_Booker_Chart", width="800px",height="600px"),DTOutput("Cory_Booker_Summary"),uiOutput("Cory_Booker_Text_1"),uiOutput("Cory_Booker_Text_2"),uiOutput("Cory_Booker_Text_3"),uiOutput("Cory_Booker_Text_4"),uiOutput("Cory_Booker_Text_5"),uiOutput("Cory_Booker_Text_6"))
+    tabItem(tabName = "Ted_Cruz",
+            box(title = "Ted Cruz", width = 100, status = "warning", DTOutput("Ted_Cruz_Data"), plotOutput("Ted_Cruz_Chart", width="775px"),DTOutput("Ted_Cruz_Summary"),uiOutput("Ted_Cruz_Text_1"))
     ),
-    tabItem(tabName = "Tim_Walz",
-            box(title = "Tim Walz", width = 100, status = "warning", DTOutput("Tim_Walz_Data"), plotOutput("Tim_Walz_Chart", width="800px",height="600px"),DTOutput("Tim_Walz_Summary"))
-    ),
-    tabItem(tabName = "Gretchen_Whitmer",
-            box(title = "Gretchen Whitmer", width = 100, status = "warning", DTOutput("Gretchen_Whitmer_Data"), plotOutput("Gretchen_Whitmer_Chart", width="800px",height="600px"),DTOutput("Gretchen_Whitmer_Summary"),uiOutput("Gretchen_Whitmer_Text_1"))
-    ),
-    tabItem(tabName = "Josh_Shapiro",
-            box(title = "Josh Shapiro", width = 100, status = "warning", DTOutput("Josh_Shapiro_Data"), plotOutput("Josh_Shapiro_Chart", width="800px",height="600px"),DTOutput("Josh_Shapiro_Summary"))
+    tabItem(tabName = "Marco_Rubio",
+            box(title = "Marco Rubio", width = 100, status = "warning", DTOutput("Marco_Rubio_Data"), plotOutput("Marco_Rubio_Chart", width="775px"),DTOutput("Marco_Rubio_Summary"),uiOutput("Marco_Rubio_Text_1"))
     )
   )
 )
@@ -65,80 +57,53 @@ ui<-dashboardPage(header, sidebar, body)
 # Define server logic ----
 server <- function(input, output) {
   
-  output$Kamala_Harris_Data <- renderDT({datatable(kamala_harris_data)})
-  output$Kamala_Harris_Summary <- renderDT({datatable(kamala_harris_summary)})
-  output$Kamala_Harris_Chart<- renderPlot(kamala_harris_chart)
-  output$Kamala_Harris_Text_1<-renderUI(h3("Important Events",style = "font-size:18px;"))
-  output$Kamala_Harris_Text_2<-renderUI(tags$ul (tags$li("July 21, 2024 - Kamala Harris launches 2024 Presidential bid after President Joe Biden dropped out of the race"),style="font-size:16px;"))
-  output$Kamala_Harris_Text_3<-renderUI(tags$ul (tags$li("August 5, 2024 - Kamala Harris officially secures Democratic Party nomination to run for President"),style="font-size:16px;"))
-  output$Kamala_Harris_Text_4<-renderUI(tags$ul (tags$li("November 5, 2024 - Kamala Harris loses 2024 U.S. Presidential Election to Donald Trump"),style="font-size:16px;"))
-  output$Kamala_Harris_Text_5<-renderUI(tags$ul (tags$li("July 30, 2025 - Kamala Harris declines to run for California Governor in the 2026 Gubernatorial Elections"),style="font-size:16px;"))
-  output$Kamala_Harris_Text_6<-renderUI(h3("Additional Notes & Analysis",style = "font-size:18px;"))
-  output$Kamala_Harris_Text_7<-renderUI(tags$ul (tags$li("If Kamala Harris were to launch a bid for California’s 2026 Gubernatorial Election, then it is unlikely that she will run for President again considering that she would need to launch a Presidential bid within one year of taking office, which would lead to great criticism of not focusing on her role as Governor"),
-                                               tags$li("Average polling for Kamala Harris since Apr. 2025 has been at 25%, 9 points below from Jan. 2024 - Mar. 2025, with Gavin Newsom, Cory Booker, Alexandria Ocasio-Cortez, and Pete Buttigieg making significant gains simultaneously. Such phenomenon may suggest that the momentum Democrats had for Kamala Harris, especially throughout the 2024 U.S. Presidential Election, is not persisting"),
-                                               tags$li("According to a YouGov/Economist survey, 79% of Democrats would have supported Kamala Harris if Joe Biden withdrew from the 2024 race, which he eventually did")
-                                               ,style="font-size:16px;"))
-  output$Kamala_Harris_Text_8<-renderUI(h3("References",style = "font-size:18px;"))
-  output$Kamala_Harris_Text_9<-renderUI(tags$ul (tags$li("Sforza, L. (2024, July 18). ", tags$em("79 percent of Democrats approve of Harris replacing Biden if he steps aside: Poll. "), "The Hill.",tags$br(), tags$a(href="https://thehill.com/homenews/campaign/4779366-kamala-harris-joe-biden-withdraw-2024-survey/","https://thehill.com/homenews/campaign/4779366-kamala-harris-joe-biden-withdraw-2024-survey/")),
-                                               style="font-size:16px;"))
-  output$Kamala_Harris_Text_10<-renderUI(tags$ul (tags$li("October 26, 2025 - Kamala Harris does not rule out a Presidential run in 2028"),style="font-size:16px;"))
-  
-  output$Gavin_Newsom_Data <- renderDT({datatable(gavin_newsom_data)})
-  output$Gavin_Newsom_Summary <- renderDT({datatable(gavin_newsom_summary)})
-  output$Gavin_Newsom_Chart<- renderPlot(gavin_newsom_chart)
-  output$Gavin_Newsom_Text_1<-renderUI(tags$ul (tags$li("July 2025 - In response to the proposed Congressional redistricting in Texas widely viewed as an attempt of gerrymandering , Gavin Newsom proposes redistricting Congressional lines in California"),style="font-size:16px;"))
-  output$Gavin_Newsom_Text_2<-renderUI(tags$ul (tags$li("October 26, 2025 - Gavin Newsom indicates he is ‘seriously considering’ a 2028 Presidential run after the 2026 midterm elections"),style="font-size:16px;"))
-  output$Pete_Buttigieg_Data <- renderDT({datatable(pete_buttigieg_data)})
-  output$Pete_Buttigieg_Summary <- renderDT({datatable(pete_buttigieg_summary)})
-  output$Pete_Buttigieg_Chart<- renderPlot(pete_buttigieg_chart)
-  output$Pete_Buttigieg_Text_1<-renderUI(h3("Important Events",style = "font-size:18px;"))
-  output$Pete_Buttigieg_Text_2<-renderUI(tags$ul (tags$li("March 13, 2025 - Pete Buttigieg declines running for Michigan Senate in 2026"),style="font-size:16px;"))
-  output$Pete_Buttigieg_Text_3<-renderUI(h3("Additional Notes & Analysis",style = "font-size:18px;"))
-  output$Pete_Buttigieg_Text_4<-renderUI(tags$ul (tags$li("As a result of not running for the Senate in 2026, Pete Buttigieg has positioned himself as a better contender for the White House in 2028 as winning a Senate race would almost certainly take away any ambitions of running for President"),
-                                                  tags$li("Since announcing that he would not run for Senate, Pete Buttigieg polled on average 13%, 3 points higher than before making the announcement"),
-                                                  tags$li("Pete Buttigieg beat Kamala Harris in 4 nationwide polls and 1 statewide poll so far since Apr. 2025"),
-                                                  style="font-size:16px;"))
-  output$Alexandria_Ocasio_Cortez_Data <- renderDT({datatable(alexandria_ocasio_cortez_data)})
-  output$Alexandria_Ocasio_Cortez_Summary <- renderDT({datatable(alexandria_ocasio_cortez_summary)})
-  output$Alexandria_Ocasio_Cortez_Chart<- renderPlot(alexandria_ocasio_cortez_chart)
-  output$Alexandria_Ocasio_Cortez_Text_1<-renderUI(h3("Important Events",style = "font-size:18px;"))
-  output$Alexandria_Ocasio_Cortez_Text_2<-renderUI(tags$ul (tags$li("February 22, 2025 - Fighting Oligarchy Tour begins, led by Bernie Sanders and Alexandria Ocasio-Cortez"),style="font-size:16px;"))
-  output$Alexandria_Ocasio_Cortez_Text_3<-renderUI(h3("Additional Notes & Analysis",style = "font-size:18px;"))
-  output$Alexandria_Ocasio_Cortez_Text_4<-renderUI(tags$ul (tags$li("According to a Gallup poll conducted during Jan. 21-27 2025, 66% of Democrats had viewed her favorably, while only 24% for Independents"),
-                                               tags$li("A CNN poll conducted during Mar. 6-9 2025 with a sample of 504 respondents found 10% of respondents to believe that Alexandria Ocasio-Cortez best reflects the core values of the Democratic Party"),
-                                               tags$li("Between Nov. 2024 and the end of Feb, 2025, Alexandria Ocasio-Cortez polled on average 4%, while from March 2025 to the end of June 2025, Alexandria Ocasio-Cortez polled on average 11%, which may suggest her popularity is rising as a result of the Fighting Oligarchy Tour she ran with Bernie Sanders ")
-                                               ,style="font-size:16px;"))
-  output$Alexandria_Ocasio_Cortez_Text_5<-renderUI(h3("References",style = "font-size:18px;"))
-  output$Alexandria_Ocasio_Cortez_Text_6<-renderUI(tags$ul (tags$li("Jones, J. M. (2025, April 9).", tags$em("Few major U.S. political figures rated positively on balance."), "Gallup.com.",tags$br(), tags$a(href="https://news.gallup.com/poll/656111/few-major-political-figures-rated-positively-balance.aspx?version=print","https://news.gallup.com/poll/656111/few-major-political-figures-rated-positively-balance.aspx?version=print")),
-                                                            tags$li("CNN Poll. (n.d.).", tags$em("Political parties poll results"), "[PDF]. Retrieved June 30, 2025, from",tags$br(), tags$a(href="https://s3.documentcloud.org/documents/25563079/cnn-poll-political-parties.pdf","https://s3.documentcloud.org/documents/25563079/cnn-poll-political-parties.pdf")),
-                                               style="font-size:16px;"))
-  output$Cory_Booker_Data <- renderDT({datatable(cory_booker_data)})
-  output$Cory_Booker_Summary <- renderDT({datatable(cory_booker_summary)})
-  output$Cory_Booker_Chart<- renderPlot(cory_booker_chart)
-  output$Cory_Booker_Text_1<-renderUI(h3("Important Events",style = "font-size:18px;"))
-  output$Cory_Booker_Text_2<-renderUI(tags$ul (tags$li("March 31, 2025 - Cory Booker delivers longest speech in U.S. Senate history, a time length of 25 hours and 5 minutes to protest against Donald Trump’s administration"),style="font-size:16px;"))
-  output$Cory_Booker_Text_3<-renderUI(h3("Additional Notes & Analysis",style = "font-size:18px;"))
-  output$Cory_Booker_Text_4<-renderUI(tags$ul (tags$li("On TikTok, Cory Booker’s speech was streamed live and viewed by more than 300 thousand people at once, while receiving more than 350 million likes"),
-                                               tags$li("Since his marathon speech, Cory Booker polled on average 8%, 6 points higher than before the speech, which may be due to a gain in popularity after the speech "),
-                                               tags$li("With such a record breaking and nationwide known speech, Cory Booker’s action is beneficial for Democrats to regain their popularity as Independents are more likely to support Cory Booker for protesting via a speech rather than radical left-wing policy proposals that Democrats have been criticized for in the past. Additionally, Democrats will more likely unite behind Cory Booker to lead them, which allows for a strong base of support heading into the next Presidential Election")
-                                               ,style="font-size:16px;"))
-  output$Cory_Booker_Text_5<-renderUI(h3("References",style = "font-size:18px;"))
-  output$Cory_Booker_Text_6<-renderUI(tags$ul (tags$li("NBCUniversal News Group. (2025, April 2).", tags$em("Cory Booker goes viral in shattering a nearly 70-year record with Historic Marathon Senate speech."), "NBCNews.com.",tags$br(), tags$a(href="https://www.nbcnews.com/pop-culture/pop-culture-news/cory-booker-marathon-speech-rcna199246","https://www.nbcnews.com/pop-culture/pop-culture-news/cory-booker-marathon-speech-rcna199246")),
-                                               style="font-size:16px;"))
-  output$Tim_Walz_Data <- renderDT({datatable(tim_walz_data)})
-  output$Tim_Walz_Summary <- renderDT({datatable(tim_walz_summary)})
-  output$Tim_Walz_Chart<- renderPlot(tim_walz_chart)
-  output$Gretchen_Whitmer_Data <- renderDT({datatable(gretchen_whitmer_data)})
-  output$Gretchen_Whitmer_Summary <- renderDT({datatable(gretchen_whitmer_summary)})
-  output$Gretchen_Whitmer_Chart<- renderPlot(gretchen_whitmer_chart)
-  output$Gretchen_Whitmer_Text_1<-renderUI(tags$ul (tags$li("July 18, 2025 - Gretchen Whitmer declines speculation of 2028 Presidential bid"),style="font-size:16px;"))
-  output$Josh_Shapiro_Data <- renderDT({datatable(josh_shapiro_data)})
-  output$Josh_Shapiro_Summary <- renderDT({datatable(josh_shapiro_summary)})
-  output$Josh_Shapiro_Chart<- renderPlot(josh_shapiro_chart)
-  #output$table = DT::renderDataTable({
-  # DT::datatable(tabledata)
-  #})
+  output$Ron_Desantis_Data <- renderDT({datatable(ron_desantis_data)})
+  output$Ron_Desantis_Summary <- renderDT({datatable(ron_desantis_summary)})
+  output$Ron_Desantis_Chart<- renderPlot(ron_desantis_chart)
+  output$Ron_Desantis_Text_1<-renderUI(h3("Important Events",style = "font-size:18px;"))
+  output$Ron_Desantis_Text_2<-renderUI(tags$ul(tags$li("May 24, 2023 - Ron Desantis launches 2024 Presidential bid"),
+                                               tags$li("November 5, 2024 - J.D. Vance is elected as the 48th United States Vice President"),
+                                               tags$li("January 21, 2024 - Ron Desantis drops out of 2024 Presidential race amid weak results in Iowa caucuses and low polling numbers"),
+                                               style = "font-size:16px;"))
+  output$Ron_Desantis_Text_3<-renderUI(h3("Additional Notes & Analysis",style = "font-size:18px;"))
+  output$Ron_Desantis_Text_4<-renderUI(tags$ul(tags$li("Since J.D. Vance was nominated to run for Vice President, Ron Desantis has polled below him consistently in all polls"),
+                                               tags$li("Since 1988, all incumbent Vice Presidents, excluding Dick Cheney, eventually went on to run for President. J.D. Vance’s popularity amongst Republicans would need to vastly decline in order for Desantis to have a better chance of winning the Republican nomination"),
+                                               tags$li("Currently, given the polls, it seems like J.D. Vance’s popularity amongst Republicans is much higher than that of Ron Desantis, given the polls"),
+                                               style = "font-size:16px;"))
+  output$JD_Vance_Data <- renderDT({datatable(jd_vance_data)})
+  output$JD_Vance_Summary <- renderDT({datatable(jd_vance_summary)})
+  output$JD_Vance_Chart<- renderPlot(jd_vance_chart)
+  output$JD_Vance_Text_1<-renderUI(h3("Important Events",style = "font-size:18px;"))
+  output$JD_Vance_Text_2<-renderUI(tags$ul(tags$li("July 15, 2024 - J.D. Vance is selected as then presumptive Republican Nominee Donald Trump’s running mate"),
+                                   tags$li("November 5, 2024 - J.D. Vance is elected as the 48th United States Vice President"),
+                                   tags$li("January 20, 2025 - J.D. Vance is inaugurated as the 48th United States Vice President"),
+                                   style = "font-size:16px;"))
+  output$JD_Vance_Text_3<-renderUI(h3("Additional Notes & Analysis",style = "font-size:18px;"))
+  output$JD_Vance_Text_4<-renderUI(tags$ul(tags$li("Since being nominated to run for Vice President, J.D. Vance has lead in all nationwide and statewide polls"),
+                                   tags$li("Vance’s surge in the polls comes greatly to the expense of Ron Desantis, Nikki Haley, and Vivek Ramaswamy, who all polled over 10 points ahead of him prior to his Vice Presidential nomination"),
+                                   tags$li("While an NBC news poll conducted in March 2025 has J.D. Vance at an approval rating of only 41%, J.D. Vance still has an average polling of 41.01%, a lot higher than all other potential contenders for the Republican nomination"),
+                                   style = "font-size:16px;"))
+  output$JD_Vance_Text_5<-renderUI(h3("References",style = "font-size:18px;"))
+  output$JD_Vance_Text_6<-renderUI(tags$ul (tags$li(tags$em("NBC March 2025 poll - 3-16-2025 release"), ". DocumentCloud. (n.d.).",tags$br(), tags$a(href= "https://www.documentcloud.org/documents/25569109-nbc-march-2025-poll-3-16-2025-release/","https://www.documentcloud.org/documents/25569109-nbc-march-2025-poll-3-16-2025-release/"),style="font-size:16px;"),
+                                                            tags$li("NBCUniversal News Group. (2024, July 16). ", tags$em("Trump picks Ohio sen. JD Vance for vice president. "), "NBCNews.com.",tags$br(), tags$a(href="https://www.nbcnews.com/politics/2024-election/trump-vice-president-running-mate-pick-jd-vance-rcna157485","https://www.nbcnews.com/politics/2024-election/trump-vice-president-running-mate-pick-jd-vance-rcna157485"),style="font-size:16px;"),
+                                                            tags$li(tags$em("JD Vance has officially been sworn in as the vice president of the US"),". Sky News. (n.d.).", tags$br(),
+                                            tags$a(href="https://news.sky.com/video/jd-vance-has-officially-been-sworn-in-as-the-vice-president-of-the-us-13293169","https://news.sky.com/video/jd-vance-has-officially-been-sworn-in-as-the-vice-president-of-the-us-13293169"),style="font-size:16px;")))
+  output$Nikki_Haley_Data <- renderDT({datatable(nikki_haley_data)})
+  output$Nikki_Haley_Summary <- renderDT({datatable(nikki_haley_summary)})
+  output$Nikki_Haley_Chart<- renderPlot(nikki_haley_chart)
+  output$Vivek_Ramaswamy_Data <- renderDT({datatable(vivek_ramaswamy_data)})
+  output$Vivek_Ramaswamy_Summary <- renderDT({datatable(vivek_ramaswamy_summary)})
+  output$Vivek_Ramaswamy_Chart<- renderPlot(vivek_ramaswamy_chart)
+  output$Ted_Cruz_Data <- renderDT({datatable(ted_cruz_data)})
+  output$Ted_Cruz_Summary <- renderDT({datatable(ted_cruz_summary)})
+  output$Ted_Cruz_Chart<- renderPlot(ted_cruz_chart)
+  output$Ted_Cruz_Text_1<-renderUI(tags$ul(tags$li("November 5, 2024 - Ted Cruz wins re-election in 2024 United States Texas Senate Elections"),style = "font-size:16px;"))
+  output$Marco_Rubio_Data <- renderDT({datatable(marco_rubio_data)})
+  output$Marco_Rubio_Summary <- renderDT({datatable(marco_rubio_summary)})
+  output$Marco_Rubio_Chart<- renderPlot(marco_rubio_chart)
+  output$Marco_Rubio_Text_1<-renderUI(tags$ul(tags$li("January 21, 2025 - Marco Rubio sworn in as United States Secretary of State"),style = "font-size:16px;"))
 }
 
 # Run the app ----
 shinyApp(ui = ui, server = server)
+
