@@ -7,7 +7,7 @@ cory_booker_data<-democratic_party_primary_polling|>filter(Candidate=="Cory Book
 head(cory_booker_data)
 ```
 
-```{r}
+```{r,fig.width=15}
 cory_booker_chart<-cory_booker_data|>ggplot(aes(x=DMY,y=Polling,color=Poll_Boundary))+ theme_gray(base_size=14)+geom_point(alpha=0.6)+geom_line()+scale_x_date(date_breaks="3 months")+labs(title="Cory Booker",x="Date",y="Polling (%)")
 print(cory_booker_chart)
 ```

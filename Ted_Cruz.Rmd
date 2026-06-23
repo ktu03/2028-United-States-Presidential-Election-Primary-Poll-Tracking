@@ -7,7 +7,7 @@ ted_cruz_data<-republican_party_primary_polling|>filter(Candidate=="Ted Cruz")|>
 print(ted_cruz_data)
 ```
 
-```{r}
+```{r,fig.width=10}
 ted_cruz_chart<-ted_cruz_data|>ggplot(aes(x=DMY,y=Polling,color=Poll_Boundary))+geom_point(alpha=0.6)+geom_line()+scale_x_date(date_breaks="3 months")+labs(title="Ted Cruz",x="Date",y="Polling (%)")
 print(ted_cruz_chart)
 ```

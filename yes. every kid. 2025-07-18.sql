@@ -15,4 +15,3 @@ Values ('J.D. Vance',46, 'yes. every kid.','South Carolina'	,406, 'Likely Voters
 ('Sarah Huckabee Sanders',2, 'yes. every kid.','South Carolina'	,406, 'Likely Voters','2025-07-18','https://yeseverykidfoundation.org/South Carolina-gop-voters-put-education-freedom-front-and-center/');
 
 
- 

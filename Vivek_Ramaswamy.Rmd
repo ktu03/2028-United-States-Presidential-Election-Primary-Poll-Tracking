@@ -7,7 +7,7 @@ vivek_ramaswamy_data<-republican_party_primary_polling|>filter(Candidate=="Vivek
 print(vivek_ramaswamy_data)
 ```
 
-```{r}
+```{r,fig.width=15}
 vivek_ramaswamy_chart <- vivek_ramaswamy_data|>ggplot(aes(x=DMY,y=Polling,color=Poll_Boundary))+geom_point(alpha=0.6)+geom_line()+scale_x_date(date_breaks="3 months")+labs(title="Vivek Ramaswamy",x="Date",y="Polling (%)")
 vivek_ramaswamy_chart
 ```

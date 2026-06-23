@@ -7,7 +7,7 @@ marco_rubio_data<-republican_party_primary_polling|>filter(Candidate=="Marco Rub
 print(marco_rubio_data)
 ```
 
-```{r}
+```{r,fig.width=15}
 marco_rubio_chart<-marco_rubio_data|>ggplot(aes(x=DMY,y=Polling,color=Poll_Boundary))+geom_point(alpha=0.6)+geom_line()+scale_x_date(date_breaks="3 months")+labs(title="Marco Rubio",x="Date",y="Polling (%)")
 marco_rubio_chart
 ```

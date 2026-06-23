@@ -10,8 +10,8 @@ Values ('Ron Desantis', 6, 'YouGov/The Times', TRUE, 1296,'2025-04-22','https://
 ('Marco Rubio', 2, 'YouGov/The Times', TRUE, 1296,'2025-04-22','https://d3nkl3psvxxpe9.cloudfront.net/documents/times_20250425.pdf'),
 ('Tim Scott', 1, 'YouGov/The Times', TRUE, 1296,'2025-04-22','https://d3nkl3psvxxpe9.cloudfront.net/documents/times_20250425.pdf'),
 ('Tucker Carlson', 1, 'YouGov/The Times', TRUE, 1296,'2025-04-22','https://d3nkl3psvxxpe9.cloudfront.net/documents/times_20250425.pdf'),
-('Tulsi Gabbard', 2	, 'YouGov/Economist', TRUE, 1296,'2025-04-22','https://d3nkl3psvxxpe9.cloudfront.net/documents/times_20250425.pdf'),
-('Ted Cruz', 3, 'YouGov/Economist', TRUE, 1296,'2025-04-22','https://d3nkl3psvxxpe9.cloudfront.net/documents/times_20250425.pdf');
+('Tulsi Gabbard', 2	, 'YouGov/The Times', TRUE, 1296,'2025-04-22','https://d3nkl3psvxxpe9.cloudfront.net/documents/times_20250425.pdf'),
+('Ted Cruz', 3, 'YouGov/The Times', TRUE, 1296,'2025-04-22','https://d3nkl3psvxxpe9.cloudfront.net/documents/times_20250425.pdf');
 
 INSERT INTO `Democratic_Party_Primary_Polling` (Candidate, Polling, Pollster, Nationwide, Sample_Size, DMY, Link)
 Values ('Kamala Harris', 28, 'YouGov/The Times', TRUE, 1296,'2025-04-22','https://d3nkl3psvxxpe9.cloudfront.net/documents/times_20250425.pdf'),

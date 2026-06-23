@@ -1,0 +1,26 @@
+## Saint Anselm 2026-03-16
+
+USE `2028 United States Presidential Election`;
+
+INSERT INTO `Republican_Party_Primary_Polling` (Candidate, Polling, Pollster, State, Sample_Size, Voter_Type, DMY, Link)
+Values ('J.D. Vance',46, 'Saint Anselm','New Hampshire'	,665, 'Registered Voters','2026-03-16','https://www.anselm.edu/about/anselmian-hub/news/new-poll-saint-anselm-college-survey-shows-democrats-gaining-ground-republicans-face-political-headwinds'),
+('Nikki Haley',5, 'Saint Anselm','New Hampshire'	,665, 'Registered Voters','2026-03-16','https://www.anselm.edu/about/anselmian-hub/news/new-poll-saint-anselm-college-survey-shows-democrats-gaining-ground-republicans-face-political-headwinds'),
+('Vivek Ramaswamy',2, 'Saint Anselm','New Hampshire'	,665, 'Registered Voters','2026-03-16','https://www.anselm.edu/about/anselmian-hub/news/new-poll-saint-anselm-college-survey-shows-democrats-gaining-ground-republicans-face-political-headwinds'),
+('Marco Rubio',27, 'Saint Anselm','New Hampshire'	,665, 'Registered Voters','2026-03-16','https://www.anselm.edu/about/anselmian-hub/news/new-poll-saint-anselm-college-survey-shows-democrats-gaining-ground-republicans-face-political-headwinds'),
+('Ted Cruz',1, 'Saint Anselm','New Hampshire'	,665, 'Registered Voters','2026-03-16','https://www.anselm.edu/about/anselmian-hub/news/new-poll-saint-anselm-college-survey-shows-democrats-gaining-ground-republicans-face-political-headwinds'),
+('Glenn Youngkin',1, 'Saint Anselm','New Hampshire'	,665, 'Registered Voters','2026-03-16','https://www.anselm.edu/about/anselmian-hub/news/new-poll-saint-anselm-college-survey-shows-democrats-gaining-ground-republicans-face-political-headwinds'),
+('Ron Desantis',5, 'Saint Anselm','New Hampshire'	,665, 'Registered Voters','2026-03-16','https://www.anselm.edu/about/anselmian-hub/news/new-poll-saint-anselm-college-survey-shows-democrats-gaining-ground-republicans-face-political-headwinds'),
+('Tulsi Gabbard',2, 'Saint Anselm','New Hampshire'	,665, 'Registered Voters','2026-03-16','https://www.anselm.edu/about/anselmian-hub/news/new-poll-saint-anselm-college-survey-shows-democrats-gaining-ground-republicans-face-political-headwinds');
+
+INSERT INTO `Democratic_Party_Primary_Polling` (Candidate, Polling, Pollster, State, Sample_Size, Voter_Type, DMY, Link)
+Values ('Kamala Harris',6, 'Saint Anselm','New Hampshire'	,690, 'Registered Voters','2026-03-16','https://www.anselm.edu/about/anselmian-hub/news/new-poll-saint-anselm-college-survey-shows-democrats-gaining-ground-republicans-face-political-headwinds'),
+('Gavin Newsom',15, 'Saint Anselm','New Hampshire'	,690, 'Registered Voters','2026-03-16','https://www.anselm.edu/about/anselmian-hub/news/new-poll-saint-anselm-college-survey-shows-democrats-gaining-ground-republicans-face-political-headwinds'),
+('Josh Shapiro',4, 'Saint Anselm','New Hampshire'	,690, 'Registered Voters','2026-03-16','https://www.anselm.edu/about/anselmian-hub/news/new-poll-saint-anselm-college-survey-shows-democrats-gaining-ground-republicans-face-political-headwinds'),
+('Gretchen Whitmer',2, 'Saint Anselm','New Hampshire'	,690, 'Registered Voters','2026-03-16','https://www.anselm.edu/about/anselmian-hub/news/new-poll-saint-anselm-college-survey-shows-democrats-gaining-ground-republicans-face-political-headwinds'),
+('Cory Booker',2, 'Saint Anselm','New Hampshire'	,690, 'Registered Voters','2026-03-16','https://www.anselm.edu/about/anselmian-hub/news/new-poll-saint-anselm-college-survey-shows-democrats-gaining-ground-republicans-face-political-headwinds'),
+('Rahm Emanuel',1, 'Saint Anselm','New Hampshire'	,690, 'Registered Voters','2026-03-16','https://www.anselm.edu/about/anselmian-hub/news/new-poll-saint-anselm-college-survey-shows-democrats-gaining-ground-republicans-face-political-headwinds'),
+('Pete Buttigieg',29, 'Saint Anselm','New Hampshire'	,690, 'Registered Voters','2026-03-16','https://www.anselm.edu/about/anselmian-hub/news/new-poll-saint-anselm-college-survey-shows-democrats-gaining-ground-republicans-face-political-headwinds'),
+('Amy Klobuchar',4, 'Saint Anselm','New Hampshire'	,690, 'Registered Voters','2026-03-16','https://www.anselm.edu/about/anselmian-hub/news/new-poll-saint-anselm-college-survey-shows-democrats-gaining-ground-republicans-face-political-headwinds'),
+('Andy Beshear',4, 'Saint Anselm','New Hampshire'	,690, 'Registered Voters','2026-03-16','https://www.anselm.edu/about/anselmian-hub/news/new-poll-saint-anselm-college-survey-shows-democrats-gaining-ground-republicans-face-political-headwinds'),
+('Alexandria Ocasio-Cortez',10, 'Saint Anselm','New Hampshire'	,690, 'Registered Voters','2026-03-16','https://www.anselm.edu/about/anselmian-hub/news/new-poll-saint-anselm-college-survey-shows-democrats-gaining-ground-republicans-face-political-headwinds'),
+('J.B. Pritzker',5, 'Saint Anselm','New Hampshire'	,690, 'Registered Voters','2026-03-16','https://www.anselm.edu/about/anselmian-hub/news/new-poll-saint-anselm-college-survey-shows-democrats-gaining-ground-republicans-face-political-headwinds');

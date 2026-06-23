@@ -733,3 +733,476 @@ Candidate,Polling,Pollster,Nationwide,State,Sample_Size,Voter_Type,DMY,Link
 "Amy Klobuchar",1.20,"Emerson College",NULL,California,567,"Likely Voters",2025-12-01,https://emersoncollegepolling.com/california-2026-new-poll/
 "Alexandria Ocasio-Cortez",13.40,"Emerson College",NULL,California,567,"Likely Voters",2025-12-01,https://emersoncollegepolling.com/california-2026-new-poll/
 "J.B. Pritzker",3.50,"Emerson College",NULL,California,567,"Likely Voters",2025-12-01,https://emersoncollegepolling.com/california-2026-new-poll/
+"Kamala Harris",30.00,"J.L. Partners",1,NULL,383,"Likely Voters",2025-12-17,https://www.dailymail.co.uk/news/article-15405971/Gavin-Newsom-black-voters-White-House-Kamala-Harris.html
+"Gavin Newsom",21.00,"J.L. Partners",1,NULL,383,"Likely Voters",2025-12-17,https://www.dailymail.co.uk/news/article-15405971/Gavin-Newsom-black-voters-White-House-Kamala-Harris.html
+"Josh Shapiro",4.00,"J.L. Partners",1,NULL,383,"Likely Voters",2025-12-17,https://www.dailymail.co.uk/news/article-15405971/Gavin-Newsom-black-voters-White-House-Kamala-Harris.html
+"Pete Buttigieg",7.00,"J.L. Partners",1,NULL,383,"Likely Voters",2025-12-17,https://www.dailymail.co.uk/news/article-15405971/Gavin-Newsom-black-voters-White-House-Kamala-Harris.html
+"Tim Walz",3.00,"J.L. Partners",1,NULL,383,"Likely Voters",2025-12-17,https://www.dailymail.co.uk/news/article-15405971/Gavin-Newsom-black-voters-White-House-Kamala-Harris.html
+"Mark Kelly",4.00,"J.L. Partners",1,NULL,383,"Likely Voters",2025-12-17,https://www.dailymail.co.uk/news/article-15405971/Gavin-Newsom-black-voters-White-House-Kamala-Harris.html
+"Andy Beshear",2.00,"J.L. Partners",1,NULL,383,"Likely Voters",2025-12-17,https://www.dailymail.co.uk/news/article-15405971/Gavin-Newsom-black-voters-White-House-Kamala-Harris.html
+"Gretchen Whitmer",2.00,"J.L. Partners",1,NULL,383,"Likely Voters",2025-12-17,https://www.dailymail.co.uk/news/article-15405971/Gavin-Newsom-black-voters-White-House-Kamala-Harris.html
+"Jon Ossoff",1.00,"J.L. Partners",1,NULL,383,"Likely Voters",2025-12-17,https://www.dailymail.co.uk/news/article-15405971/Gavin-Newsom-black-voters-White-House-Kamala-Harris.html
+"Amy Klobuchar",1.00,"J.L. Partners",1,NULL,383,"Likely Voters",2025-12-17,https://www.dailymail.co.uk/news/article-15405971/Gavin-Newsom-black-voters-White-House-Kamala-Harris.html
+"Ro Khanna",1.00,"J.L. Partners",1,NULL,383,"Likely Voters",2025-12-17,https://www.dailymail.co.uk/news/article-15405971/Gavin-Newsom-black-voters-White-House-Kamala-Harris.html
+"Cory Booker",3.00,"J.L. Partners",1,NULL,383,"Likely Voters",2025-12-17,https://www.dailymail.co.uk/news/article-15405971/Gavin-Newsom-black-voters-White-House-Kamala-Harris.html
+"J.B. Pritzker",3.00,"J.L. Partners",1,NULL,383,"Likely Voters",2025-12-17,https://www.dailymail.co.uk/news/article-15405971/Gavin-Newsom-black-voters-White-House-Kamala-Harris.html
+"Alexandria Ocasio-Cortez",3.00,"J.L. Partners",1,NULL,383,"Likely Voters",2025-12-17,https://www.dailymail.co.uk/news/article-15405971/Gavin-Newsom-black-voters-White-House-Kamala-Harris.html
+"Kamala Harris",30.00,"Zogby Analytics",1,NULL,374,"Likely Voters",2026-01-01,https://zogbyanalytics.com/news/1232-the-zogby-poll-r-latest-likely-voter-survey-results
+"Gavin Newsom",21.00,"Zogby Analytics",1,NULL,374,"Likely Voters",2026-01-01,https://zogbyanalytics.com/news/1232-the-zogby-poll-r-latest-likely-voter-survey-results
+"Josh Shapiro",6.00,"Zogby Analytics",1,NULL,374,"Likely Voters",2026-01-01,https://zogbyanalytics.com/news/1232-the-zogby-poll-r-latest-likely-voter-survey-results
+"Mark Kelly",7.00,"Zogby Analytics",1,NULL,374,"Likely Voters",2026-01-01,https://zogbyanalytics.com/news/1232-the-zogby-poll-r-latest-likely-voter-survey-results
+"Ruben Gallego",1.00,"Zogby Analytics",1,NULL,374,"Likely Voters",2026-01-01,https://zogbyanalytics.com/news/1232-the-zogby-poll-r-latest-likely-voter-survey-results
+"Pete Buttigieg",8.00,"Zogby Analytics",1,NULL,374,"Likely Voters",2026-01-01,https://zogbyanalytics.com/news/1232-the-zogby-poll-r-latest-likely-voter-survey-results
+"Alexandria Ocasio-Cortez",11.00,"Zogby Analytics",1,NULL,374,"Likely Voters",2026-01-01,https://zogbyanalytics.com/news/1232-the-zogby-poll-r-latest-likely-voter-survey-results
+"J.B. Pritzker",5.00,"Zogby Analytics",1,NULL,374,"Likely Voters",2026-01-01,https://zogbyanalytics.com/news/1232-the-zogby-poll-r-latest-likely-voter-survey-results
+"Kamala Harris",20.00,YouGov,1,NULL,2250,"Likely Voters",2026-01-09,https://ygo-assets-websites-editorial-emea.yougov.net/documents/2028_Presidential_Nominee_Preferences_poll_results.pdf
+"Pete Buttigieg",8.00,YouGov,1,NULL,2250,"Likely Voters",2026-01-09,https://ygo-assets-websites-editorial-emea.yougov.net/documents/2028_Presidential_Nominee_Preferences_poll_results.pdf
+"Gavin Newsom",17.00,YouGov,1,NULL,2250,"Likely Voters",2026-01-09,https://ygo-assets-websites-editorial-emea.yougov.net/documents/2028_Presidential_Nominee_Preferences_poll_results.pdf
+"Alexandria Ocasio-Cortez",9.00,YouGov,1,NULL,2250,"Likely Voters",2026-01-09,https://ygo-assets-websites-editorial-emea.yougov.net/documents/2028_Presidential_Nominee_Preferences_poll_results.pdf
+"Josh Shapiro",2.00,YouGov,1,NULL,2250,"Likely Voters",2026-01-09,https://ygo-assets-websites-editorial-emea.yougov.net/documents/2028_Presidential_Nominee_Preferences_poll_results.pdf
+"Tim Walz",1.00,YouGov,1,NULL,2250,"Likely Voters",2026-01-09,https://ygo-assets-websites-editorial-emea.yougov.net/documents/2028_Presidential_Nominee_Preferences_poll_results.pdf
+"J.B. Pritzker",3.00,YouGov,1,NULL,2250,"Likely Voters",2026-01-09,https://ygo-assets-websites-editorial-emea.yougov.net/documents/2028_Presidential_Nominee_Preferences_poll_results.pdf
+"Andy Beshear",2.00,YouGov,1,NULL,2250,"Likely Voters",2026-01-09,https://ygo-assets-websites-editorial-emea.yougov.net/documents/2028_Presidential_Nominee_Preferences_poll_results.pdf
+"Mark Kelly",7.00,YouGov,1,NULL,2250,"Likely Voters",2026-01-09,https://ygo-assets-websites-editorial-emea.yougov.net/documents/2028_Presidential_Nominee_Preferences_poll_results.pdf
+"Kamala Harris",39.00,"Harvard Harris",1,NULL,2000,"Registered Voters",2026-01-28,https://harvardharrispoll.com/wp-content/uploads/2026/02/HHP_Jan2026_KeyResults.pdf
+"Gavin Newsom",30.00,"Harvard Harris",1,NULL,2000,"Registered Voters",2026-01-28,https://harvardharrispoll.com/wp-content/uploads/2026/02/HHP_Jan2026_KeyResults.pdf
+"Alexandria Ocasio-Cortez",12.00,"Harvard Harris",1,NULL,2000,"Registered Voters",2026-01-28,https://harvardharrispoll.com/wp-content/uploads/2026/02/HHP_Jan2026_KeyResults.pdf
+"Josh Shapiro",9.00,"Harvard Harris",1,NULL,2000,"Registered Voters",2026-01-28,https://harvardharrispoll.com/wp-content/uploads/2026/02/HHP_Jan2026_KeyResults.pdf
+"J.B. Pritzker",7.00,"Harvard Harris",1,NULL,2000,"Registered Voters",2026-01-28,https://harvardharrispoll.com/wp-content/uploads/2026/02/HHP_Jan2026_KeyResults.pdf
+"Kamala Harris",31.40,"Big Data Poll",1,NULL,1346,"Registered Voters",2026-01-22,https://www.bigdatapoll.com/blog/democrats-solidify-lead-over-republicans-on-first-2026-generic-ballot/
+"Gavin Newsom",22.20,"Big Data Poll",1,NULL,1346,"Registered Voters",2026-01-22,https://www.bigdatapoll.com/blog/democrats-solidify-lead-over-republicans-on-first-2026-generic-ballot/
+"Pete Buttigieg",11.70,"Big Data Poll",1,NULL,1346,"Registered Voters",2026-01-22,https://www.bigdatapoll.com/blog/democrats-solidify-lead-over-republicans-on-first-2026-generic-ballot/
+"Josh Shapiro",6.10,"Big Data Poll",1,NULL,1346,"Registered Voters",2026-01-22,https://www.bigdatapoll.com/blog/democrats-solidify-lead-over-republicans-on-first-2026-generic-ballot/
+"Gretchen Whitmer",3.10,"Big Data Poll",1,NULL,1346,"Registered Voters",2026-01-22,https://www.bigdatapoll.com/blog/democrats-solidify-lead-over-republicans-on-first-2026-generic-ballot/
+"Andy Beshear",2.50,"Big Data Poll",1,NULL,1346,"Registered Voters",2026-01-22,https://www.bigdatapoll.com/blog/democrats-solidify-lead-over-republicans-on-first-2026-generic-ballot/
+"Alexandria Ocasio-Cortez",6.40,"Big Data Poll",1,NULL,1346,"Registered Voters",2026-01-22,https://www.bigdatapoll.com/blog/democrats-solidify-lead-over-republicans-on-first-2026-generic-ballot/
+"Kamala Harris",21.00,"Echelon Insights",1,NULL,1029,"Likely Voters",2026-01-23,https://echeloninsights.com/in-the-news/january-2026-verified-voter-omnibus/
+"Gavin Newsom",27.00,"Echelon Insights",1,NULL,1029,"Likely Voters",2026-01-23,https://echeloninsights.com/in-the-news/january-2026-verified-voter-omnibus/
+"Josh Shapiro",3.00,"Echelon Insights",1,NULL,1029,"Likely Voters",2026-01-23,https://echeloninsights.com/in-the-news/january-2026-verified-voter-omnibus/
+"Gretchen Whitmer",3.00,"Echelon Insights",1,NULL,1029,"Likely Voters",2026-01-23,https://echeloninsights.com/in-the-news/january-2026-verified-voter-omnibus/
+"Cory Booker",3.00,"Echelon Insights",1,NULL,1029,"Likely Voters",2026-01-23,https://echeloninsights.com/in-the-news/january-2026-verified-voter-omnibus/
+"Pete Buttigieg",8.00,"Echelon Insights",1,NULL,1029,"Likely Voters",2026-01-23,https://echeloninsights.com/in-the-news/january-2026-verified-voter-omnibus/
+"Andy Beshear",2.00,"Echelon Insights",1,NULL,1029,"Likely Voters",2026-01-23,https://echeloninsights.com/in-the-news/january-2026-verified-voter-omnibus/
+"Raphael Warnock",2.00,"Echelon Insights",1,NULL,1029,"Likely Voters",2026-01-23,https://echeloninsights.com/in-the-news/january-2026-verified-voter-omnibus/
+"Mark Kelly",4.00,"Echelon Insights",1,NULL,1029,"Likely Voters",2026-01-23,https://echeloninsights.com/in-the-news/january-2026-verified-voter-omnibus/
+"Alexandria Ocasio-Cortez",9.00,"Echelon Insights",1,NULL,1029,"Likely Voters",2026-01-23,https://echeloninsights.com/in-the-news/january-2026-verified-voter-omnibus/
+"J.B. Pritzker",3.00,"Echelon Insights",1,NULL,1029,"Likely Voters",2026-01-23,https://echeloninsights.com/in-the-news/january-2026-verified-voter-omnibus/
+"Kamala Harris",27.00,"McLaughlin & Associates",1,NULL,1000,"Likely Voters",2026-01-21,https://mclaughlinonline.com/pols/wp-content/uploads/2026/02/National-January-2026-Presentation-RELEASE-1-1.pdf
+"Cory Booker",3.00,"McLaughlin & Associates",1,NULL,1000,"Likely Voters",2026-01-21,https://mclaughlinonline.com/pols/wp-content/uploads/2026/02/National-January-2026-Presentation-RELEASE-1-1.pdf
+"Pete Buttigieg",8.00,"McLaughlin & Associates",1,NULL,1000,"Likely Voters",2026-01-21,https://mclaughlinonline.com/pols/wp-content/uploads/2026/02/National-January-2026-Presentation-RELEASE-1-1.pdf
+"Gavin Newsom",14.00,"McLaughlin & Associates",1,NULL,1000,"Likely Voters",2026-01-21,https://mclaughlinonline.com/pols/wp-content/uploads/2026/02/National-January-2026-Presentation-RELEASE-1-1.pdf
+"Alexandria Ocasio-Cortez",14.00,"McLaughlin & Associates",1,NULL,1000,"Likely Voters",2026-01-21,https://mclaughlinonline.com/pols/wp-content/uploads/2026/02/National-January-2026-Presentation-RELEASE-1-1.pdf
+"Josh Shapiro",4.00,"McLaughlin & Associates",1,NULL,1000,"Likely Voters",2026-01-21,https://mclaughlinonline.com/pols/wp-content/uploads/2026/02/National-January-2026-Presentation-RELEASE-1-1.pdf
+"Tim Walz",3.00,"McLaughlin & Associates",1,NULL,1000,"Likely Voters",2026-01-21,https://mclaughlinonline.com/pols/wp-content/uploads/2026/02/National-January-2026-Presentation-RELEASE-1-1.pdf
+"Amy Klobuchar",1.00,"McLaughlin & Associates",1,NULL,1000,"Likely Voters",2026-01-21,https://mclaughlinonline.com/pols/wp-content/uploads/2026/02/National-January-2026-Presentation-RELEASE-1-1.pdf
+"Gretchen Whitmer",2.00,"McLaughlin & Associates",1,NULL,1000,"Likely Voters",2026-01-21,https://mclaughlinonline.com/pols/wp-content/uploads/2026/02/National-January-2026-Presentation-RELEASE-1-1.pdf
+"J.B. Pritzker",2.00,"McLaughlin & Associates",1,NULL,1000,"Likely Voters",2026-01-21,https://mclaughlinonline.com/pols/wp-content/uploads/2026/02/National-January-2026-Presentation-RELEASE-1-1.pdf
+"Jasmine Crockett",4.00,"McLaughlin & Associates",1,NULL,1000,"Likely Voters",2026-01-21,https://mclaughlinonline.com/pols/wp-content/uploads/2026/02/National-January-2026-Presentation-RELEASE-1-1.pdf
+"Stephen A. Smith",1.00,"McLaughlin & Associates",1,NULL,1000,"Likely Voters",2026-01-21,https://mclaughlinonline.com/pols/wp-content/uploads/2026/02/National-January-2026-Presentation-RELEASE-1-1.pdf
+"Phil Murphy",1.00,"McLaughlin & Associates",1,NULL,1000,"Likely Voters",2026-01-21,https://mclaughlinonline.com/pols/wp-content/uploads/2026/02/National-January-2026-Presentation-RELEASE-1-1.pdf
+"Jared Polis",1.00,"McLaughlin & Associates",1,NULL,1000,"Likely Voters",2026-01-21,https://mclaughlinonline.com/pols/wp-content/uploads/2026/02/National-January-2026-Presentation-RELEASE-1-1.pdf
+"Rahm Emanuel",1.00,"McLaughlin & Associates",1,NULL,1000,"Likely Voters",2026-01-21,https://mclaughlinonline.com/pols/wp-content/uploads/2026/02/National-January-2026-Presentation-RELEASE-1-1.pdf
+"Roy Cooper",2.00,"McLaughlin & Associates",1,NULL,1000,"Likely Voters",2026-01-21,https://mclaughlinonline.com/pols/wp-content/uploads/2026/02/National-January-2026-Presentation-RELEASE-1-1.pdf
+"Kamala Harris",34.00,"Rasmussen Reports",1,NULL,1115,"Likely Voters",2026-01-25,https://www.rasmussenreports.com/public_content/politics/trump_administration_second_term/kamala_harris_still_leads_2028_field_for_democrats
+"Gavin Newsom",20.00,"Rasmussen Reports",1,NULL,1115,"Likely Voters",2026-01-25,https://www.rasmussenreports.com/public_content/politics/trump_administration_second_term/kamala_harris_still_leads_2028_field_for_democrats
+"Josh Shapiro",10.00,"Rasmussen Reports",1,NULL,1115,"Likely Voters",2026-01-25,https://www.rasmussenreports.com/public_content/politics/trump_administration_second_term/kamala_harris_still_leads_2028_field_for_democrats
+"Cory Booker",6.00,"Rasmussen Reports",1,NULL,1115,"Likely Voters",2026-01-25,https://www.rasmussenreports.com/public_content/politics/trump_administration_second_term/kamala_harris_still_leads_2028_field_for_democrats
+"Alexandria Ocasio-Cortez",7.00,"Rasmussen Reports",1,NULL,1115,"Likely Voters",2026-01-25,https://www.rasmussenreports.com/public_content/politics/trump_administration_second_term/kamala_harris_still_leads_2028_field_for_democrats
+"Pete Buttigieg",10.00,"Rasmussen Reports",1,NULL,1115,"Likely Voters",2026-01-25,https://www.rasmussenreports.com/public_content/politics/trump_administration_second_term/kamala_harris_still_leads_2028_field_for_democrats
+"Kamala Harris",38.00,I&I/TIPP,1,NULL,527,"Registered Voters",2026-01-27,https://issuesinsights.com/2026/02/16/who-leads-in-2028-presidential-race-and-in-2026-midterm-elections-ii-tipp-poll/
+"Gavin Newsom",13.00,I&I/TIPP,1,NULL,527,"Registered Voters",2026-01-27,https://issuesinsights.com/2026/02/16/who-leads-in-2028-presidential-race-and-in-2026-midterm-elections-ii-tipp-poll/
+"Josh Shapiro",4.00,I&I/TIPP,1,NULL,527,"Registered Voters",2026-01-27,https://issuesinsights.com/2026/02/16/who-leads-in-2028-presidential-race-and-in-2026-midterm-elections-ii-tipp-poll/
+"Pete Buttigieg",5.00,I&I/TIPP,1,NULL,527,"Registered Voters",2026-01-27,https://issuesinsights.com/2026/02/16/who-leads-in-2028-presidential-race-and-in-2026-midterm-elections-ii-tipp-poll/
+"Alexandria Ocasio-Cortez",2.00,I&I/TIPP,1,NULL,527,"Registered Voters",2026-01-27,https://issuesinsights.com/2026/02/16/who-leads-in-2028-presidential-race-and-in-2026-midterm-elections-ii-tipp-poll/
+"J.B. Pritzker",3.00,I&I/TIPP,1,NULL,527,"Registered Voters",2026-01-27,https://issuesinsights.com/2026/02/16/who-leads-in-2028-presidential-race-and-in-2026-midterm-elections-ii-tipp-poll/
+"Kamala Harris",39.00,Focaldata,1,NULL,1148,"Registered Voters",2026-02-10,https://www.focaldata.com/blog/cost-of-living-fuelling-democrat-strength-in-new-midterms-polling
+"Gavin Newsom",21.00,Focaldata,1,NULL,1148,"Registered Voters",2026-02-10,https://www.focaldata.com/blog/cost-of-living-fuelling-democrat-strength-in-new-midterms-polling
+"Josh Shapiro",7.00,Focaldata,1,NULL,1148,"Registered Voters",2026-02-10,https://www.focaldata.com/blog/cost-of-living-fuelling-democrat-strength-in-new-midterms-polling
+"Pete Buttigieg",7.00,Focaldata,1,NULL,1148,"Registered Voters",2026-02-10,https://www.focaldata.com/blog/cost-of-living-fuelling-democrat-strength-in-new-midterms-polling
+"Alexandria Ocasio-Cortez",10.00,Focaldata,1,NULL,1148,"Registered Voters",2026-02-10,https://www.focaldata.com/blog/cost-of-living-fuelling-democrat-strength-in-new-midterms-polling
+"J.B. Pritzker",3.00,Focaldata,1,NULL,1148,"Registered Voters",2026-02-10,https://www.focaldata.com/blog/cost-of-living-fuelling-democrat-strength-in-new-midterms-polling
+"Kamala Harris",18.00,YouGov/Yahoo,1,NULL,1704,"Registered Voters",2026-02-09,https://www.scribd.com/document/1000095650/Yahoo-YouGov-Politics-Poll-Feb-2026
+"Pete Buttigieg",13.00,YouGov/Yahoo,1,NULL,1704,"Registered Voters",2026-02-09,https://www.scribd.com/document/1000095650/Yahoo-YouGov-Politics-Poll-Feb-2026
+"Gavin Newsom",19.00,YouGov/Yahoo,1,NULL,1704,"Registered Voters",2026-02-09,https://www.scribd.com/document/1000095650/Yahoo-YouGov-Politics-Poll-Feb-2026
+"Alexandria Ocasio-Cortez",12.00,YouGov/Yahoo,1,NULL,1704,"Registered Voters",2026-02-09,https://www.scribd.com/document/1000095650/Yahoo-YouGov-Politics-Poll-Feb-2026
+"Cory Booker",3.00,YouGov/Yahoo,1,NULL,1704,"Registered Voters",2026-02-09,https://www.scribd.com/document/1000095650/Yahoo-YouGov-Politics-Poll-Feb-2026
+"Tim Walz",3.00,YouGov/Yahoo,1,NULL,1704,"Registered Voters",2026-02-09,https://www.scribd.com/document/1000095650/Yahoo-YouGov-Politics-Poll-Feb-2026
+"J.B. Pritzker",6.00,YouGov/Yahoo,1,NULL,1704,"Registered Voters",2026-02-09,https://www.scribd.com/document/1000095650/Yahoo-YouGov-Politics-Poll-Feb-2026
+"Mark Kelly",9.00,YouGov/Yahoo,1,NULL,1704,"Registered Voters",2026-02-09,https://www.scribd.com/document/1000095650/Yahoo-YouGov-Politics-Poll-Feb-2026
+"Kamala Harris",23.00,"Manhattan Institute",1,NULL,1782,"Registered Voters",2026-02-06,https://manhattan.institute/article/do-democrats-want-to-be-normal-survey-analysis-of-todays-democratic-coalition
+"Pete Buttigieg",8.00,"Manhattan Institute",1,NULL,1782,"Registered Voters",2026-02-06,https://manhattan.institute/article/do-democrats-want-to-be-normal-survey-analysis-of-todays-democratic-coalition
+"Gavin Newsom",20.00,"Manhattan Institute",1,NULL,1782,"Registered Voters",2026-02-06,https://manhattan.institute/article/do-democrats-want-to-be-normal-survey-analysis-of-todays-democratic-coalition
+"Alexandria Ocasio-Cortez",7.00,"Manhattan Institute",1,NULL,1782,"Registered Voters",2026-02-06,https://manhattan.institute/article/do-democrats-want-to-be-normal-survey-analysis-of-todays-democratic-coalition
+"Cory Booker",2.00,"Manhattan Institute",1,NULL,1782,"Registered Voters",2026-02-06,https://manhattan.institute/article/do-democrats-want-to-be-normal-survey-analysis-of-todays-democratic-coalition
+"Josh Shapiro",5.00,"Manhattan Institute",1,NULL,1782,"Registered Voters",2026-02-06,https://manhattan.institute/article/do-democrats-want-to-be-normal-survey-analysis-of-todays-democratic-coalition
+"J.B. Pritzker",2.00,"Manhattan Institute",1,NULL,1782,"Registered Voters",2026-02-06,https://manhattan.institute/article/do-democrats-want-to-be-normal-survey-analysis-of-todays-democratic-coalition
+"Andy Beshear",2.00,"Manhattan Institute",1,NULL,1782,"Registered Voters",2026-02-06,https://manhattan.institute/article/do-democrats-want-to-be-normal-survey-analysis-of-todays-democratic-coalition
+"Jon Ossoff",1.00,"Manhattan Institute",1,NULL,1782,"Registered Voters",2026-02-06,https://manhattan.institute/article/do-democrats-want-to-be-normal-survey-analysis-of-todays-democratic-coalition
+"Ro Khanna",1.00,"Manhattan Institute",1,NULL,1782,"Registered Voters",2026-02-06,https://manhattan.institute/article/do-democrats-want-to-be-normal-survey-analysis-of-todays-democratic-coalition
+"Chris Murphy",1.00,"Manhattan Institute",1,NULL,1782,"Registered Voters",2026-02-06,https://manhattan.institute/article/do-democrats-want-to-be-normal-survey-analysis-of-todays-democratic-coalition
+"Gretchen Whitmer",2.00,"Manhattan Institute",1,NULL,1782,"Registered Voters",2026-02-06,https://manhattan.institute/article/do-democrats-want-to-be-normal-survey-analysis-of-todays-democratic-coalition
+"Mark Kelly",4.00,"Manhattan Institute",1,NULL,1782,"Registered Voters",2026-02-06,https://manhattan.institute/article/do-democrats-want-to-be-normal-survey-analysis-of-todays-democratic-coalition
+"Kamala Harris",18.00,YouGov/BGSU,1,NULL,556,"Registered Voters",2026-02-13,https://www.bgsu.edu/arts-and-sciences/democracy-and-public-policy-research-network/bgsu-poll.html
+"Pete Buttigieg",11.00,YouGov/BGSU,1,NULL,556,"Registered Voters",2026-02-13,https://www.bgsu.edu/arts-and-sciences/democracy-and-public-policy-research-network/bgsu-poll.html
+"Alexandria Ocasio-Cortez",11.00,YouGov/BGSU,1,NULL,556,"Registered Voters",2026-02-13,https://www.bgsu.edu/arts-and-sciences/democracy-and-public-policy-research-network/bgsu-poll.html
+"Cory Booker",2.00,YouGov/BGSU,1,NULL,556,"Registered Voters",2026-02-13,https://www.bgsu.edu/arts-and-sciences/democracy-and-public-policy-research-network/bgsu-poll.html
+"Gretchen Whitmer",2.00,YouGov/BGSU,1,NULL,556,"Registered Voters",2026-02-13,https://www.bgsu.edu/arts-and-sciences/democracy-and-public-policy-research-network/bgsu-poll.html
+"Amy Klobuchar",1.00,YouGov/BGSU,1,NULL,556,"Registered Voters",2026-02-13,https://www.bgsu.edu/arts-and-sciences/democracy-and-public-policy-research-network/bgsu-poll.html
+"Phil Murphy",1.00,YouGov/BGSU,1,NULL,556,"Registered Voters",2026-02-13,https://www.bgsu.edu/arts-and-sciences/democracy-and-public-policy-research-network/bgsu-poll.html
+"Josh Shapiro",3.00,YouGov/BGSU,1,NULL,556,"Registered Voters",2026-02-13,https://www.bgsu.edu/arts-and-sciences/democracy-and-public-policy-research-network/bgsu-poll.html
+"Andy Beshear",3.00,YouGov/BGSU,1,NULL,556,"Registered Voters",2026-02-13,https://www.bgsu.edu/arts-and-sciences/democracy-and-public-policy-research-network/bgsu-poll.html
+"Tim Walz",3.00,YouGov/BGSU,1,NULL,556,"Registered Voters",2026-02-13,https://www.bgsu.edu/arts-and-sciences/democracy-and-public-policy-research-network/bgsu-poll.html
+"J.B. Pritzker",6.00,YouGov/BGSU,1,NULL,556,"Registered Voters",2026-02-13,https://www.bgsu.edu/arts-and-sciences/democracy-and-public-policy-research-network/bgsu-poll.html
+"Mark Kelly",7.00,YouGov/BGSU,1,NULL,556,"Registered Voters",2026-02-13,https://www.bgsu.edu/arts-and-sciences/democracy-and-public-policy-research-network/bgsu-poll.html
+"Kamala Harris",18.00,"Echelon Insights",1,NULL,1002,"Likely Voters",2026-02-19,https://echeloninsights.com/in-the-news/february-2026-verified-voter-omnibus/
+"Gavin Newsom",24.00,"Echelon Insights",1,NULL,1002,"Likely Voters",2026-02-19,https://echeloninsights.com/in-the-news/february-2026-verified-voter-omnibus/
+"Josh Shapiro",4.00,"Echelon Insights",1,NULL,1002,"Likely Voters",2026-02-19,https://echeloninsights.com/in-the-news/february-2026-verified-voter-omnibus/
+"Gretchen Whitmer",2.00,"Echelon Insights",1,NULL,1002,"Likely Voters",2026-02-19,https://echeloninsights.com/in-the-news/february-2026-verified-voter-omnibus/
+"Chris Murphy",1.00,"Echelon Insights",1,NULL,1002,"Likely Voters",2026-02-19,https://echeloninsights.com/in-the-news/february-2026-verified-voter-omnibus/
+"Jon Ossoff",1.00,"Echelon Insights",1,NULL,1002,"Likely Voters",2026-02-19,https://echeloninsights.com/in-the-news/february-2026-verified-voter-omnibus/
+"John Fetterman",1.00,"Echelon Insights",1,NULL,1002,"Likely Voters",2026-02-19,https://echeloninsights.com/in-the-news/february-2026-verified-voter-omnibus/
+"Jared Polis",1.00,"Echelon Insights",1,NULL,1002,"Likely Voters",2026-02-19,https://echeloninsights.com/in-the-news/february-2026-verified-voter-omnibus/
+"Stephen A. Smith",1.00,"Echelon Insights",1,NULL,1002,"Likely Voters",2026-02-19,https://echeloninsights.com/in-the-news/february-2026-verified-voter-omnibus/
+"Cory Booker",3.00,"Echelon Insights",1,NULL,1002,"Likely Voters",2026-02-19,https://echeloninsights.com/in-the-news/february-2026-verified-voter-omnibus/
+"Pete Buttigieg",8.00,"Echelon Insights",1,NULL,1002,"Likely Voters",2026-02-19,https://echeloninsights.com/in-the-news/february-2026-verified-voter-omnibus/
+"Andy Beshear",2.00,"Echelon Insights",1,NULL,1002,"Likely Voters",2026-02-19,https://echeloninsights.com/in-the-news/february-2026-verified-voter-omnibus/
+"Raphael Warnock",1.00,"Echelon Insights",1,NULL,1002,"Likely Voters",2026-02-19,https://echeloninsights.com/in-the-news/february-2026-verified-voter-omnibus/
+"Mark Kelly",4.00,"Echelon Insights",1,NULL,1002,"Likely Voters",2026-02-19,https://echeloninsights.com/in-the-news/february-2026-verified-voter-omnibus/
+"Alexandria Ocasio-Cortez",9.00,"Echelon Insights",1,NULL,1002,"Likely Voters",2026-02-19,https://echeloninsights.com/in-the-news/february-2026-verified-voter-omnibus/
+"J.B. Pritzker",4.00,"Echelon Insights",1,NULL,1002,"Likely Voters",2026-02-19,https://echeloninsights.com/in-the-news/february-2026-verified-voter-omnibus/
+"Kamala Harris",39.00,"Harvard Harris",1,NULL,732,"Registered Voters",2026-02-25,https://harvardharrispoll.com/wp-content/uploads/2026/03/HHP_Feb2026_KeyResults_Mon.pdf
+"Gavin Newsom",24.00,"Harvard Harris",1,NULL,732,"Registered Voters",2026-02-25,https://harvardharrispoll.com/wp-content/uploads/2026/03/HHP_Feb2026_KeyResults_Mon.pdf
+"Alexandria Ocasio-Cortez",14.00,"Harvard Harris",1,NULL,732,"Registered Voters",2026-02-25,https://harvardharrispoll.com/wp-content/uploads/2026/03/HHP_Feb2026_KeyResults_Mon.pdf
+"Josh Shapiro",10.00,"Harvard Harris",1,NULL,732,"Registered Voters",2026-02-25,https://harvardharrispoll.com/wp-content/uploads/2026/03/HHP_Feb2026_KeyResults_Mon.pdf
+"J.B. Pritzker",6.00,"Harvard Harris",1,NULL,732,"Registered Voters",2026-02-25,https://harvardharrispoll.com/wp-content/uploads/2026/03/HHP_Feb2026_KeyResults_Mon.pdf
+"Kamala Harris",23.00,"J.L. Partners",1,NULL,1095,"Registered Voters",2025-02-26,https://www.oregonlive.com/politics/2026/03/the-top-democrat-in-2028-presidential-polling-might-surprise-you.html
+"Gavin Newsom",19.00,"J.L. Partners",1,NULL,1095,"Registered Voters",2025-02-26,https://www.oregonlive.com/politics/2026/03/the-top-democrat-in-2028-presidential-polling-might-surprise-you.html
+"Josh Shapiro",5.00,"J.L. Partners",1,NULL,1095,"Registered Voters",2025-02-26,https://www.oregonlive.com/politics/2026/03/the-top-democrat-in-2028-presidential-polling-might-surprise-you.html
+"Pete Buttigieg",10.00,"J.L. Partners",1,NULL,1095,"Registered Voters",2025-02-26,https://www.oregonlive.com/politics/2026/03/the-top-democrat-in-2028-presidential-polling-might-surprise-you.html
+"Cory Booker",5.00,"J.L. Partners",1,NULL,1095,"Registered Voters",2025-02-26,https://www.oregonlive.com/politics/2026/03/the-top-democrat-in-2028-presidential-polling-might-surprise-you.html
+"J.B. Pritzker",4.00,"J.L. Partners",1,NULL,1095,"Registered Voters",2025-02-26,https://www.oregonlive.com/politics/2026/03/the-top-democrat-in-2028-presidential-polling-might-surprise-you.html
+"Alexandria Ocasio-Cortez",9.00,"J.L. Partners",1,NULL,1095,"Registered Voters",2025-02-26,https://www.oregonlive.com/politics/2026/03/the-top-democrat-in-2028-presidential-polling-might-surprise-you.html
+"Kamala Harris",15.20,"The Public Sentiment Institute",1,NULL,124,"Likely Voters",2026-02-28,https://tpsiofficial.substack.com/p/what-america-is-actually-thinking
+"Gavin Newsom",29.30,"The Public Sentiment Institute",1,NULL,124,"Likely Voters",2026-02-28,https://tpsiofficial.substack.com/p/what-america-is-actually-thinking
+"Pete Buttigieg",9.30,"The Public Sentiment Institute",1,NULL,124,"Likely Voters",2026-02-28,https://tpsiofficial.substack.com/p/what-america-is-actually-thinking
+"Cory Booker",5.00,"The Public Sentiment Institute",1,NULL,124,"Likely Voters",2026-02-28,https://tpsiofficial.substack.com/p/what-america-is-actually-thinking
+"Josh Shapiro",7.00,"The Public Sentiment Institute",1,NULL,124,"Likely Voters",2026-02-28,https://tpsiofficial.substack.com/p/what-america-is-actually-thinking
+"Stephen A. Smith",9.00,"The Public Sentiment Institute",1,NULL,124,"Likely Voters",2026-02-28,https://tpsiofficial.substack.com/p/what-america-is-actually-thinking
+"J.B. Pritzker",3.80,"The Public Sentiment Institute",1,NULL,124,"Likely Voters",2026-02-28,https://tpsiofficial.substack.com/p/what-america-is-actually-thinking
+"Rahm Emanuel",0.40,"The Public Sentiment Institute",1,NULL,124,"Likely Voters",2026-02-28,https://tpsiofficial.substack.com/p/what-america-is-actually-thinking
+"Alexandria Ocasio-Cortez",5.80,"The Public Sentiment Institute",1,NULL,124,"Likely Voters",2026-02-28,https://tpsiofficial.substack.com/p/what-america-is-actually-thinking
+"Kamala Harris",31.00,"Noble Predictive Insights",1,NULL,1152,"Registered Voters",2026-03-02,https://www.thecentersquare.com/national/article_c0cbe579-b306-4407-a57b-6b590288daa3.html
+"Gavin Newsom",16.00,"Noble Predictive Insights",1,NULL,1152,"Registered Voters",2026-03-02,https://www.thecentersquare.com/national/article_c0cbe579-b306-4407-a57b-6b590288daa3.html
+"Josh Shapiro",5.00,"Noble Predictive Insights",1,NULL,1152,"Registered Voters",2026-03-02,https://www.thecentersquare.com/national/article_c0cbe579-b306-4407-a57b-6b590288daa3.html
+"Pete Buttigieg",7.00,"Noble Predictive Insights",1,NULL,1152,"Registered Voters",2026-03-02,https://www.thecentersquare.com/national/article_c0cbe579-b306-4407-a57b-6b590288daa3.html
+"Cory Booker",3.00,"Noble Predictive Insights",1,NULL,1152,"Registered Voters",2026-03-02,https://www.thecentersquare.com/national/article_c0cbe579-b306-4407-a57b-6b590288daa3.html
+"Alexandria Ocasio-Cortez",6.00,"Noble Predictive Insights",1,NULL,1152,"Registered Voters",2026-03-02,https://www.thecentersquare.com/national/article_c0cbe579-b306-4407-a57b-6b590288daa3.html
+"J.B. Pritzker",2.00,"Noble Predictive Insights",1,NULL,1152,"Registered Voters",2026-03-02,https://www.thecentersquare.com/national/article_c0cbe579-b306-4407-a57b-6b590288daa3.html
+"Kamala Harris",20.00,"McLaughlin & Associates",1,NULL,456,"Likely Voters",2026-03-04,https://mclaughlinonline.com/pols/wp-content/uploads/2026/03/National-March-Presentation-RELEASE-03-10-26.pdf
+"Cory Booker",2.00,"McLaughlin & Associates",1,NULL,456,"Likely Voters",2026-03-04,https://mclaughlinonline.com/pols/wp-content/uploads/2026/03/National-March-Presentation-RELEASE-03-10-26.pdf
+"Pete Buttigieg",9.00,"McLaughlin & Associates",1,NULL,456,"Likely Voters",2026-03-04,https://mclaughlinonline.com/pols/wp-content/uploads/2026/03/National-March-Presentation-RELEASE-03-10-26.pdf
+"Gavin Newsom",19.00,"McLaughlin & Associates",1,NULL,456,"Likely Voters",2026-03-04,https://mclaughlinonline.com/pols/wp-content/uploads/2026/03/National-March-Presentation-RELEASE-03-10-26.pdf
+"Alexandria Ocasio-Cortez",11.00,"McLaughlin & Associates",1,NULL,456,"Likely Voters",2026-03-04,https://mclaughlinonline.com/pols/wp-content/uploads/2026/03/National-March-Presentation-RELEASE-03-10-26.pdf
+"Josh Shapiro",5.00,"McLaughlin & Associates",1,NULL,456,"Likely Voters",2026-03-04,https://mclaughlinonline.com/pols/wp-content/uploads/2026/03/National-March-Presentation-RELEASE-03-10-26.pdf
+"Tim Walz",2.00,"McLaughlin & Associates",1,NULL,456,"Likely Voters",2026-03-04,https://mclaughlinonline.com/pols/wp-content/uploads/2026/03/National-March-Presentation-RELEASE-03-10-26.pdf
+"Amy Klobuchar",3.00,"McLaughlin & Associates",1,NULL,456,"Likely Voters",2026-03-04,https://mclaughlinonline.com/pols/wp-content/uploads/2026/03/National-March-Presentation-RELEASE-03-10-26.pdf
+"Gretchen Whitmer",3.00,"McLaughlin & Associates",1,NULL,456,"Likely Voters",2026-03-04,https://mclaughlinonline.com/pols/wp-content/uploads/2026/03/National-March-Presentation-RELEASE-03-10-26.pdf
+"J.B. Pritzker",2.00,"McLaughlin & Associates",1,NULL,456,"Likely Voters",2026-03-04,https://mclaughlinonline.com/pols/wp-content/uploads/2026/03/National-March-Presentation-RELEASE-03-10-26.pdf
+"Jasmine Crockett",3.00,"McLaughlin & Associates",1,NULL,456,"Likely Voters",2026-03-04,https://mclaughlinonline.com/pols/wp-content/uploads/2026/03/National-March-Presentation-RELEASE-03-10-26.pdf
+"Stephen A. Smith",1.00,"McLaughlin & Associates",1,NULL,456,"Likely Voters",2026-03-04,https://mclaughlinonline.com/pols/wp-content/uploads/2026/03/National-March-Presentation-RELEASE-03-10-26.pdf
+"Phil Murphy",1.00,"McLaughlin & Associates",1,NULL,456,"Likely Voters",2026-03-04,https://mclaughlinonline.com/pols/wp-content/uploads/2026/03/National-March-Presentation-RELEASE-03-10-26.pdf
+"Rahm Emanuel",1.00,"McLaughlin & Associates",1,NULL,456,"Likely Voters",2026-03-04,https://mclaughlinonline.com/pols/wp-content/uploads/2026/03/National-March-Presentation-RELEASE-03-10-26.pdf
+"Roy Cooper",1.00,"McLaughlin & Associates",1,NULL,456,"Likely Voters",2026-03-04,https://mclaughlinonline.com/pols/wp-content/uploads/2026/03/National-March-Presentation-RELEASE-03-10-26.pdf
+"Kamala Harris",39.00,Focaldata,1,NULL,1782,NULL,2026-03-06,https://www.focaldata.com/blog/democrats-increase-lead-and-rubio-stock-surges-amid-iran-war
+"Gavin Newsom",22.00,Focaldata,1,NULL,1782,NULL,2026-03-06,https://www.focaldata.com/blog/democrats-increase-lead-and-rubio-stock-surges-amid-iran-war
+"Josh Shapiro",6.00,Focaldata,1,NULL,1782,NULL,2026-03-06,https://www.focaldata.com/blog/democrats-increase-lead-and-rubio-stock-surges-amid-iran-war
+"Pete Buttigieg",8.00,Focaldata,1,NULL,1782,NULL,2026-03-06,https://www.focaldata.com/blog/democrats-increase-lead-and-rubio-stock-surges-amid-iran-war
+"Andy Beshear",2.00,Focaldata,1,NULL,1782,NULL,2026-03-06,https://www.focaldata.com/blog/democrats-increase-lead-and-rubio-stock-surges-amid-iran-war
+"Jon Ossoff",2.00,Focaldata,1,NULL,1782,NULL,2026-03-06,https://www.focaldata.com/blog/democrats-increase-lead-and-rubio-stock-surges-amid-iran-war
+"Mark Kelly",4.00,Focaldata,1,NULL,1782,NULL,2026-03-06,https://www.focaldata.com/blog/democrats-increase-lead-and-rubio-stock-surges-amid-iran-war
+"Alexandria Ocasio-Cortez",11.00,Focaldata,1,NULL,1782,NULL,2026-03-06,https://www.focaldata.com/blog/democrats-increase-lead-and-rubio-stock-surges-amid-iran-war
+"J.B. Pritzker",4.00,Focaldata,1,NULL,1782,NULL,2026-03-06,https://www.focaldata.com/blog/democrats-increase-lead-and-rubio-stock-surges-amid-iran-war
+"Kamala Harris",21.00,"Echelon Insights",1,NULL,1033,"Likely Voters",2026-03-12,https://echeloninsights.com/in-the-news/march-2026-verified-voter-omnibus/
+"Gavin Newsom",19.00,"Echelon Insights",1,NULL,1033,"Likely Voters",2026-03-12,https://echeloninsights.com/in-the-news/march-2026-verified-voter-omnibus/
+"Josh Shapiro",5.00,"Echelon Insights",1,NULL,1033,"Likely Voters",2026-03-12,https://echeloninsights.com/in-the-news/march-2026-verified-voter-omnibus/
+"Gretchen Whitmer",2.00,"Echelon Insights",1,NULL,1033,"Likely Voters",2026-03-12,https://echeloninsights.com/in-the-news/march-2026-verified-voter-omnibus/
+"Cory Booker",4.00,"Echelon Insights",1,NULL,1033,"Likely Voters",2026-03-12,https://echeloninsights.com/in-the-news/march-2026-verified-voter-omnibus/
+"Pete Buttigieg",9.00,"Echelon Insights",1,NULL,1033,"Likely Voters",2026-03-12,https://echeloninsights.com/in-the-news/march-2026-verified-voter-omnibus/
+"Andy Beshear",4.00,"Echelon Insights",1,NULL,1033,"Likely Voters",2026-03-12,https://echeloninsights.com/in-the-news/march-2026-verified-voter-omnibus/
+"Raphael Warnock",2.00,"Echelon Insights",1,NULL,1033,"Likely Voters",2026-03-12,https://echeloninsights.com/in-the-news/march-2026-verified-voter-omnibus/
+"Mark Kelly",4.00,"Echelon Insights",1,NULL,1033,"Likely Voters",2026-03-12,https://echeloninsights.com/in-the-news/march-2026-verified-voter-omnibus/
+"Alexandria Ocasio-Cortez",11.00,"Echelon Insights",1,NULL,1033,"Likely Voters",2026-03-12,https://echeloninsights.com/in-the-news/march-2026-verified-voter-omnibus/
+"Chris Murphy",1.00,"Echelon Insights",1,NULL,1033,"Likely Voters",2026-03-12,https://echeloninsights.com/in-the-news/march-2026-verified-voter-omnibus/
+"Jon Ossoff",1.00,"Echelon Insights",1,NULL,1033,"Likely Voters",2026-03-12,https://echeloninsights.com/in-the-news/march-2026-verified-voter-omnibus/
+"Ro Khanna",1.00,"Echelon Insights",1,NULL,1033,"Likely Voters",2026-03-12,https://echeloninsights.com/in-the-news/march-2026-verified-voter-omnibus/
+"Jared Polis",1.00,"Echelon Insights",1,NULL,1033,"Likely Voters",2026-03-12,https://echeloninsights.com/in-the-news/march-2026-verified-voter-omnibus/
+"John Fetterman",1.00,"Echelon Insights",1,NULL,1033,"Likely Voters",2026-03-12,https://echeloninsights.com/in-the-news/march-2026-verified-voter-omnibus/
+"J.B. Pritzker",2.00,"Echelon Insights",1,NULL,1033,"Likely Voters",2026-03-12,https://echeloninsights.com/in-the-news/march-2026-verified-voter-omnibus/
+"Kamala Harris",19.70,"Yale Youth Poll",1,NULL,1557,"Registered Voters",2026-03-03,https://youthpoll.yale.edu/spring-2026-results
+"Gavin Newsom",19.20,"Yale Youth Poll",1,NULL,1557,"Registered Voters",2026-03-03,https://youthpoll.yale.edu/spring-2026-results
+"Josh Shapiro",3.50,"Yale Youth Poll",1,NULL,1557,"Registered Voters",2026-03-03,https://youthpoll.yale.edu/spring-2026-results
+"Tim Walz",1.80,"Yale Youth Poll",1,NULL,1557,"Registered Voters",2026-03-03,https://youthpoll.yale.edu/spring-2026-results
+"Jon Ossoff",1.40,"Yale Youth Poll",1,NULL,1557,"Registered Voters",2026-03-03,https://youthpoll.yale.edu/spring-2026-results
+"Raphael Warnock",1.10,"Yale Youth Poll",1,NULL,1557,"Registered Voters",2026-03-03,https://youthpoll.yale.edu/spring-2026-results
+"Chris Murphy",1.00,"Yale Youth Poll",1,NULL,1557,"Registered Voters",2026-03-03,https://youthpoll.yale.edu/spring-2026-results
+"Jared Polis",0.90,"Yale Youth Poll",1,NULL,1557,"Registered Voters",2026-03-03,https://youthpoll.yale.edu/spring-2026-results
+"Ruben Gallego",0.20,"Yale Youth Poll",1,NULL,1557,"Registered Voters",2026-03-03,https://youthpoll.yale.edu/spring-2026-results
+"Gretchen Whitmer",2.00,"Yale Youth Poll",1,NULL,1557,"Registered Voters",2026-03-03,https://youthpoll.yale.edu/spring-2026-results
+"Pete Buttigieg",13.90,"Yale Youth Poll",1,NULL,1557,"Registered Voters",2026-03-03,https://youthpoll.yale.edu/spring-2026-results
+"Cory Booker",2.20,"Yale Youth Poll",1,NULL,1557,"Registered Voters",2026-03-03,https://youthpoll.yale.edu/spring-2026-results
+"Mark Kelly",6.70,"Yale Youth Poll",1,NULL,1557,"Registered Voters",2026-03-03,https://youthpoll.yale.edu/spring-2026-results
+"Alexandria Ocasio-Cortez",12.70,"Yale Youth Poll",1,NULL,1557,"Registered Voters",2026-03-03,https://youthpoll.yale.edu/spring-2026-results
+"J.B. Pritzker",3.50,"Yale Youth Poll",1,NULL,1557,"Registered Voters",2026-03-03,https://youthpoll.yale.edu/spring-2026-results
+"Andy Beshear",2.40,"Yale Youth Poll",1,NULL,1557,"Registered Voters",2026-03-03,https://youthpoll.yale.edu/spring-2026-results
+"Kamala Harris",21.00,"JL Partners/Daily Mail",1,NULL,541,"Likely Voters",2026-03-18,https://jlpartners.com/nationwide-registered-voters-march-2026
+"Gavin Newsom",19.00,"JL Partners/Daily Mail",1,NULL,541,"Likely Voters",2026-03-18,https://jlpartners.com/nationwide-registered-voters-march-2026
+"Josh Shapiro",8.00,"JL Partners/Daily Mail",1,NULL,541,"Likely Voters",2026-03-18,https://jlpartners.com/nationwide-registered-voters-march-2026
+"Tim Walz",2.00,"JL Partners/Daily Mail",1,NULL,541,"Likely Voters",2026-03-18,https://jlpartners.com/nationwide-registered-voters-march-2026
+"Jon Ossoff",2.00,"JL Partners/Daily Mail",1,NULL,541,"Likely Voters",2026-03-18,https://jlpartners.com/nationwide-registered-voters-march-2026
+"Gretchen Whitmer",2.00,"JL Partners/Daily Mail",1,NULL,541,"Likely Voters",2026-03-18,https://jlpartners.com/nationwide-registered-voters-march-2026
+"Amy Klobuchar",1.00,"JL Partners/Daily Mail",1,NULL,541,"Likely Voters",2026-03-18,https://jlpartners.com/nationwide-registered-voters-march-2026
+"Ruben Gallego",1.00,"JL Partners/Daily Mail",1,NULL,541,"Likely Voters",2026-03-18,https://jlpartners.com/nationwide-registered-voters-march-2026
+"John Fetterman",1.00,"JL Partners/Daily Mail",1,NULL,541,"Likely Voters",2026-03-18,https://jlpartners.com/nationwide-registered-voters-march-2026
+"Pete Buttigieg",11.00,"JL Partners/Daily Mail",1,NULL,541,"Likely Voters",2026-03-18,https://jlpartners.com/nationwide-registered-voters-march-2026
+"Cory Booker",3.00,"JL Partners/Daily Mail",1,NULL,541,"Likely Voters",2026-03-18,https://jlpartners.com/nationwide-registered-voters-march-2026
+"Mark Kelly",5.00,"JL Partners/Daily Mail",1,NULL,541,"Likely Voters",2026-03-18,https://jlpartners.com/nationwide-registered-voters-march-2026
+"Alexandria Ocasio-Cortez",7.00,"JL Partners/Daily Mail",1,NULL,541,"Likely Voters",2026-03-18,https://jlpartners.com/nationwide-registered-voters-march-2026
+"J.B. Pritzker",3.00,"JL Partners/Daily Mail",1,NULL,541,"Likely Voters",2026-03-18,https://jlpartners.com/nationwide-registered-voters-march-2026
+"Andy Beshear",2.00,"JL Partners/Daily Mail",1,NULL,541,"Likely Voters",2026-03-18,https://jlpartners.com/nationwide-registered-voters-march-2026
+"Kamala Harris",14.80,"The Public Sentiment Institute",1,NULL,234,"Likely Voters",2026-03-20,https://tpsiofficial.substack.com/p/the-public-sentiment-institute-march
+"Gavin Newsom",13.40,"The Public Sentiment Institute",1,NULL,234,"Likely Voters",2026-03-20,https://tpsiofficial.substack.com/p/the-public-sentiment-institute-march
+"Pete Buttigieg",20.80,"The Public Sentiment Institute",1,NULL,234,"Likely Voters",2026-03-20,https://tpsiofficial.substack.com/p/the-public-sentiment-institute-march
+"Cory Booker",3.70,"The Public Sentiment Institute",1,NULL,234,"Likely Voters",2026-03-20,https://tpsiofficial.substack.com/p/the-public-sentiment-institute-march
+"Josh Shapiro",10.40,"The Public Sentiment Institute",1,NULL,234,"Likely Voters",2026-03-20,https://tpsiofficial.substack.com/p/the-public-sentiment-institute-march
+"J.B. Pritzker",5.10,"The Public Sentiment Institute",1,NULL,234,"Likely Voters",2026-03-20,https://tpsiofficial.substack.com/p/the-public-sentiment-institute-march
+"Ro Khanna",1.70,"The Public Sentiment Institute",1,NULL,234,"Likely Voters",2026-03-20,https://tpsiofficial.substack.com/p/the-public-sentiment-institute-march
+"Alexandria Ocasio-Cortez",3.50,"The Public Sentiment Institute",1,NULL,234,"Likely Voters",2026-03-20,https://tpsiofficial.substack.com/p/the-public-sentiment-institute-march
+"Kamala Harris",41.00,"Harvard Harris",1,NULL,2009,"Registered Voters",2026-03-25,https://harvardharrispoll.com/wp-content/uploads/2026/03/HHP_Mar2026_KeyResults.pdf
+"Gavin Newsom",26.00,"Harvard Harris",1,NULL,2009,"Registered Voters",2026-03-25,https://harvardharrispoll.com/wp-content/uploads/2026/03/HHP_Mar2026_KeyResults.pdf
+"Alexandria Ocasio-Cortez",8.00,"Harvard Harris",1,NULL,2009,"Registered Voters",2026-03-25,https://harvardharrispoll.com/wp-content/uploads/2026/03/HHP_Mar2026_KeyResults.pdf
+"Josh Shapiro",10.00,"Harvard Harris",1,NULL,2009,"Registered Voters",2026-03-25,https://harvardharrispoll.com/wp-content/uploads/2026/03/HHP_Mar2026_KeyResults.pdf
+"J.B. Pritzker",7.00,"Harvard Harris",1,NULL,2009,"Registered Voters",2026-03-25,https://harvardharrispoll.com/wp-content/uploads/2026/03/HHP_Mar2026_KeyResults.pdf
+"Kamala Harris",24.00,YouGov,1,NULL,968,"Registered Voters",2026-04-08,https://d3nkl3psvxxpe9.cloudfront.net/documents/2028_Presidential_Preferences_poll_results_8WxHg6O.pdf
+"Pete Buttigieg",9.00,YouGov,1,NULL,968,"Registered Voters",2026-04-08,https://d3nkl3psvxxpe9.cloudfront.net/documents/2028_Presidential_Preferences_poll_results_8WxHg6O.pdf
+"Cory Booker",2.00,YouGov,1,NULL,968,"Registered Voters",2026-04-08,https://d3nkl3psvxxpe9.cloudfront.net/documents/2028_Presidential_Preferences_poll_results_8WxHg6O.pdf
+"Gavin Newsom",12.00,YouGov,1,NULL,968,"Registered Voters",2026-04-08,https://d3nkl3psvxxpe9.cloudfront.net/documents/2028_Presidential_Preferences_poll_results_8WxHg6O.pdf
+"Alexandria Ocasio-Cortez",9.00,YouGov,1,NULL,968,"Registered Voters",2026-04-08,https://d3nkl3psvxxpe9.cloudfront.net/documents/2028_Presidential_Preferences_poll_results_8WxHg6O.pdf
+"Josh Shapiro",5.00,YouGov,1,NULL,968,"Registered Voters",2026-04-08,https://d3nkl3psvxxpe9.cloudfront.net/documents/2028_Presidential_Preferences_poll_results_8WxHg6O.pdf
+"J.B. Pritzker",3.00,YouGov,1,NULL,968,"Registered Voters",2026-04-08,https://d3nkl3psvxxpe9.cloudfront.net/documents/2028_Presidential_Preferences_poll_results_8WxHg6O.pdf
+"Kamala Harris",22.00,"Echelon Insights",1,NULL,525,"Registered Voters",2026-04-17,https://echeloninsights.com/insights/april-2026-verified-voter-omnibus
+"Gavin Newsom",21.00,"Echelon Insights",1,NULL,525,"Registered Voters",2026-04-17,https://echeloninsights.com/insights/april-2026-verified-voter-omnibus
+"Josh Shapiro",5.00,"Echelon Insights",1,NULL,525,"Registered Voters",2026-04-17,https://echeloninsights.com/insights/april-2026-verified-voter-omnibus
+"Gretchen Whitmer",2.00,"Echelon Insights",1,NULL,525,"Registered Voters",2026-04-17,https://echeloninsights.com/insights/april-2026-verified-voter-omnibus
+"Cory Booker",4.00,"Echelon Insights",1,NULL,525,"Registered Voters",2026-04-17,https://echeloninsights.com/insights/april-2026-verified-voter-omnibus
+"Pete Buttigieg",12.00,"Echelon Insights",1,NULL,525,"Registered Voters",2026-04-17,https://echeloninsights.com/insights/april-2026-verified-voter-omnibus
+"Andy Beshear",2.00,"Echelon Insights",1,NULL,525,"Registered Voters",2026-04-17,https://echeloninsights.com/insights/april-2026-verified-voter-omnibus
+"Raphael Warnock",1.00,"Echelon Insights",1,NULL,525,"Registered Voters",2026-04-17,https://echeloninsights.com/insights/april-2026-verified-voter-omnibus
+"Mark Kelly",3.00,"Echelon Insights",1,NULL,525,"Registered Voters",2026-04-17,https://echeloninsights.com/insights/april-2026-verified-voter-omnibus
+"Alexandria Ocasio-Cortez",10.00,"Echelon Insights",1,NULL,525,"Registered Voters",2026-04-17,https://echeloninsights.com/insights/april-2026-verified-voter-omnibus
+"Jon Ossoff",2.00,"Echelon Insights",1,NULL,525,"Registered Voters",2026-04-17,https://echeloninsights.com/insights/april-2026-verified-voter-omnibus
+"Ruben Gallego",2.00,"Echelon Insights",1,NULL,525,"Registered Voters",2026-04-17,https://echeloninsights.com/insights/april-2026-verified-voter-omnibus
+"Ro Khanna",1.00,"Echelon Insights",1,NULL,525,"Registered Voters",2026-04-17,https://echeloninsights.com/insights/april-2026-verified-voter-omnibus
+"J.B. Pritzker",3.00,"Echelon Insights",1,NULL,525,"Registered Voters",2026-04-17,https://echeloninsights.com/insights/april-2026-verified-voter-omnibus
+"Kamala Harris",9.00,"LA Times/Berkeley IGS",NULL,California,2317,"Registered Voters",2026-03-09,https://escholarship.org/uc/item/26b6t6k0
+"Gavin Newsom",28.00,"LA Times/Berkeley IGS",NULL,California,2317,"Registered Voters",2026-03-09,https://escholarship.org/uc/item/26b6t6k0
+"Josh Shapiro",2.00,"LA Times/Berkeley IGS",NULL,California,2317,"Registered Voters",2026-03-09,https://escholarship.org/uc/item/26b6t6k0
+"Gretchen Whitmer",2.00,"LA Times/Berkeley IGS",NULL,California,2317,"Registered Voters",2026-03-09,https://escholarship.org/uc/item/26b6t6k0
+"Cory Booker",2.00,"LA Times/Berkeley IGS",NULL,California,2317,"Registered Voters",2026-03-09,https://escholarship.org/uc/item/26b6t6k0
+"Pete Buttigieg",11.00,"LA Times/Berkeley IGS",NULL,California,2317,"Registered Voters",2026-03-09,https://escholarship.org/uc/item/26b6t6k0
+"Andy Beshear",2.00,"LA Times/Berkeley IGS",NULL,California,2317,"Registered Voters",2026-03-09,https://escholarship.org/uc/item/26b6t6k0
+"Ro Khanna",2.00,"LA Times/Berkeley IGS",NULL,California,2317,"Registered Voters",2026-03-09,https://escholarship.org/uc/item/26b6t6k0
+"Mark Kelly",7.00,"LA Times/Berkeley IGS",NULL,California,2317,"Registered Voters",2026-03-09,https://escholarship.org/uc/item/26b6t6k0
+"Alexandria Ocasio-Cortez",14.00,"LA Times/Berkeley IGS",NULL,California,2317,"Registered Voters",2026-03-09,https://escholarship.org/uc/item/26b6t6k0
+"J.B. Pritzker",3.00,"LA Times/Berkeley IGS",NULL,California,2317,"Registered Voters",2026-03-09,https://escholarship.org/uc/item/26b6t6k0
+"Kamala Harris",10.00,"University of New Hampshire",NULL,"New Hampshire",635,"Likely Voters",2026-02-12,https://scholars.unh.edu/survey_center_polls/927/
+"Gavin Newsom",15.00,"University of New Hampshire",NULL,"New Hampshire",635,"Likely Voters",2026-02-12,https://scholars.unh.edu/survey_center_polls/927/
+"Josh Shapiro",4.00,"University of New Hampshire",NULL,"New Hampshire",635,"Likely Voters",2026-02-12,https://scholars.unh.edu/survey_center_polls/927/
+"Cory Booker",2.00,"University of New Hampshire",NULL,"New Hampshire",635,"Likely Voters",2026-02-12,https://scholars.unh.edu/survey_center_polls/927/
+"Gretchen Whitmer",1.00,"University of New Hampshire",NULL,"New Hampshire",635,"Likely Voters",2026-02-12,https://scholars.unh.edu/survey_center_polls/927/
+"Andy Beshear",3.00,"University of New Hampshire",NULL,"New Hampshire",635,"Likely Voters",2026-02-12,https://scholars.unh.edu/survey_center_polls/927/
+"Mark Kelly",10.00,"University of New Hampshire",NULL,"New Hampshire",635,"Likely Voters",2026-02-12,https://scholars.unh.edu/survey_center_polls/927/
+"Amy Klobuchar",1.00,"University of New Hampshire",NULL,"New Hampshire",635,"Likely Voters",2026-02-12,https://scholars.unh.edu/survey_center_polls/927/
+"Pete Buttigieg",20.00,"University of New Hampshire",NULL,"New Hampshire",635,"Likely Voters",2026-02-12,https://scholars.unh.edu/survey_center_polls/927/
+"Alexandria Ocasio-Cortez",15.00,"University of New Hampshire",NULL,"New Hampshire",635,"Likely Voters",2026-02-12,https://scholars.unh.edu/survey_center_polls/927/
+"J.B. Pritzker",5.00,"University of New Hampshire",NULL,"New Hampshire",635,"Likely Voters",2026-02-12,https://scholars.unh.edu/survey_center_polls/927/
+"Kamala Harris",6.00,"Saint Anselm",NULL,"New Hampshire",690,"Registered Voters",2026-03-16,https://www.anselm.edu/about/anselmian-hub/news/new-poll-saint-anselm-college-survey-shows-democrats-gaining-ground-republicans-face-political-headwinds
+"Gavin Newsom",15.00,"Saint Anselm",NULL,"New Hampshire",690,"Registered Voters",2026-03-16,https://www.anselm.edu/about/anselmian-hub/news/new-poll-saint-anselm-college-survey-shows-democrats-gaining-ground-republicans-face-political-headwinds
+"Josh Shapiro",4.00,"Saint Anselm",NULL,"New Hampshire",690,"Registered Voters",2026-03-16,https://www.anselm.edu/about/anselmian-hub/news/new-poll-saint-anselm-college-survey-shows-democrats-gaining-ground-republicans-face-political-headwinds
+"Gretchen Whitmer",2.00,"Saint Anselm",NULL,"New Hampshire",690,"Registered Voters",2026-03-16,https://www.anselm.edu/about/anselmian-hub/news/new-poll-saint-anselm-college-survey-shows-democrats-gaining-ground-republicans-face-political-headwinds
+"Cory Booker",2.00,"Saint Anselm",NULL,"New Hampshire",690,"Registered Voters",2026-03-16,https://www.anselm.edu/about/anselmian-hub/news/new-poll-saint-anselm-college-survey-shows-democrats-gaining-ground-republicans-face-political-headwinds
+"Rahm Emanuel",1.00,"Saint Anselm",NULL,"New Hampshire",690,"Registered Voters",2026-03-16,https://www.anselm.edu/about/anselmian-hub/news/new-poll-saint-anselm-college-survey-shows-democrats-gaining-ground-republicans-face-political-headwinds
+"Pete Buttigieg",29.00,"Saint Anselm",NULL,"New Hampshire",690,"Registered Voters",2026-03-16,https://www.anselm.edu/about/anselmian-hub/news/new-poll-saint-anselm-college-survey-shows-democrats-gaining-ground-republicans-face-political-headwinds
+"Amy Klobuchar",4.00,"Saint Anselm",NULL,"New Hampshire",690,"Registered Voters",2026-03-16,https://www.anselm.edu/about/anselmian-hub/news/new-poll-saint-anselm-college-survey-shows-democrats-gaining-ground-republicans-face-political-headwinds
+"Andy Beshear",4.00,"Saint Anselm",NULL,"New Hampshire",690,"Registered Voters",2026-03-16,https://www.anselm.edu/about/anselmian-hub/news/new-poll-saint-anselm-college-survey-shows-democrats-gaining-ground-republicans-face-political-headwinds
+"Alexandria Ocasio-Cortez",10.00,"Saint Anselm",NULL,"New Hampshire",690,"Registered Voters",2026-03-16,https://www.anselm.edu/about/anselmian-hub/news/new-poll-saint-anselm-college-survey-shows-democrats-gaining-ground-republicans-face-political-headwinds
+"J.B. Pritzker",5.00,"Saint Anselm",NULL,"New Hampshire",690,"Registered Voters",2026-03-16,https://www.anselm.edu/about/anselmian-hub/news/new-poll-saint-anselm-college-survey-shows-democrats-gaining-ground-republicans-face-political-headwinds
+"Kamala Harris",8.00,"Emerson College",NULL,"New Hampshire",523,"Likely Voters",2026-03-21,https://emersoncollegepolling.com/new-hampshire-2026-sununu-leads-gop-nomination-ties-pappas-for-senate/
+"Gavin Newsom",12.00,"Emerson College",NULL,"New Hampshire",523,"Likely Voters",2026-03-21,https://emersoncollegepolling.com/new-hampshire-2026-sununu-leads-gop-nomination-ties-pappas-for-senate/
+"Josh Shapiro",4.00,"Emerson College",NULL,"New Hampshire",523,"Likely Voters",2026-03-21,https://emersoncollegepolling.com/new-hampshire-2026-sununu-leads-gop-nomination-ties-pappas-for-senate/
+"Cory Booker",2.00,"Emerson College",NULL,"New Hampshire",523,"Likely Voters",2026-03-21,https://emersoncollegepolling.com/new-hampshire-2026-sununu-leads-gop-nomination-ties-pappas-for-senate/
+"Pete Buttigieg",29.00,"Emerson College",NULL,"New Hampshire",523,"Likely Voters",2026-03-21,https://emersoncollegepolling.com/new-hampshire-2026-sununu-leads-gop-nomination-ties-pappas-for-senate/
+"Mark Kelly",10.00,"Emerson College",NULL,"New Hampshire",523,"Likely Voters",2026-03-21,https://emersoncollegepolling.com/new-hampshire-2026-sununu-leads-gop-nomination-ties-pappas-for-senate/
+"Andy Beshear",3.00,"Emerson College",NULL,"New Hampshire",523,"Likely Voters",2026-03-21,https://emersoncollegepolling.com/new-hampshire-2026-sununu-leads-gop-nomination-ties-pappas-for-senate/
+"Alexandria Ocasio-Cortez",12.00,"Emerson College",NULL,"New Hampshire",523,"Likely Voters",2026-03-21,https://emersoncollegepolling.com/new-hampshire-2026-sununu-leads-gop-nomination-ties-pappas-for-senate/
+"J.B. Pritzker",5.00,"Emerson College",NULL,"New Hampshire",523,"Likely Voters",2026-03-21,https://emersoncollegepolling.com/new-hampshire-2026-sununu-leads-gop-nomination-ties-pappas-for-senate/
+"Kamala Harris",27.00,"McLaughlin & Associates",1,NULL,460,"Likely Voters",2025-12-12,https://mclaughlinonline.com/pols/wp-content/uploads/2025/12/National-December-Presentation-Release-12-19-25.pdf
+"Cory Booker",2.00,"McLaughlin & Associates",1,NULL,460,"Likely Voters",2025-12-12,https://mclaughlinonline.com/pols/wp-content/uploads/2025/12/National-December-Presentation-Release-12-19-25.pdf
+"Pete Buttigieg",8.00,"McLaughlin & Associates",1,NULL,460,"Likely Voters",2025-12-12,https://mclaughlinonline.com/pols/wp-content/uploads/2025/12/National-December-Presentation-Release-12-19-25.pdf
+"Gavin Newsom",17.00,"McLaughlin & Associates",1,NULL,460,"Likely Voters",2025-12-12,https://mclaughlinonline.com/pols/wp-content/uploads/2025/12/National-December-Presentation-Release-12-19-25.pdf
+"Alexandria Ocasio-Cortez",6.00,"McLaughlin & Associates",1,NULL,460,"Likely Voters",2025-12-12,https://mclaughlinonline.com/pols/wp-content/uploads/2025/12/National-December-Presentation-Release-12-19-25.pdf
+"Josh Shapiro",5.00,"McLaughlin & Associates",1,NULL,460,"Likely Voters",2025-12-12,https://mclaughlinonline.com/pols/wp-content/uploads/2025/12/National-December-Presentation-Release-12-19-25.pdf
+"Tim Walz",4.00,"McLaughlin & Associates",1,NULL,460,"Likely Voters",2025-12-12,https://mclaughlinonline.com/pols/wp-content/uploads/2025/12/National-December-Presentation-Release-12-19-25.pdf
+"Amy Klobuchar",1.00,"McLaughlin & Associates",1,NULL,460,"Likely Voters",2025-12-12,https://mclaughlinonline.com/pols/wp-content/uploads/2025/12/National-December-Presentation-Release-12-19-25.pdf
+"Gretchen Whitmer",2.00,"McLaughlin & Associates",1,NULL,460,"Likely Voters",2025-12-12,https://mclaughlinonline.com/pols/wp-content/uploads/2025/12/National-December-Presentation-Release-12-19-25.pdf
+"J.B. Pritzker",2.00,"McLaughlin & Associates",1,NULL,460,"Likely Voters",2025-12-12,https://mclaughlinonline.com/pols/wp-content/uploads/2025/12/National-December-Presentation-Release-12-19-25.pdf
+"Jasmine Crockett",2.00,"McLaughlin & Associates",1,NULL,460,"Likely Voters",2025-12-12,https://mclaughlinonline.com/pols/wp-content/uploads/2025/12/National-December-Presentation-Release-12-19-25.pdf
+"Stephen A. Smith",1.00,"McLaughlin & Associates",1,NULL,460,"Likely Voters",2025-12-12,https://mclaughlinonline.com/pols/wp-content/uploads/2025/12/National-December-Presentation-Release-12-19-25.pdf
+"Jared Polis",1.00,"McLaughlin & Associates",1,NULL,460,"Likely Voters",2025-12-12,https://mclaughlinonline.com/pols/wp-content/uploads/2025/12/National-December-Presentation-Release-12-19-25.pdf
+"Roy Cooper",2.00,"McLaughlin & Associates",1,NULL,460,"Likely Voters",2025-12-12,https://mclaughlinonline.com/pols/wp-content/uploads/2025/12/National-December-Presentation-Release-12-19-25.pdf
+"Kamala Harris",22.00,Verasight,1,NULL,864,NULL,2026-04-21,https://reports.verasight.io/reports/variety10126
+"Gavin Newsom",15.00,Verasight,1,NULL,864,NULL,2026-04-21,https://reports.verasight.io/reports/variety10126
+"Josh Shapiro",4.00,Verasight,1,NULL,864,NULL,2026-04-21,https://reports.verasight.io/reports/variety10126
+"Cory Booker",4.00,Verasight,1,NULL,864,NULL,2026-04-21,https://reports.verasight.io/reports/variety10126
+"Pete Buttigieg",12.00,Verasight,1,NULL,864,NULL,2026-04-21,https://reports.verasight.io/reports/variety10126
+"Amy Klobuchar",2.00,Verasight,1,NULL,864,NULL,2026-04-21,https://reports.verasight.io/reports/variety10126
+"Mark Kelly",6.00,Verasight,1,NULL,864,NULL,2026-04-21,https://reports.verasight.io/reports/variety10126
+"Gretchen Whitmer",1.00,Verasight,1,NULL,864,NULL,2026-04-21,https://reports.verasight.io/reports/variety10126
+"Alexandria Ocasio-Cortez",13.00,Verasight,1,NULL,864,NULL,2026-04-21,https://reports.verasight.io/reports/variety10126
+"J.B. Pritzker",2.00,Verasight,1,NULL,864,NULL,2026-04-21,https://reports.verasight.io/reports/variety10126
+"Kamala Harris",50.00,"Harvard Harris",1,NULL,2745,"Registered Voters",2026-04-23,https://harvardharrispoll.com/wp-content/uploads/2026/04/HHP_Apr2026_KeyResults.pdf
+"Gavin Newsom",22.00,"Harvard Harris",1,NULL,2745,"Registered Voters",2026-04-23,https://harvardharrispoll.com/wp-content/uploads/2026/04/HHP_Apr2026_KeyResults.pdf
+"Alexandria Ocasio-Cortez",8.00,"Harvard Harris",1,NULL,2745,"Registered Voters",2026-04-23,https://harvardharrispoll.com/wp-content/uploads/2026/04/HHP_Apr2026_KeyResults.pdf
+"Josh Shapiro",9.00,"Harvard Harris",1,NULL,2745,"Registered Voters",2026-04-23,https://harvardharrispoll.com/wp-content/uploads/2026/04/HHP_Apr2026_KeyResults.pdf
+"J.B. Pritzker",6.00,"Harvard Harris",1,NULL,2745,"Registered Voters",2026-04-23,https://harvardharrispoll.com/wp-content/uploads/2026/04/HHP_Apr2026_KeyResults.pdf
+"Kamala Harris",38.00,Focaldata,1,NULL,1339,"Likely Voters",2026-05-01,https://www.focaldata.com/blog/democrats-lead-economy-focaldata-financial-times-poll
+"Gavin Newsom",16.00,Focaldata,1,NULL,1339,"Likely Voters",2026-05-01,https://www.focaldata.com/blog/democrats-lead-economy-focaldata-financial-times-poll
+"Josh Shapiro",5.00,Focaldata,1,NULL,1339,"Likely Voters",2026-05-01,https://www.focaldata.com/blog/democrats-lead-economy-focaldata-financial-times-poll
+"Mark Kelly",5.00,Focaldata,1,NULL,1339,"Likely Voters",2026-05-01,https://www.focaldata.com/blog/democrats-lead-economy-focaldata-financial-times-poll
+"Andy Beshear",2.00,Focaldata,1,NULL,1339,"Likely Voters",2026-05-01,https://www.focaldata.com/blog/democrats-lead-economy-focaldata-financial-times-poll
+"Pete Buttigieg",9.00,Focaldata,1,NULL,1339,"Likely Voters",2026-05-01,https://www.focaldata.com/blog/democrats-lead-economy-focaldata-financial-times-poll
+"Jon Stewart",1.00,Focaldata,1,NULL,1339,"Likely Voters",2026-05-01,https://www.focaldata.com/blog/democrats-lead-economy-focaldata-financial-times-poll
+"Jon Ossoff",1.00,Focaldata,1,NULL,1339,"Likely Voters",2026-05-01,https://www.focaldata.com/blog/democrats-lead-economy-focaldata-financial-times-poll
+"Alexandria Ocasio-Cortez",9.00,Focaldata,1,NULL,1339,"Likely Voters",2026-05-01,https://www.focaldata.com/blog/democrats-lead-economy-focaldata-financial-times-poll
+"J.B. Pritzker",3.00,Focaldata,1,NULL,1339,"Likely Voters",2026-05-01,https://www.focaldata.com/blog/democrats-lead-economy-focaldata-financial-times-poll
+"Kamala Harris",12.90,"Atlas Intel",1,NULL,2069,NULL,2026-05-04,https://www.atlasintel.org/poll/usa-national-2026-05-11
+"Pete Buttigieg",22.40,"Atlas Intel",1,NULL,2069,NULL,2026-05-04,https://www.atlasintel.org/poll/usa-national-2026-05-11
+"Gavin Newsom",21.20,"Atlas Intel",1,NULL,2069,NULL,2026-05-04,https://www.atlasintel.org/poll/usa-national-2026-05-11
+"Alexandria Ocasio-Cortez",26.00,"Atlas Intel",1,NULL,2069,NULL,2026-05-04,https://www.atlasintel.org/poll/usa-national-2026-05-11
+"Gretchen Whitmer",1.10,"Atlas Intel",1,NULL,2069,NULL,2026-05-04,https://www.atlasintel.org/poll/usa-national-2026-05-11
+"Ro Khanna",0.90,"Atlas Intel",1,NULL,2069,NULL,2026-05-04,https://www.atlasintel.org/poll/usa-national-2026-05-11
+"Cory Booker",3.90,"Atlas Intel",1,NULL,2069,NULL,2026-05-04,https://www.atlasintel.org/poll/usa-national-2026-05-11
+"Josh Shapiro",2.40,"Atlas Intel",1,NULL,2069,NULL,2026-05-04,https://www.atlasintel.org/poll/usa-national-2026-05-11
+"Andy Beshear",4.10,"Atlas Intel",1,NULL,2069,NULL,2026-05-04,https://www.atlasintel.org/poll/usa-national-2026-05-11
+"Rahm Emanuel",0.60,"Atlas Intel",1,NULL,2069,NULL,2026-05-04,https://www.atlasintel.org/poll/usa-national-2026-05-11
+"Raphael Warnock",0.10,"Atlas Intel",1,NULL,2069,NULL,2026-05-04,https://www.atlasintel.org/poll/usa-national-2026-05-11
+"Kamala Harris",26.00,"Lake Research Partners",1,NULL,800,"Likely Voters",2026-05-06,https://fairvote.org/press/kamala-harris-gavin-newsom-ranked-choice-poll/
+"Gavin Newsom",17.00,"Lake Research Partners",1,NULL,800,"Likely Voters",2026-05-06,https://fairvote.org/press/kamala-harris-gavin-newsom-ranked-choice-poll/
+"Josh Shapiro",7.00,"Lake Research Partners",1,NULL,800,"Likely Voters",2026-05-06,https://fairvote.org/press/kamala-harris-gavin-newsom-ranked-choice-poll/
+"Gretchen Whitmer",3.00,"Lake Research Partners",1,NULL,800,"Likely Voters",2026-05-06,https://fairvote.org/press/kamala-harris-gavin-newsom-ranked-choice-poll/
+"Cory Booker",5.00,"Lake Research Partners",1,NULL,800,"Likely Voters",2026-05-06,https://fairvote.org/press/kamala-harris-gavin-newsom-ranked-choice-poll/
+"Pete Buttigieg",16.00,"Lake Research Partners",1,NULL,800,"Likely Voters",2026-05-06,https://fairvote.org/press/kamala-harris-gavin-newsom-ranked-choice-poll/
+"Andy Beshear",2.00,"Lake Research Partners",1,NULL,800,"Likely Voters",2026-05-06,https://fairvote.org/press/kamala-harris-gavin-newsom-ranked-choice-poll/
+"Mark Kelly",8.00,"Lake Research Partners",1,NULL,800,"Likely Voters",2026-05-06,https://fairvote.org/press/kamala-harris-gavin-newsom-ranked-choice-poll/
+"Alexandria Ocasio-Cortez",10.00,"Lake Research Partners",1,NULL,800,"Likely Voters",2026-05-06,https://fairvote.org/press/kamala-harris-gavin-newsom-ranked-choice-poll/
+"Rahm Emanuel",1.00,"Lake Research Partners",1,NULL,800,"Likely Voters",2026-05-06,https://fairvote.org/press/kamala-harris-gavin-newsom-ranked-choice-poll/
+"J.B. Pritzker",4.00,"Lake Research Partners",1,NULL,800,"Likely Voters",2026-05-06,https://fairvote.org/press/kamala-harris-gavin-newsom-ranked-choice-poll/
+"Kamala Harris",29.00,"McLaughlin & Associates",1,NULL,457,"Registered Voters",2026-04-09,https://mclaughlinonline.com/pols/wp-content/uploads/2026/04/National-April-Release-Presentation-4-16-26.pdf
+"Cory Booker",4.00,"McLaughlin & Associates",1,NULL,457,"Registered Voters",2026-04-09,https://mclaughlinonline.com/pols/wp-content/uploads/2026/04/National-April-Release-Presentation-4-16-26.pdf
+"Pete Buttigieg",10.00,"McLaughlin & Associates",1,NULL,457,"Registered Voters",2026-04-09,https://mclaughlinonline.com/pols/wp-content/uploads/2026/04/National-April-Release-Presentation-4-16-26.pdf
+"Gavin Newsom",15.00,"McLaughlin & Associates",1,NULL,457,"Registered Voters",2026-04-09,https://mclaughlinonline.com/pols/wp-content/uploads/2026/04/National-April-Release-Presentation-4-16-26.pdf
+"Alexandria Ocasio-Cortez",4.00,"McLaughlin & Associates",1,NULL,457,"Registered Voters",2026-04-09,https://mclaughlinonline.com/pols/wp-content/uploads/2026/04/National-April-Release-Presentation-4-16-26.pdf
+"Josh Shapiro",4.00,"McLaughlin & Associates",1,NULL,457,"Registered Voters",2026-04-09,https://mclaughlinonline.com/pols/wp-content/uploads/2026/04/National-April-Release-Presentation-4-16-26.pdf
+"Tim Walz",2.00,"McLaughlin & Associates",1,NULL,457,"Registered Voters",2026-04-09,https://mclaughlinonline.com/pols/wp-content/uploads/2026/04/National-April-Release-Presentation-4-16-26.pdf
+"Amy Klobuchar",1.00,"McLaughlin & Associates",1,NULL,457,"Registered Voters",2026-04-09,https://mclaughlinonline.com/pols/wp-content/uploads/2026/04/National-April-Release-Presentation-4-16-26.pdf
+"Gretchen Whitmer",4.00,"McLaughlin & Associates",1,NULL,457,"Registered Voters",2026-04-09,https://mclaughlinonline.com/pols/wp-content/uploads/2026/04/National-April-Release-Presentation-4-16-26.pdf
+"J.B. Pritzker",3.00,"McLaughlin & Associates",1,NULL,457,"Registered Voters",2026-04-09,https://mclaughlinonline.com/pols/wp-content/uploads/2026/04/National-April-Release-Presentation-4-16-26.pdf
+"Stephen A. Smith",2.00,"McLaughlin & Associates",1,NULL,457,"Registered Voters",2026-04-09,https://mclaughlinonline.com/pols/wp-content/uploads/2026/04/National-April-Release-Presentation-4-16-26.pdf
+"Phil Murphy",1.00,"McLaughlin & Associates",1,NULL,457,"Registered Voters",2026-04-09,https://mclaughlinonline.com/pols/wp-content/uploads/2026/04/National-April-Release-Presentation-4-16-26.pdf
+"Jared Polis",1.00,"McLaughlin & Associates",1,NULL,457,"Registered Voters",2026-04-09,https://mclaughlinonline.com/pols/wp-content/uploads/2026/04/National-April-Release-Presentation-4-16-26.pdf
+"Rahm Emanuel",1.00,"McLaughlin & Associates",1,NULL,457,"Registered Voters",2026-04-09,https://mclaughlinonline.com/pols/wp-content/uploads/2026/04/National-April-Release-Presentation-4-16-26.pdf
+"Roy Cooper",3.00,"McLaughlin & Associates",1,NULL,457,"Registered Voters",2026-04-09,https://mclaughlinonline.com/pols/wp-content/uploads/2026/04/National-April-Release-Presentation-4-16-26.pdf
+"Kamala Harris",28.00,"McLaughlin & Associates",1,NULL,459,"Likely Voters",2026-05-12,https://mclaughlinonline.com/pols/wp-content/uploads/2026/05/National-May-Presentation-RELEASE-05-19-26.pdf
+"Cory Booker",5.00,"McLaughlin & Associates",1,NULL,459,"Likely Voters",2026-05-12,https://mclaughlinonline.com/pols/wp-content/uploads/2026/05/National-May-Presentation-RELEASE-05-19-26.pdf
+"Pete Buttigieg",9.00,"McLaughlin & Associates",1,NULL,459,"Likely Voters",2026-05-12,https://mclaughlinonline.com/pols/wp-content/uploads/2026/05/National-May-Presentation-RELEASE-05-19-26.pdf
+"Gavin Newsom",16.00,"McLaughlin & Associates",1,NULL,459,"Likely Voters",2026-05-12,https://mclaughlinonline.com/pols/wp-content/uploads/2026/05/National-May-Presentation-RELEASE-05-19-26.pdf
+"Alexandria Ocasio-Cortez",7.00,"McLaughlin & Associates",1,NULL,459,"Likely Voters",2026-05-12,https://mclaughlinonline.com/pols/wp-content/uploads/2026/05/National-May-Presentation-RELEASE-05-19-26.pdf
+"Josh Shapiro",6.00,"McLaughlin & Associates",1,NULL,459,"Likely Voters",2026-05-12,https://mclaughlinonline.com/pols/wp-content/uploads/2026/05/National-May-Presentation-RELEASE-05-19-26.pdf
+"Tim Walz",2.00,"McLaughlin & Associates",1,NULL,459,"Likely Voters",2026-05-12,https://mclaughlinonline.com/pols/wp-content/uploads/2026/05/National-May-Presentation-RELEASE-05-19-26.pdf
+"Amy Klobuchar",1.00,"McLaughlin & Associates",1,NULL,459,"Likely Voters",2026-05-12,https://mclaughlinonline.com/pols/wp-content/uploads/2026/05/National-May-Presentation-RELEASE-05-19-26.pdf
+"Gretchen Whitmer",2.00,"McLaughlin & Associates",1,NULL,459,"Likely Voters",2026-05-12,https://mclaughlinonline.com/pols/wp-content/uploads/2026/05/National-May-Presentation-RELEASE-05-19-26.pdf
+"J.B. Pritzker",2.00,"McLaughlin & Associates",1,NULL,459,"Likely Voters",2026-05-12,https://mclaughlinonline.com/pols/wp-content/uploads/2026/05/National-May-Presentation-RELEASE-05-19-26.pdf
+"Stephen A. Smith",1.00,"McLaughlin & Associates",1,NULL,459,"Likely Voters",2026-05-12,https://mclaughlinonline.com/pols/wp-content/uploads/2026/05/National-May-Presentation-RELEASE-05-19-26.pdf
+"Phil Murphy",1.00,"McLaughlin & Associates",1,NULL,459,"Likely Voters",2026-05-12,https://mclaughlinonline.com/pols/wp-content/uploads/2026/05/National-May-Presentation-RELEASE-05-19-26.pdf
+"Rahm Emanuel",2.00,"McLaughlin & Associates",1,NULL,459,"Likely Voters",2026-05-12,https://mclaughlinonline.com/pols/wp-content/uploads/2026/05/National-May-Presentation-RELEASE-05-19-26.pdf
+"Roy Cooper",2.00,"McLaughlin & Associates",1,NULL,459,"Likely Voters",2026-05-12,https://mclaughlinonline.com/pols/wp-content/uploads/2026/05/National-May-Presentation-RELEASE-05-19-26.pdf
+"Kamala Harris",23.00,"Echelon Insights",1,NULL,501,"Likely Voters",2026-05-14,https://echeloninsights.com/insights/may-2026-verified-voter-omnibus
+"Gavin Newsom",17.00,"Echelon Insights",1,NULL,501,"Likely Voters",2026-05-14,https://echeloninsights.com/insights/may-2026-verified-voter-omnibus
+"Josh Shapiro",5.00,"Echelon Insights",1,NULL,501,"Likely Voters",2026-05-14,https://echeloninsights.com/insights/may-2026-verified-voter-omnibus
+"Gretchen Whitmer",4.00,"Echelon Insights",1,NULL,501,"Likely Voters",2026-05-14,https://echeloninsights.com/insights/may-2026-verified-voter-omnibus
+"Cory Booker",3.00,"Echelon Insights",1,NULL,501,"Likely Voters",2026-05-14,https://echeloninsights.com/insights/may-2026-verified-voter-omnibus
+"Pete Buttigieg",10.00,"Echelon Insights",1,NULL,501,"Likely Voters",2026-05-14,https://echeloninsights.com/insights/may-2026-verified-voter-omnibus
+"Andy Beshear",2.00,"Echelon Insights",1,NULL,501,"Likely Voters",2026-05-14,https://echeloninsights.com/insights/may-2026-verified-voter-omnibus
+"Raphael Warnock",1.00,"Echelon Insights",1,NULL,501,"Likely Voters",2026-05-14,https://echeloninsights.com/insights/may-2026-verified-voter-omnibus
+"Mark Kelly",6.00,"Echelon Insights",1,NULL,501,"Likely Voters",2026-05-14,https://echeloninsights.com/insights/may-2026-verified-voter-omnibus
+"Alexandria Ocasio-Cortez",11.00,"Echelon Insights",1,NULL,501,"Likely Voters",2026-05-14,https://echeloninsights.com/insights/may-2026-verified-voter-omnibus
+"Jon Ossoff",1.00,"Echelon Insights",1,NULL,501,"Likely Voters",2026-05-14,https://echeloninsights.com/insights/may-2026-verified-voter-omnibus
+"John Fetterman",1.00,"Echelon Insights",1,NULL,501,"Likely Voters",2026-05-14,https://echeloninsights.com/insights/may-2026-verified-voter-omnibus
+"Ro Khanna",1.00,"Echelon Insights",1,NULL,501,"Likely Voters",2026-05-14,https://echeloninsights.com/insights/may-2026-verified-voter-omnibus
+"J.B. Pritzker",4.00,"Echelon Insights",1,NULL,501,"Likely Voters",2026-05-14,https://echeloninsights.com/insights/may-2026-verified-voter-omnibus
+"Kamala Harris",9.00,"Overton Insights",1,NULL,661,"Likely Voters",2026-05-16,https://overtoninsights.com/poll/overton-insights-poll-may-2026/
+"Gavin Newsom",13.00,"Overton Insights",1,NULL,661,"Likely Voters",2026-05-16,https://overtoninsights.com/poll/overton-insights-poll-may-2026/
+"Josh Shapiro",8.00,"Overton Insights",1,NULL,661,"Likely Voters",2026-05-16,https://overtoninsights.com/poll/overton-insights-poll-may-2026/
+"Andy Beshear",3.00,"Overton Insights",1,NULL,661,"Likely Voters",2026-05-16,https://overtoninsights.com/poll/overton-insights-poll-may-2026/
+"Cory Booker",7.00,"Overton Insights",1,NULL,661,"Likely Voters",2026-05-16,https://overtoninsights.com/poll/overton-insights-poll-may-2026/
+"J.B. Pritzker",1.00,"Overton Insights",1,NULL,661,"Likely Voters",2026-05-16,https://overtoninsights.com/poll/overton-insights-poll-may-2026/
+"Pete Buttigieg",16.00,"Overton Insights",1,NULL,661,"Likely Voters",2026-05-16,https://overtoninsights.com/poll/overton-insights-poll-may-2026/
+"Mark Kelly",4.00,"Overton Insights",1,NULL,661,"Likely Voters",2026-05-16,https://overtoninsights.com/poll/overton-insights-poll-may-2026/
+"Alexandria Ocasio-Cortez",12.00,"Overton Insights",1,NULL,661,"Likely Voters",2026-05-16,https://overtoninsights.com/poll/overton-insights-poll-may-2026/
+"Kamala Harris",34.00,"Rasmussen Reports",1,NULL,433,"Likely Voters",2026-05-18,https://www.rasmussenreports.com/public_content/politics/trump_administration_second_term/kamala_harris_maintains_lead_for_2028_democratic_nomination
+"Gavin Newsom",12.00,"Rasmussen Reports",1,NULL,433,"Likely Voters",2026-05-18,https://www.rasmussenreports.com/public_content/politics/trump_administration_second_term/kamala_harris_maintains_lead_for_2028_democratic_nomination
+"Pete Buttigieg",10.00,"Rasmussen Reports",1,NULL,433,"Likely Voters",2026-05-18,https://www.rasmussenreports.com/public_content/politics/trump_administration_second_term/kamala_harris_maintains_lead_for_2028_democratic_nomination
+"Josh Shapiro",9.00,"Rasmussen Reports",1,NULL,433,"Likely Voters",2026-05-18,https://www.rasmussenreports.com/public_content/politics/trump_administration_second_term/kamala_harris_maintains_lead_for_2028_democratic_nomination
+"Mark Kelly",9.00,"Rasmussen Reports",1,NULL,433,"Likely Voters",2026-05-18,https://www.rasmussenreports.com/public_content/politics/trump_administration_second_term/kamala_harris_maintains_lead_for_2028_democratic_nomination
+"Andy Beshear",4.00,"Rasmussen Reports",1,NULL,433,"Likely Voters",2026-05-18,https://www.rasmussenreports.com/public_content/politics/trump_administration_second_term/kamala_harris_maintains_lead_for_2028_democratic_nomination
+"J.B. Pritzker",2.00,"Rasmussen Reports",1,NULL,433,"Likely Voters",2026-05-18,https://www.rasmussenreports.com/public_content/politics/trump_administration_second_term/kamala_harris_maintains_lead_for_2028_democratic_nomination
+"Alexandria Ocasio-Cortez",11.00,"Rasmussen Reports",1,NULL,433,"Likely Voters",2026-05-18,https://www.rasmussenreports.com/public_content/politics/trump_administration_second_term/kamala_harris_maintains_lead_for_2028_democratic_nomination
+"Kamala Harris",9.90,"Emerson College",1,NULL,432,"Likely Voters",2026-05-24,https://emersoncollegepolling.com/may-2026-national-poll/
+"Gavin Newsom",15.90,"Emerson College",1,NULL,432,"Likely Voters",2026-05-24,https://emersoncollegepolling.com/may-2026-national-poll/
+"Josh Shapiro",10.00,"Emerson College",1,NULL,432,"Likely Voters",2026-05-24,https://emersoncollegepolling.com/may-2026-national-poll/
+"Pete Buttigieg",17.90,"Emerson College",1,NULL,432,"Likely Voters",2026-05-24,https://emersoncollegepolling.com/may-2026-national-poll/
+"Ro Khanna",1.00,"Emerson College",1,NULL,432,"Likely Voters",2026-05-24,https://emersoncollegepolling.com/may-2026-national-poll/
+"Andy Beshear",8.50,"Emerson College",1,NULL,432,"Likely Voters",2026-05-24,https://emersoncollegepolling.com/may-2026-national-poll/
+"Alexandria Ocasio-Cortez",11.10,"Emerson College",1,NULL,432,"Likely Voters",2026-05-24,https://emersoncollegepolling.com/may-2026-national-poll/
+"J.B. Pritzker",4.40,"Emerson College",1,NULL,432,"Likely Voters",2026-05-24,https://emersoncollegepolling.com/may-2026-national-poll/
+"Kamala Harris",28.00,"Big Data Poll",1,NULL,1378,"Likely Voters",2026-05-25,https://www.bigdatapoll.com/blog/democrats-expand-lead-in-may-as-voters-sour-further-on-the-iran-war/
+"Gavin Newsom",17.00,"Big Data Poll",1,NULL,1378,"Likely Voters",2026-05-25,https://www.bigdatapoll.com/blog/democrats-expand-lead-in-may-as-voters-sour-further-on-the-iran-war/
+"Pete Buttigieg",11.00,"Big Data Poll",1,NULL,1378,"Likely Voters",2026-05-25,https://www.bigdatapoll.com/blog/democrats-expand-lead-in-may-as-voters-sour-further-on-the-iran-war/
+"Josh Shapiro",6.00,"Big Data Poll",1,NULL,1378,"Likely Voters",2026-05-25,https://www.bigdatapoll.com/blog/democrats-expand-lead-in-may-as-voters-sour-further-on-the-iran-war/
+"Mark Kelly",6.00,"Big Data Poll",1,NULL,1378,"Likely Voters",2026-05-25,https://www.bigdatapoll.com/blog/democrats-expand-lead-in-may-as-voters-sour-further-on-the-iran-war/
+"Gretchen Whitmer",2.00,"Big Data Poll",1,NULL,1378,"Likely Voters",2026-05-25,https://www.bigdatapoll.com/blog/democrats-expand-lead-in-may-as-voters-sour-further-on-the-iran-war/
+"Stephen A. Smith",2.00,"Big Data Poll",1,NULL,1378,"Likely Voters",2026-05-25,https://www.bigdatapoll.com/blog/democrats-expand-lead-in-may-as-voters-sour-further-on-the-iran-war/
+"Andy Beshear",3.00,"Big Data Poll",1,NULL,1378,"Likely Voters",2026-05-25,https://www.bigdatapoll.com/blog/democrats-expand-lead-in-may-as-voters-sour-further-on-the-iran-war/
+"Jon Ossoff",2.00,"Big Data Poll",1,NULL,1378,"Likely Voters",2026-05-25,https://www.bigdatapoll.com/blog/democrats-expand-lead-in-may-as-voters-sour-further-on-the-iran-war/
+"Alexandria Ocasio-Cortez",9.00,"Big Data Poll",1,NULL,1378,"Likely Voters",2026-05-25,https://www.bigdatapoll.com/blog/democrats-expand-lead-in-may-as-voters-sour-further-on-the-iran-war/
+"Kamala Harris",13.00,"Emerson College",1,NULL,438,"Likely Voters",2026-02-21,https://emersoncollegepolling.com/february-2026-national-poll-trump-approval-steady-as-disapproval-rises-vance-leads-gop-field-while-democrats-hold-midterm-edge/
+"Gavin Newsom",20.00,"Emerson College",1,NULL,438,"Likely Voters",2026-02-21,https://emersoncollegepolling.com/february-2026-national-poll-trump-approval-steady-as-disapproval-rises-vance-leads-gop-field-while-democrats-hold-midterm-edge/
+"Josh Shapiro",7.00,"Emerson College",1,NULL,438,"Likely Voters",2026-02-21,https://emersoncollegepolling.com/february-2026-national-poll-trump-approval-steady-as-disapproval-rises-vance-leads-gop-field-while-democrats-hold-midterm-edge/
+"Gretchen Whitmer",2.00,"Emerson College",1,NULL,438,"Likely Voters",2026-02-21,https://emersoncollegepolling.com/february-2026-national-poll-trump-approval-steady-as-disapproval-rises-vance-leads-gop-field-while-democrats-hold-midterm-edge/
+"Pete Buttigieg",16.00,"Emerson College",1,NULL,438,"Likely Voters",2026-02-21,https://emersoncollegepolling.com/february-2026-national-poll-trump-approval-steady-as-disapproval-rises-vance-leads-gop-field-while-democrats-hold-midterm-edge/
+"Andy Beshear",5.00,"Emerson College",1,NULL,438,"Likely Voters",2026-02-21,https://emersoncollegepolling.com/february-2026-national-poll-trump-approval-steady-as-disapproval-rises-vance-leads-gop-field-while-democrats-hold-midterm-edge/
+"Alexandria Ocasio-Cortez",9.00,"Emerson College",1,NULL,438,"Likely Voters",2026-02-21,https://emersoncollegepolling.com/february-2026-national-poll-trump-approval-steady-as-disapproval-rises-vance-leads-gop-field-while-democrats-hold-midterm-edge/
+"J.B. Pritzker",3.00,"Emerson College",1,NULL,438,"Likely Voters",2026-02-21,https://emersoncollegepolling.com/february-2026-national-poll-trump-approval-steady-as-disapproval-rises-vance-leads-gop-field-while-democrats-hold-midterm-edge/
+"Kamala Harris",14.00,Berkeley/Politico,NULL,California,702,"Likely Voters",2026-02-25,https://www.politico.com/news/2026/03/12/newsom-opens-commanding-lead-over-harris-in-2028-california-primary-poll-00824633
+"Gavin Newsom",28.00,Berkeley/Politico,NULL,California,702,"Likely Voters",2026-02-25,https://www.politico.com/news/2026/03/12/newsom-opens-commanding-lead-over-harris-in-2028-california-primary-poll-00824633
+"Josh Shapiro",4.00,Berkeley/Politico,NULL,California,702,"Likely Voters",2026-02-25,https://www.politico.com/news/2026/03/12/newsom-opens-commanding-lead-over-harris-in-2028-california-primary-poll-00824633
+"Gretchen Whitmer",1.00,Berkeley/Politico,NULL,California,702,"Likely Voters",2026-02-25,https://www.politico.com/news/2026/03/12/newsom-opens-commanding-lead-over-harris-in-2028-california-primary-poll-00824633
+"Cory Booker",2.00,Berkeley/Politico,NULL,California,702,"Likely Voters",2026-02-25,https://www.politico.com/news/2026/03/12/newsom-opens-commanding-lead-over-harris-in-2028-california-primary-poll-00824633
+"Pete Buttigieg",11.00,Berkeley/Politico,NULL,California,702,"Likely Voters",2026-02-25,https://www.politico.com/news/2026/03/12/newsom-opens-commanding-lead-over-harris-in-2028-california-primary-poll-00824633
+"Andy Beshear",2.00,Berkeley/Politico,NULL,California,702,"Likely Voters",2026-02-25,https://www.politico.com/news/2026/03/12/newsom-opens-commanding-lead-over-harris-in-2028-california-primary-poll-00824633
+"Amy Klobuchar",1.00,Berkeley/Politico,NULL,California,702,"Likely Voters",2026-02-25,https://www.politico.com/news/2026/03/12/newsom-opens-commanding-lead-over-harris-in-2028-california-primary-poll-00824633
+"Ruben Gallego",1.00,Berkeley/Politico,NULL,California,702,"Likely Voters",2026-02-25,https://www.politico.com/news/2026/03/12/newsom-opens-commanding-lead-over-harris-in-2028-california-primary-poll-00824633
+"Chris Murphy",1.00,Berkeley/Politico,NULL,California,702,"Likely Voters",2026-02-25,https://www.politico.com/news/2026/03/12/newsom-opens-commanding-lead-over-harris-in-2028-california-primary-poll-00824633
+"Ro Khanna",3.00,Berkeley/Politico,NULL,California,702,"Likely Voters",2026-02-25,https://www.politico.com/news/2026/03/12/newsom-opens-commanding-lead-over-harris-in-2028-california-primary-poll-00824633
+"Mark Kelly",5.00,Berkeley/Politico,NULL,California,702,"Likely Voters",2026-02-25,https://www.politico.com/news/2026/03/12/newsom-opens-commanding-lead-over-harris-in-2028-california-primary-poll-00824633
+"Alexandria Ocasio-Cortez",12.00,Berkeley/Politico,NULL,California,702,"Likely Voters",2026-02-25,https://www.politico.com/news/2026/03/12/newsom-opens-commanding-lead-over-harris-in-2028-california-primary-poll-00824633
+"J.B. Pritzker",2.00,Berkeley/Politico,NULL,California,702,"Likely Voters",2026-02-25,https://www.politico.com/news/2026/03/12/newsom-opens-commanding-lead-over-harris-in-2028-california-primary-poll-00824633

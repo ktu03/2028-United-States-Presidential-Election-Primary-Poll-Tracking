@@ -3,7 +3,7 @@
 USE `2028 United States Presidential Election`;
 
 INSERT INTO `Republican_Party_Primary_Polling` (Candidate, Polling, Pollster, Nationwide, Sample_Size, DMY, Link)
-Values ('Ron Desantis', 6, 'YouGov', TRUE, 2172,'2025-11-06','https://ygo-assets-websites-editorial-emea.yougov.net/documents/2028_Presidential_Nominee_Preferences_poll_results.pdf'),
+Values ('Ron Desantis', 7, 'YouGov', TRUE, 2172,'2025-11-06','https://ygo-assets-websites-editorial-emea.yougov.net/documents/2028_Presidential_Nominee_Preferences_poll_results.pdf'),
 ('J.D. Vance', 42, 'YouGov', TRUE, 2172,'2025-11-06','https://ygo-assets-websites-editorial-emea.yougov.net/documents/2028_Presidential_Nominee_Preferences_poll_results.pdf'),
 ('Nikki Haley', 1, 'YouGov', TRUE, 2172,'2025-11-06','https://ygo-assets-websites-editorial-emea.yougov.net/documents/2028_Presidential_Nominee_Preferences_poll_results.pdf'),
 ('Vivek Ramaswamy', 2, 'YouGov', TRUE, 2172,'2025-11-06','https://ygo-assets-websites-editorial-emea.yougov.net/documents/2028_Presidential_Nominee_Preferences_poll_results.pdf'),
@@ -23,3 +23,4 @@ Values ('Kamala Harris', 21, 'YouGov', TRUE, 2172,'2025-11-06','https://d3nkl3ps
 ('J.B. Pritzker', 2	, 'YouGov', TRUE, 2172,'2025-11-06','https://d3nkl3psvxxpe9.cloudfront.net/documents/2028_Presidential_Preferences_poll_results.pdf'),
 ('Mark Kelly', 1	, 'YouGov', TRUE, 2172,'2025-11-06','https://d3nkl3psvxxpe9.cloudfront.net/documents/2028_Presidential_Preferences_poll_results.pdf'),
 ('Gretchen Whitmer', 1, 'YouGov', TRUE, 2172,'2025-11-06','https://d3nkl3psvxxpe9.cloudfront.net/documents/2028_Presidential_Preferences_poll_results.pdf');
+

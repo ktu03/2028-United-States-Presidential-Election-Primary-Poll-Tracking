@@ -359,15 +359,6 @@ Candidate,Polling,Pollster,Nationwide,State,Sample_Size,Voter_Type,DMY,Link
 "Ron Desantis",8.00,"Saint Anselm",NULL,"New Hampshire",1776,"Registered Voters",2025-08-26,https://www.anselm.edu/about/anselmian-hub/news/new-saint-anselm-college-survey-center-poll-reveals-shifting-political-landscape-ahead-2028-primary
 "Tulsi Gabbard",5.00,"Saint Anselm",NULL,"New Hampshire",1776,"Registered Voters",2025-08-26,https://www.anselm.edu/about/anselmian-hub/news/new-saint-anselm-college-survey-center-poll-reveals-shifting-political-landscape-ahead-2028-primary
 "Vivek Ramaswamy",5.30,"Atlas Intel",1,NULL,1044,NULL,2025-05-22,https://cdn.atlasintel.org/20c89f8f-d65e-4991-a491-388ae96986c9.pdf
-"J.D. Vance",44.00,YouGov,1,NULL,1114,NULL,2025-09-05,https://ygo-assets-websites-editorial-emea.yougov.net/documents/2028_Presidential_Nominee_Preferences_poll_results.pdf
-"Ron Desantis",8.00,YouGov,1,NULL,1114,NULL,2025-09-05,https://ygo-assets-websites-editorial-emea.yougov.net/documents/2028_Presidential_Nominee_Preferences_poll_results.pdf
-"Ted Cruz",2.00,YouGov,1,NULL,1114,NULL,2025-09-05,https://ygo-assets-websites-editorial-emea.yougov.net/documents/2028_Presidential_Nominee_Preferences_poll_results.pdf
-"Nikki Haley",3.00,YouGov,1,NULL,1114,NULL,2025-09-05,https://ygo-assets-websites-editorial-emea.yougov.net/documents/2028_Presidential_Nominee_Preferences_poll_results.pdf
-"Vivek Ramaswamy",2.00,YouGov,1,NULL,1114,NULL,2025-09-05,https://ygo-assets-websites-editorial-emea.yougov.net/documents/2028_Presidential_Nominee_Preferences_poll_results.pdf
-"Marco Rubio",4.00,YouGov,1,NULL,1114,NULL,2025-09-05,https://ygo-assets-websites-editorial-emea.yougov.net/documents/2028_Presidential_Nominee_Preferences_poll_results.pdf
-"Mike Pence",2.00,YouGov,1,NULL,1114,NULL,2025-09-05,https://ygo-assets-websites-editorial-emea.yougov.net/documents/2028_Presidential_Nominee_Preferences_poll_results.pdf
-"Tulsi Gabbard",1.00,YouGov,1,NULL,1114,NULL,2025-09-05,https://ygo-assets-websites-editorial-emea.yougov.net/documents/2028_Presidential_Nominee_Preferences_poll_results.pdf
-"Tim Scott",1.00,YouGov,1,NULL,1114,NULL,2025-09-05,https://ygo-assets-websites-editorial-emea.yougov.net/documents/2028_Presidential_Nominee_Preferences_poll_results.pdf
 "J.D. Vance",54.60,"Atlas Intel",1,NULL,1066,NULL,2025-09-12,https://atlasintel.org/poll/usa-national-2025-09-19
 "Marco Rubio",12.20,"Atlas Intel",1,NULL,1066,NULL,2025-09-12,https://atlasintel.org/poll/usa-national-2025-09-19
 "Tim Scott",1.60,"Atlas Intel",1,NULL,1066,NULL,2025-09-12,https://atlasintel.org/poll/usa-national-2025-09-19
@@ -452,16 +443,6 @@ Candidate,Polling,Pollster,Nationwide,State,Sample_Size,Voter_Type,DMY,Link
 "Glenn Youngkin",1.00,"University of New Hampshire",NULL,Maine,381,"Likely Voters",2025-10-16,https://scholars.unh.edu/cgi/viewcontent.cgi?article=1900&context=survey_center_polls
 "Tom Cotton",1.00,"University of New Hampshire",NULL,Maine,381,"Likely Voters",2025-10-16,https://scholars.unh.edu/cgi/viewcontent.cgi?article=1900&context=survey_center_polls
 "Tulsi Gabbard",1.00,"University of New Hampshire",NULL,Maine,381,"Likely Voters",2025-10-16,https://scholars.unh.edu/cgi/viewcontent.cgi?article=1900&context=survey_center_polls
-"J.D. Vance",36.00,"J.L. Partners",1,NULL,325,"Registered Voters",2025-10-13,https://x.com/PollTracker2024/status/1982869696253964371
-"Nikki Haley",3.00,"J.L. Partners",1,NULL,325,"Registered Voters",2025-10-13,https://x.com/PollTracker2024/status/1982869696253964371
-"Vivek Ramaswamy",5.00,"J.L. Partners",1,NULL,325,"Registered Voters",2025-10-13,https://x.com/PollTracker2024/status/1982869696253964371
-"Marco Rubio",6.00,"J.L. Partners",1,NULL,325,"Registered Voters",2025-10-13,https://x.com/PollTracker2024/status/1982869696253964371
-"Ted Cruz",2.00,"J.L. Partners",1,NULL,325,"Registered Voters",2025-10-13,https://x.com/PollTracker2024/status/1982869696253964371
-"Ron Desantis",5.00,"J.L. Partners",1,NULL,325,"Registered Voters",2025-10-13,https://x.com/PollTracker2024/status/1982869696253964371
-"Tim Scott",2.00,"J.L. Partners",1,NULL,325,"Registered Voters",2025-10-13,https://x.com/PollTracker2024/status/1982869696253964371
-"Kristi Noem",1.00,"J.L. Partners",1,NULL,325,"Registered Voters",2025-10-13,https://x.com/PollTracker2024/status/1982869696253964371
-"Glenn Youngkin",2.00,"J.L. Partners",1,NULL,325,"Registered Voters",2025-10-13,https://x.com/PollTracker2024/status/1982869696253964371
-"Elise Stefanik",1.00,"J.L. Partners",1,NULL,325,"Registered Voters",2025-10-13,https://x.com/PollTracker2024/status/1982869696253964371
 "J.D. Vance",51.00,"University of New Hampshire",NULL,"New Hampshire",679,"Likely Voters",2025-10-16,https://scholars.unh.edu/cgi/viewcontent.cgi?article=1898&context=survey_center_polls
 "Nikki Haley",9.00,"University of New Hampshire",NULL,"New Hampshire",679,"Likely Voters",2025-10-16,https://scholars.unh.edu/cgi/viewcontent.cgi?article=1898&context=survey_center_polls
 "Marco Rubio",5.00,"University of New Hampshire",NULL,"New Hampshire",679,"Likely Voters",2025-10-16,https://scholars.unh.edu/cgi/viewcontent.cgi?article=1898&context=survey_center_polls
@@ -484,14 +465,6 @@ Candidate,Polling,Pollster,Nationwide,State,Sample_Size,Voter_Type,DMY,Link
 "Vivek Ramaswamy",3.00,"Morning Consult",1,NULL,936,"Registered Voters",2025-11-07,https://pro.morningconsult.com/analysis/democratic-primary-polling-august-2025
 "J.D. Vance",42.00,"Morning Consult",1,NULL,936,"Registered Voters",2025-11-07,https://pro.morningconsult.com/analysis/democratic-primary-polling-august-2025
 "Marco Rubio",3.00,"Morning Consult",1,NULL,936,"Registered Voters",2025-11-07,https://pro.morningconsult.com/analysis/democratic-primary-polling-august-2025
-"Ron Desantis",6.00,YouGov,1,NULL,2172,NULL,2025-11-06,https://ygo-assets-websites-editorial-emea.yougov.net/documents/2028_Presidential_Nominee_Preferences_poll_results.pdf
-"J.D. Vance",42.00,YouGov,1,NULL,2172,NULL,2025-11-06,https://ygo-assets-websites-editorial-emea.yougov.net/documents/2028_Presidential_Nominee_Preferences_poll_results.pdf
-"Nikki Haley",1.00,YouGov,1,NULL,2172,NULL,2025-11-06,https://ygo-assets-websites-editorial-emea.yougov.net/documents/2028_Presidential_Nominee_Preferences_poll_results.pdf
-"Vivek Ramaswamy",2.00,YouGov,1,NULL,2172,NULL,2025-11-06,https://ygo-assets-websites-editorial-emea.yougov.net/documents/2028_Presidential_Nominee_Preferences_poll_results.pdf
-"Marco Rubio",5.00,YouGov,1,NULL,2172,NULL,2025-11-06,https://ygo-assets-websites-editorial-emea.yougov.net/documents/2028_Presidential_Nominee_Preferences_poll_results.pdf
-"Mike Pence",1.00,YouGov,1,NULL,2172,NULL,2025-11-06,https://ygo-assets-websites-editorial-emea.yougov.net/documents/2028_Presidential_Nominee_Preferences_poll_results.pdf
-"Tulsi Gabbard",1.00,YouGov,1,NULL,2172,NULL,2025-11-06,https://ygo-assets-websites-editorial-emea.yougov.net/documents/2028_Presidential_Nominee_Preferences_poll_results.pdf
-"Ted Cruz",4.00,YouGov,1,NULL,2172,NULL,2025-11-06,https://ygo-assets-websites-editorial-emea.yougov.net/documents/2028_Presidential_Nominee_Preferences_poll_results.pdf
 "J.D. Vance",47.00,"Echelon Insights",1,NULL,472,"Likely Voters",2025-11-13,http://echelonin.wpenginepowered.com/wp-content/uploads/November-2025-Voter-Omnibus-Topline-External.pdf
 "Ron Desantis",10.00,"Echelon Insights",1,NULL,472,"Likely Voters",2025-11-13,http://echelonin.wpenginepowered.com/wp-content/uploads/November-2025-Voter-Omnibus-Topline-External.pdf
 "Ted Cruz",2.00,"Echelon Insights",1,NULL,472,"Likely Voters",2025-11-13,http://echelonin.wpenginepowered.com/wp-content/uploads/November-2025-Voter-Omnibus-Topline-External.pdf
@@ -590,3 +563,225 @@ Candidate,Polling,Pollster,Nationwide,State,Sample_Size,Voter_Type,DMY,Link
 "Ted Cruz",3.00,"yes. every kid.",NULL,Georgia,608,"Likely Voters",2025-07-22,https://yeseverykidfoundation.org/georgia-gop-voters-put-education-freedom-front-and-center/
 "Ron Desantis",9.00,"yes. every kid.",NULL,Georgia,608,"Likely Voters",2025-07-22,https://yeseverykidfoundation.org/georgia-gop-voters-put-education-freedom-front-and-center/
 "Sarah Huckabee Sanders",3.00,"yes. every kid.",NULL,Georgia,608,"Likely Voters",2025-07-22,https://yeseverykidfoundation.org/georgia-gop-voters-put-education-freedom-front-and-center/
+"J.D. Vance",58.00,"Zogby Analytics",1,NULL,340,"Likely Voters",2026-01-01,https://zogbyanalytics.com/news/1232-the-zogby-poll-r-latest-likely-voter-survey-results
+"Marco Rubio",8.00,"Zogby Analytics",1,NULL,340,"Likely Voters",2026-01-01,https://zogbyanalytics.com/news/1232-the-zogby-poll-r-latest-likely-voter-survey-results
+"Ted Cruz",3.00,"Zogby Analytics",1,NULL,340,"Likely Voters",2026-01-01,https://zogbyanalytics.com/news/1232-the-zogby-poll-r-latest-likely-voter-survey-results
+"Ron Desantis",9.00,"Zogby Analytics",1,NULL,340,"Likely Voters",2026-01-01,https://zogbyanalytics.com/news/1232-the-zogby-poll-r-latest-likely-voter-survey-results
+"Sarah Huckabee Sanders",4.00,"Zogby Analytics",1,NULL,340,"Likely Voters",2026-01-01,https://zogbyanalytics.com/news/1232-the-zogby-poll-r-latest-likely-voter-survey-results
+"Marjorie Taylor Greene",3.00,"Zogby Analytics",1,NULL,340,"Likely Voters",2026-01-01,https://zogbyanalytics.com/news/1232-the-zogby-poll-r-latest-likely-voter-survey-results
+"Glenn Youngkin",2.00,"Zogby Analytics",1,NULL,340,"Likely Voters",2026-01-01,https://zogbyanalytics.com/news/1232-the-zogby-poll-r-latest-likely-voter-survey-results
+"J.D. Vance",53.00,"Harvard Harris",1,NULL,2000,"Registered Voters",2026-01-28,https://harvardharrispoll.com/wp-content/uploads/2026/02/HHP_Jan2026_KeyResults.pdf
+"Marco Rubio",17.00,"Harvard Harris",1,NULL,2000,"Registered Voters",2026-01-28,https://harvardharrispoll.com/wp-content/uploads/2026/02/HHP_Jan2026_KeyResults.pdf
+"J.D. Vance",46.00,"Big Data Poll",1,NULL,1306,"Registered Voters",2026-01-22,https://www.bigdatapoll.com/blog/democrats-solidify-lead-over-republicans-on-first-2026-generic-ballot/
+"Ted Cruz",4.00,"Big Data Poll",1,NULL,1306,"Registered Voters",2026-01-22,https://www.bigdatapoll.com/blog/democrats-solidify-lead-over-republicans-on-first-2026-generic-ballot/
+"Marco Rubio",7.00,"Big Data Poll",1,NULL,1306,"Registered Voters",2026-01-22,https://www.bigdatapoll.com/blog/democrats-solidify-lead-over-republicans-on-first-2026-generic-ballot/
+"Nikki Haley",5.00,"Big Data Poll",1,NULL,1306,"Registered Voters",2026-01-22,https://www.bigdatapoll.com/blog/democrats-solidify-lead-over-republicans-on-first-2026-generic-ballot/
+"Tulsi Gabbard",2.00,"Big Data Poll",1,NULL,1306,"Registered Voters",2026-01-22,https://www.bigdatapoll.com/blog/democrats-solidify-lead-over-republicans-on-first-2026-generic-ballot/
+"Glenn Youngkin",2.00,"Big Data Poll",1,NULL,1306,"Registered Voters",2026-01-22,https://www.bigdatapoll.com/blog/democrats-solidify-lead-over-republicans-on-first-2026-generic-ballot/
+"Ron Desantis",10.00,"Big Data Poll",1,NULL,1306,"Registered Voters",2026-01-22,https://www.bigdatapoll.com/blog/democrats-solidify-lead-over-republicans-on-first-2026-generic-ballot/
+"J.D. Vance",40.00,"Echelon Insights",1,NULL,430,"Likely Voters",2026-01-23,https://echeloninsights.com/in-the-news/january-2026-verified-voter-omnibus/
+"Ron Desantis",7.00,"Echelon Insights",1,NULL,430,"Likely Voters",2026-01-23,https://echeloninsights.com/in-the-news/january-2026-verified-voter-omnibus/
+"Ted Cruz",1.00,"Echelon Insights",1,NULL,430,"Likely Voters",2026-01-23,https://echeloninsights.com/in-the-news/january-2026-verified-voter-omnibus/
+"Nikki Haley",5.00,"Echelon Insights",1,NULL,430,"Likely Voters",2026-01-23,https://echeloninsights.com/in-the-news/january-2026-verified-voter-omnibus/
+"Vivek Ramaswamy",3.00,"Echelon Insights",1,NULL,430,"Likely Voters",2026-01-23,https://echeloninsights.com/in-the-news/january-2026-verified-voter-omnibus/
+"Tulsi Gabbard",1.00,"Echelon Insights",1,NULL,430,"Likely Voters",2026-01-23,https://echeloninsights.com/in-the-news/january-2026-verified-voter-omnibus/
+"Josh Hawley",1.00,"Echelon Insights",1,NULL,430,"Likely Voters",2026-01-23,https://echeloninsights.com/in-the-news/january-2026-verified-voter-omnibus/
+"Tucker Carlson",2.00,"Echelon Insights",1,NULL,430,"Likely Voters",2026-01-23,https://echeloninsights.com/in-the-news/january-2026-verified-voter-omnibus/
+"Glenn Youngkin",2.00,"Echelon Insights",1,NULL,430,"Likely Voters",2026-01-23,https://echeloninsights.com/in-the-news/january-2026-verified-voter-omnibus/
+"Marjorie Taylor Greene",1.00,"Echelon Insights",1,NULL,430,"Likely Voters",2026-01-23,https://echeloninsights.com/in-the-news/january-2026-verified-voter-omnibus/
+"Sarah Huckabee Sanders",1.00,"Echelon Insights",1,NULL,430,"Likely Voters",2026-01-23,https://echeloninsights.com/in-the-news/january-2026-verified-voter-omnibus/
+"Tim Scott",1.00,"Echelon Insights",1,NULL,430,"Likely Voters",2026-01-23,https://echeloninsights.com/in-the-news/january-2026-verified-voter-omnibus/
+"Marco Rubio",6.00,"Echelon Insights",1,NULL,430,"Likely Voters",2026-01-23,https://echeloninsights.com/in-the-news/january-2026-verified-voter-omnibus/
+"J.D. Vance",42.00,"McLaughlin & Associates",1,NULL,442,"Likely Voters",2026-01-21,https://mclaughlinonline.com/pols/wp-content/uploads/2026/02/National-January-2026-Presentation-RELEASE-1-1.pdf
+"Nikki Haley",4.00,"McLaughlin & Associates",1,NULL,442,"Likely Voters",2026-01-21,hhttps://mclaughlinonline.com/pols/wp-content/uploads/2026/02/National-January-2026-Presentation-RELEASE-1-1.pdf
+"Vivek Ramaswamy",2.00,"McLaughlin & Associates",1,NULL,442,"Likely Voters",2026-01-21,https://mclaughlinonline.com/pols/wp-content/uploads/2026/02/National-January-2026-Presentation-RELEASE-1-1.pdf
+"Marco Rubio",4.00,"McLaughlin & Associates",1,NULL,442,"Likely Voters",2026-01-21,https://mclaughlinonline.com/pols/wp-content/uploads/2026/02/National-January-2026-Presentation-RELEASE-1-1.pdf
+"Sarah Huckabee Sanders",1.00,"McLaughlin & Associates",1,NULL,442,"Likely Voters",2026-01-21,https://mclaughlinonline.com/pols/wp-content/uploads/2026/02/National-January-2026-Presentation-RELEASE-1-1.pdf
+"Ron Desantis",7.00,"McLaughlin & Associates",1,NULL,442,"Likely Voters",2026-01-21,https://mclaughlinonline.com/pols/wp-content/uploads/2026/02/National-January-2026-Presentation-RELEASE-1-1.pdf
+"Tim Scott",1.00,"McLaughlin & Associates",1,NULL,442,"Likely Voters",2026-01-21,https://mclaughlinonline.com/pols/wp-content/uploads/2026/02/National-January-2026-Presentation-RELEASE-1-1.pdf
+"Glenn Youngkin",1.00,"McLaughlin & Associates",1,NULL,442,"Likely Voters",2026-01-21,https://mclaughlinonline.com/pols/wp-content/uploads/2026/02/National-January-2026-Presentation-RELEASE-1-1.pdf
+"Josh Hawley",1.00,"McLaughlin & Associates",1,NULL,442,"Likely Voters",2026-01-21,https://mclaughlinonline.com/pols/wp-content/uploads/2026/02/National-January-2026-Presentation-RELEASE-1-1.pdf
+"Greg Abbott",1.00,"McLaughlin & Associates",1,NULL,442,"Likely Voters",2026-01-21,https://mclaughlinonline.com/pols/wp-content/uploads/2026/02/National-January-2026-Presentation-RELEASE-1-1.pdf
+"Tulsi Gabbard",2.00,"McLaughlin & Associates",1,NULL,442,"Likely Voters",2026-01-21,https://mclaughlinonline.com/pols/wp-content/uploads/2026/02/National-January-2026-Presentation-RELEASE-1-1.pdf
+"J.D. Vance",43.00,I&I/TIPP,1,NULL,478,"Likely Voters",2026-01-27,https://issuesinsights.com/2026/02/16/who-leads-in-2028-presidential-race-and-in-2026-midterm-elections-ii-tipp-poll/
+"Marco Rubio",5.00,I&I/TIPP,1,NULL,478,"Likely Voters",2026-01-27,https://issuesinsights.com/2026/02/16/who-leads-in-2028-presidential-race-and-in-2026-midterm-elections-ii-tipp-poll/
+"Tim Scott",1.00,I&I/TIPP,1,NULL,478,"Likely Voters",2026-01-27,https://issuesinsights.com/2026/02/16/who-leads-in-2028-presidential-race-and-in-2026-midterm-elections-ii-tipp-poll/
+"Tom Cotton",1.00,I&I/TIPP,1,NULL,478,"Likely Voters",2026-01-27,https://issuesinsights.com/2026/02/16/who-leads-in-2028-presidential-race-and-in-2026-midterm-elections-ii-tipp-poll/
+"Vivek Ramaswamy",2.00,I&I/TIPP,1,NULL,478,"Likely Voters",2026-01-27,https://issuesinsights.com/2026/02/16/who-leads-in-2028-presidential-race-and-in-2026-midterm-elections-ii-tipp-poll/
+"Nikki Haley",2.00,I&I/TIPP,1,NULL,478,"Likely Voters",2026-01-27,https://issuesinsights.com/2026/02/16/who-leads-in-2028-presidential-race-and-in-2026-midterm-elections-ii-tipp-poll/
+"Ron Desantis",5.00,I&I/TIPP,1,NULL,478,"Likely Voters",2026-01-27,https://issuesinsights.com/2026/02/16/who-leads-in-2028-presidential-race-and-in-2026-midterm-elections-ii-tipp-poll/
+"Greg Abbott",2.00,I&I/TIPP,1,NULL,478,"Likely Voters",2026-01-27,https://issuesinsights.com/2026/02/16/who-leads-in-2028-presidential-race-and-in-2026-midterm-elections-ii-tipp-poll/
+"J.D. Vance",52.00,Focaldata,1,NULL,1148,"Registered Voters",2026-02-10,https://www.focaldata.com/blog/cost-of-living-fuelling-democrat-strength-in-new-midterms-polling
+"Marco Rubio",9.00,Focaldata,1,NULL,1148,"Registered Voters",2026-02-10,https://www.focaldata.com/blog/cost-of-living-fuelling-democrat-strength-in-new-midterms-polling
+"Josh Hawley",1.00,Focaldata,1,NULL,1148,"Registered Voters",2026-02-10,https://www.focaldata.com/blog/cost-of-living-fuelling-democrat-strength-in-new-midterms-polling
+"Vivek Ramaswamy",4.00,Focaldata,1,NULL,1148,"Registered Voters",2026-02-10,https://www.focaldata.com/blog/cost-of-living-fuelling-democrat-strength-in-new-midterms-polling
+"Nikki Haley",3.00,Focaldata,1,NULL,1148,"Registered Voters",2026-02-10,https://www.focaldata.com/blog/cost-of-living-fuelling-democrat-strength-in-new-midterms-polling
+"Ron Desantis",8.00,Focaldata,1,NULL,1148,"Registered Voters",2026-02-10,https://www.focaldata.com/blog/cost-of-living-fuelling-democrat-strength-in-new-midterms-polling
+"Ted Cruz",3.00,Focaldata,1,NULL,1148,"Registered Voters",2026-02-10,https://www.focaldata.com/blog/cost-of-living-fuelling-democrat-strength-in-new-midterms-polling
+"J.D. Vance",51.00,YouGov/BGSU,1,NULL,463,"Registered Voters",2026-02-13,https://www.bgsu.edu/arts-and-sciences/democracy-and-public-policy-research-network/bgsu-poll.html
+"Marco Rubio",15.00,YouGov/BGSU,1,NULL,463,"Registered Voters",2026-02-13,https://www.bgsu.edu/arts-and-sciences/democracy-and-public-policy-research-network/bgsu-poll.html
+"Ted Cruz",2.00,YouGov/BGSU,1,NULL,463,"Registered Voters",2026-02-13,https://www.bgsu.edu/arts-and-sciences/democracy-and-public-policy-research-network/bgsu-poll.html
+"TJosh Hawley",1.00,YouGov/BGSU,1,NULL,463,"Registered Voters",2026-02-13,https://www.bgsu.edu/arts-and-sciences/democracy-and-public-policy-research-network/bgsu-poll.html
+"Rand paul",1.00,YouGov/BGSU,1,NULL,463,"Registered Voters",2026-02-13,https://www.bgsu.edu/arts-and-sciences/democracy-and-public-policy-research-network/bgsu-poll.html
+"Ron Desantis",9.00,YouGov/BGSU,1,NULL,463,"Registered Voters",2026-02-13,https://www.bgsu.edu/arts-and-sciences/democracy-and-public-policy-research-network/bgsu-poll.html
+"Nikki Haley",2.00,YouGov/BGSU,1,NULL,463,"Registered Voters",2026-02-13,https://www.bgsu.edu/arts-and-sciences/democracy-and-public-policy-research-network/bgsu-poll.html
+"J.D. Vance",37.00,"Echelon Insights",1,NULL,429,"Likely Voters",2026-02-19,https://echeloninsights.com/in-the-news/february-2026-verified-voter-omnibus/
+"Ron Desantis",8.00,"Echelon Insights",1,NULL,429,"Likely Voters",2026-02-19,https://echeloninsights.com/in-the-news/february-2026-verified-voter-omnibus/
+"Ted Cruz",3.00,"Echelon Insights",1,NULL,429,"Likely Voters",2026-02-19,https://echeloninsights.com/in-the-news/february-2026-verified-voter-omnibus/
+"Nikki Haley",3.00,"Echelon Insights",1,NULL,429,"Likely Voters",2026-02-19,https://echeloninsights.com/in-the-news/february-2026-verified-voter-omnibus/
+"Vivek Ramaswamy",3.00,"Echelon Insights",1,NULL,429,"Likely Voters",2026-02-19,https://echeloninsights.com/in-the-news/february-2026-verified-voter-omnibus/
+"Tulsi Gabbard",1.00,"Echelon Insights",1,NULL,429,"Likely Voters",2026-02-19,https://echeloninsights.com/in-the-news/february-2026-verified-voter-omnibus/
+"Glenn Youngkin",1.00,"Echelon Insights",1,NULL,429,"Likely Voters",2026-02-19,https://echeloninsights.com/in-the-news/february-2026-verified-voter-omnibus/
+"Marjorie Taylor Greene",2.00,"Echelon Insights",1,NULL,429,"Likely Voters",2026-02-19,https://echeloninsights.com/in-the-news/february-2026-verified-voter-omnibus/
+"Sarah Huckabee Sanders",1.00,"Echelon Insights",1,NULL,429,"Likely Voters",2026-02-19,https://echeloninsights.com/in-the-news/february-2026-verified-voter-omnibus/
+"Kristi Noem",1.00,"Echelon Insights",1,NULL,429,"Likely Voters",2026-02-19,https://echeloninsights.com/in-the-news/february-2026-verified-voter-omnibus/
+"Tim Scott",2.00,"Echelon Insights",1,NULL,429,"Likely Voters",2026-02-19,https://echeloninsights.com/in-the-news/february-2026-verified-voter-omnibus/
+"Marco Rubio",11.00,"Echelon Insights",1,NULL,429,"Likely Voters",2026-02-19,https://echeloninsights.com/in-the-news/february-2026-verified-voter-omnibus/
+"J.D. Vance",52.00,"Emerson College",1,NULL,454,"Likely Voters",2026-02-21,https://emersoncollegepolling.com/february-2026-national-poll-trump-approval-steady-as-disapproval-rises-vance-leads-gop-field-while-democrats-hold-midterm-edge/
+"Nikki Haley",3.00,"Emerson College",1,NULL,454,"Likely Voters",2026-02-21,https://emersoncollegepolling.com/february-2026-national-poll-trump-approval-steady-as-disapproval-rises-vance-leads-gop-field-while-democrats-hold-midterm-edge/
+"Marco Rubio",20.00,"Emerson College",1,NULL,454,"Likely Voters",2026-02-21,https://emersoncollegepolling.com/february-2026-national-poll-trump-approval-steady-as-disapproval-rises-vance-leads-gop-field-while-democrats-hold-midterm-edge/
+"Ted Cruz",1.00,"Emerson College",1,NULL,454,"Likely Voters",2026-02-21,https://emersoncollegepolling.com/february-2026-national-poll-trump-approval-steady-as-disapproval-rises-vance-leads-gop-field-while-democrats-hold-midterm-edge/
+"Ron Desantis",6.00,"Emerson College",1,NULL,454,"Likely Voters",2026-02-21,https://emersoncollegepolling.com/february-2026-national-poll-trump-approval-steady-as-disapproval-rises-vance-leads-gop-field-while-democrats-hold-midterm-edge/
+"J.D. Vance",42.00,"Harvard Harris",1,NULL,1999,"Registered Voters",2026-02-25,https://harvardharrispoll.com/wp-content/uploads/2026/03/HHP_Feb2026_KeyResults_Mon.pdf
+"Marco Rubio",14.00,"Harvard Harris",1,NULL,1999,"Registered Voters",2026-02-25,https://harvardharrispoll.com/wp-content/uploads/2026/03/HHP_Feb2026_KeyResults_Mon.pdf
+"Ron Desantis",10.00,"Harvard Harris",1,NULL,1999,"Registered Voters",2026-02-25,https://harvardharrispoll.com/wp-content/uploads/2026/03/HHP_Feb2026_KeyResults_Mon.pdf
+"J.D. Vance",29.30,"The Public Sentiment Institute",1,NULL,234,"Registered Voters",2026-03-20,https://tpsiofficial.substack.com/p/the-public-sentiment-institute-march
+"Ted Cruz",2.30,"The Public Sentiment Institute",1,NULL,234,"Registered Voters",2026-03-20,https://tpsiofficial.substack.com/p/the-public-sentiment-institute-march
+"Nikki Haley",4.40,"The Public Sentiment Institute",1,NULL,234,"Registered Voters",2026-03-20,https://tpsiofficial.substack.com/p/the-public-sentiment-institute-march
+"Vivek Ramaswamy",2.30,"The Public Sentiment Institute",1,NULL,234,"Registered Voters",2026-03-20,https://tpsiofficial.substack.com/p/the-public-sentiment-institute-march
+"Ron Desantis",13.50,"The Public Sentiment Institute",1,NULL,234,"Registered Voters",2026-03-20,https://tpsiofficial.substack.com/p/the-public-sentiment-institute-march
+"J.D. Vance",42.00,"Harvard Harris",1,NULL,NULL,NULL,2026-03-25,https://harvardharrispoll.com/wp-content/uploads/2026/03/HHP_Mar2026_KeyResults.pdf
+"Marco Rubio",17.00,"Harvard Harris",1,NULL,NULL,NULL,2026-03-25,https://harvardharrispoll.com/wp-content/uploads/2026/03/HHP_Mar2026_KeyResults.pdf
+"Ron Desantis",10.00,"Harvard Harris",1,NULL,NULL,NULL,2026-03-25,https://harvardharrispoll.com/wp-content/uploads/2026/03/HHP_Mar2026_KeyResults.pdf
+"Ron Desantis",6.00,YouGov,1,NULL,968,"Registered Voters",2026-04-08,https://d3nkl3psvxxpe9.cloudfront.net/documents/2028_Presidential_Preferences_poll_results_8WxHg6O.pdf
+"J.D. Vance",36.00,YouGov,1,NULL,968,"Registered Voters",2026-04-08,https://d3nkl3psvxxpe9.cloudfront.net/documents/2028_Presidential_Preferences_poll_results_8WxHg6O.pdf
+"Marco Rubio",15.00,YouGov,1,NULL,968,"Registered Voters",2026-04-08,https://d3nkl3psvxxpe9.cloudfront.net/documents/2028_Presidential_Preferences_poll_results_8WxHg6O.pdf
+"J.D. Vance",35.00,"McLaughlin & Associates",1,NULL,457,"Registered Voters",2026-04-09,https://mclaughlinonline.com/pols/wp-content/uploads/2026/04/National-April-Release-Presentation-4-16-26.pdf
+"Marco Rubio",15.00,"McLaughlin & Associates",1,NULL,457,"Registered Voters",2026-04-09,https://mclaughlinonline.com/pols/wp-content/uploads/2026/04/National-April-Release-Presentation-4-16-26.pdf
+"Ron Desantis",7.00,"McLaughlin & Associates",1,NULL,457,"Registered Voters",2026-04-09,https://mclaughlinonline.com/pols/wp-content/uploads/2026/04/National-April-Release-Presentation-4-16-26.pdf
+"J.D. Vance",42.00,"Echelon Insights",1,NULL,409,"Registered Voters",2026-04-17,https://echeloninsights.com/insights/april-2026-verified-voter-omnibus
+"Ron Desantis",8.00,"Echelon Insights",1,NULL,409,"Registered Voters",2026-04-17,https://echeloninsights.com/insights/april-2026-verified-voter-omnibus
+"Ted Cruz",1.00,"Echelon Insights",1,NULL,409,"Registered Voters",2026-04-17,https://echeloninsights.com/insights/april-2026-verified-voter-omnibus
+"Vivek Ramaswamy",2.00,"Echelon Insights",1,NULL,409,"Registered Voters",2026-04-17,https://echeloninsights.com/insights/april-2026-verified-voter-omnibus
+"Tulsi Gabbard",2.00,"Echelon Insights",1,NULL,409,"Registered Voters",2026-04-17,https://echeloninsights.com/insights/april-2026-verified-voter-omnibus
+"Tucker Carlson",1.00,"Echelon Insights",1,NULL,409,"Registered Voters",2026-04-17,https://echeloninsights.com/insights/april-2026-verified-voter-omnibus
+"Glenn Youngkin",1.00,"Echelon Insights",1,NULL,409,"Registered Voters",2026-04-17,https://echeloninsights.com/insights/april-2026-verified-voter-omnibus
+"Marjorie Taylor Greene",1.00,"Echelon Insights",1,NULL,409,"Registered Voters",2026-04-17,https://echeloninsights.com/insights/april-2026-verified-voter-omnibus
+"Sarah Huckabee Sanders",1.00,"Echelon Insights",1,NULL,409,"Registered Voters",2026-04-17,https://echeloninsights.com/insights/april-2026-verified-voter-omnibus
+"Tim Scott",1.00,"Echelon Insights",1,NULL,409,"Registered Voters",2026-04-17,https://echeloninsights.com/insights/april-2026-verified-voter-omnibus
+"Marco Rubio",14.00,"Echelon Insights",1,NULL,409,"Registered Voters",2026-04-17,https://echeloninsights.com/insights/april-2026-verified-voter-omnibus
+"J.D. Vance",53.00,"University of New Hampshire",NULL,"New Hampshire",664,"Likely Voters",2026-02-12,https://scholars.unh.edu/survey_center_polls/927/
+"Nikki Haley",9.00,"University of New Hampshire",NULL,"New Hampshire",664,"Likely Voters",2026-02-12,https://scholars.unh.edu/survey_center_polls/927/
+"Marco Rubio",7.00,"University of New Hampshire",NULL,"New Hampshire",664,"Likely Voters",2026-02-12,https://scholars.unh.edu/survey_center_polls/927/
+"Ron Desantis",6.00,"University of New Hampshire",NULL,"New Hampshire",664,"Likely Voters",2026-02-12,https://scholars.unh.edu/survey_center_polls/927/
+"Rand Paul",5.00,"University of New Hampshire",NULL,"New Hampshire",664,"Likely Voters",2026-02-12,https://scholars.unh.edu/survey_center_polls/927/
+"Josh Hawley",1.00,"University of New Hampshire",NULL,"New Hampshire",664,"Likely Voters",2026-02-12,https://scholars.unh.edu/survey_center_polls/927/
+"Tim Scott",3.00,"University of New Hampshire",NULL,"New Hampshire",664,"Likely Voters",2026-02-12,https://scholars.unh.edu/survey_center_polls/927/
+"Tulsi Gabbard",2.00,"University of New Hampshire",NULL,"New Hampshire",664,"Likely Voters",2026-02-12,https://scholars.unh.edu/survey_center_polls/927/
+"J.D. Vance",46.00,"Saint Anselm",NULL,"New Hampshire",665,"Registered Voters",2026-03-16,https://www.anselm.edu/about/anselmian-hub/news/new-poll-saint-anselm-college-survey-shows-democrats-gaining-ground-republicans-face-political-headwinds
+"Nikki Haley",5.00,"Saint Anselm",NULL,"New Hampshire",665,"Registered Voters",2026-03-16,https://www.anselm.edu/about/anselmian-hub/news/new-poll-saint-anselm-college-survey-shows-democrats-gaining-ground-republicans-face-political-headwinds
+"Vivek Ramaswamy",2.00,"Saint Anselm",NULL,"New Hampshire",665,"Registered Voters",2026-03-16,https://www.anselm.edu/about/anselmian-hub/news/new-poll-saint-anselm-college-survey-shows-democrats-gaining-ground-republicans-face-political-headwinds
+"Marco Rubio",27.00,"Saint Anselm",NULL,"New Hampshire",665,"Registered Voters",2026-03-16,https://www.anselm.edu/about/anselmian-hub/news/new-poll-saint-anselm-college-survey-shows-democrats-gaining-ground-republicans-face-political-headwinds
+"Ted Cruz",1.00,"Saint Anselm",NULL,"New Hampshire",665,"Registered Voters",2026-03-16,https://www.anselm.edu/about/anselmian-hub/news/new-poll-saint-anselm-college-survey-shows-democrats-gaining-ground-republicans-face-political-headwinds
+"Glenn Youngkin",1.00,"Saint Anselm",NULL,"New Hampshire",665,"Registered Voters",2026-03-16,https://www.anselm.edu/about/anselmian-hub/news/new-poll-saint-anselm-college-survey-shows-democrats-gaining-ground-republicans-face-political-headwinds
+"Ron Desantis",5.00,"Saint Anselm",NULL,"New Hampshire",665,"Registered Voters",2026-03-16,https://www.anselm.edu/about/anselmian-hub/news/new-poll-saint-anselm-college-survey-shows-democrats-gaining-ground-republicans-face-political-headwinds
+"Tulsi Gabbard",2.00,"Saint Anselm",NULL,"New Hampshire",665,"Registered Voters",2026-03-16,https://www.anselm.edu/about/anselmian-hub/news/new-poll-saint-anselm-college-survey-shows-democrats-gaining-ground-republicans-face-political-headwinds
+"J.D. Vance",43.00,"Emerson College",NULL,"New Hampshire",529,"Likely Voters",2026-03-21,https://emersoncollegepolling.com/new-hampshire-2026-sununu-leads-gop-nomination-ties-pappas-for-senate/
+"Nikki Haley",6.00,"Emerson College",NULL,"New Hampshire",529,"Likely Voters",2026-03-21,https://emersoncollegepolling.com/new-hampshire-2026-sununu-leads-gop-nomination-ties-pappas-for-senate/
+"Marco Rubio",18.00,"Emerson College",NULL,"New Hampshire",529,"Likely Voters",2026-03-21,https://emersoncollegepolling.com/new-hampshire-2026-sununu-leads-gop-nomination-ties-pappas-for-senate/
+"Ron Desantis",5.00,"Emerson College",NULL,"New Hampshire",529,"Likely Voters",2026-03-21,https://emersoncollegepolling.com/new-hampshire-2026-sununu-leads-gop-nomination-ties-pappas-for-senate/
+"J.D. Vance",34.00,"McLaughlin & Associates",1,NULL,433,"Likely Voters",2025-12-12,https://mclaughlinonline.com/pols/wp-content/uploads/2025/12/National-December-Presentation-Release-12-19-25.pdf
+"Nikki Haley",3.00,"McLaughlin & Associates",1,NULL,433,"Likely Voters",2025-12-12,hhttps://mclaughlinonline.com/pols/wp-content/uploads/2025/12/National-December-Presentation-Release-12-19-25.pdf
+"Vivek Ramaswamy",2.00,"McLaughlin & Associates",1,NULL,433,"Likely Voters",2025-12-12,https://mclaughlinonline.com/pols/wp-content/uploads/2025/12/National-December-Presentation-Release-12-19-25.pdf
+"Marco Rubio",6.00,"McLaughlin & Associates",1,NULL,433,"Likely Voters",2025-12-12,https://mclaughlinonline.com/pols/wp-content/uploads/2025/12/National-December-Presentation-Release-12-19-25.pdf
+"Sarah Huckabee Sanders",1.00,"McLaughlin & Associates",1,NULL,433,"Likely Voters",2025-12-12,https://mclaughlinonline.com/pols/wp-content/uploads/2025/12/National-December-Presentation-Release-12-19-25.pdf
+"Ron Desantis",7.00,"McLaughlin & Associates",1,NULL,433,"Likely Voters",2025-12-12,https://mclaughlinonline.com/pols/wp-content/uploads/2025/12/National-December-Presentation-Release-12-19-25.pdf
+"Spencer Cox",1.00,"McLaughlin & Associates",1,NULL,433,"Likely Voters",2025-12-12,https://mclaughlinonline.com/pols/wp-content/uploads/2025/12/National-December-Presentation-Release-12-19-25.pdf
+"Josh Hawley",1.00,"McLaughlin & Associates",1,NULL,433,"Likely Voters",2025-12-12,hhttps://mclaughlinonline.com/pols/wp-content/uploads/2025/12/National-December-Presentation-Release-12-19-25.pdf
+"Kristi Noem",1.00,"McLaughlin & Associates",1,NULL,433,"Likely Voters",2025-12-12,https://mclaughlinonline.com/pols/wp-content/uploads/2025/12/National-December-Presentation-Release-12-19-25.pdf
+"Glenn Youngkin",1.00,"McLaughlin & Associates",1,NULL,433,"Likely Voters",2025-12-12,https://mclaughlinonline.com/pols/wp-content/uploads/2025/12/National-December-Presentation-Release-12-19-25.pdf
+"Rick Scott",1.00,"McLaughlin & Associates",1,NULL,433,"Likely Voters",2025-12-12,https://mclaughlinonline.com/pols/wp-content/uploads/2025/12/National-December-Presentation-Release-12-19-25.pdf
+"Tim Scott",1.00,"McLaughlin & Associates",1,NULL,433,"Likely Voters",2025-12-12,https://mclaughlinonline.com/pols/wp-content/uploads/2025/12/National-December-Presentation-Release-12-19-25.pdf
+"Greg Abbott",1.00,"McLaughlin & Associates",1,NULL,433,"Likely Voters",2025-12-12,https://mclaughlinonline.com/pols/wp-content/uploads/2025/12/National-December-Presentation-Release-12-19-25.pdf
+"Tulsi Gabbard",1.00,"McLaughlin & Associates",1,NULL,433,"Likely Voters",2025-12-12,https://mclaughlinonline.com/pols/wp-content/uploads/2025/12/National-December-Presentation-Release-12-19-25.pdf
+"J.D. Vance",47.00,"Rasmussen Reports",1,NULL,385,"Likely Voters",2026-04-10,https://www.rasmussenreports.com/public_content/politics/trump_administration_second_term/vance_still_leads_2028_field_for_republicans
+"Ron Desantis",7.00,"Rasmussen Reports",1,NULL,385,"Likely Voters",2026-04-10,https://www.rasmussenreports.com/public_content/politics/trump_administration_second_term/vance_still_leads_2028_field_for_republicans
+"Marco Rubio",20.00,"Rasmussen Reports",1,NULL,385,"Likely Voters",2026-04-10,https://www.rasmussenreports.com/public_content/politics/trump_administration_second_term/vance_still_leads_2028_field_for_republicans
+"J.D. Vance",29.60,"Atlas Intel",1,NULL,2069,NULL,2026-05-04,https://www.atlasintel.org/poll/usa-national-2026-05-11
+"Marco Rubio",45.40,"Atlas Intel",1,NULL,2069,NULL,2026-05-04,https://www.atlasintel.org/poll/usa-national-2026-05-11
+"Tim Scott",0.70,"Atlas Intel",1,NULL,2069,NULL,2026-05-04,https://www.atlasintel.org/poll/usa-national-2026-05-11
+"Brian Kemp",0.40,"Atlas Intel",1,NULL,2069,NULL,2026-05-04,https://www.atlasintel.org/poll/usa-national-2026-05-11
+"Greg Abbott",0.70,"Atlas Intel",1,NULL,2069,NULL,2026-05-04,https://www.atlasintel.org/poll/usa-national-2026-05-11
+"Ron Desantis",11.20,"Atlas Intel",1,NULL,2069,NULL,2026-05-04,https://www.atlasintel.org/poll/usa-national-2026-05-11
+"Vivek Ramaswamy",1.40,"Atlas Intel",1,NULL,2069,NULL,2026-05-04,https://www.atlasintel.org/poll/usa-national-2026-05-11
+"J.D. Vance",36.00,"Echelon Insights",1,NULL,418,"Registered Voters",2026-05-14,https://echeloninsights.com/insights/may-2026-verified-voter-omnibus
+"Ron Desantis",12.00,"Echelon Insights",1,NULL,418,"Registered Voters",2026-05-14,https://echeloninsights.com/insights/may-2026-verified-voter-omnibus
+"Ted Cruz",2.00,"Echelon Insights",1,NULL,418,"Registered Voters",2026-05-14,https://echeloninsights.com/insights/may-2026-verified-voter-omnibus
+"Vivek Ramaswamy",3.00,"Echelon Insights",1,NULL,418,"Registered Voters",2026-05-14,https://echeloninsights.com/insights/may-2026-verified-voter-omnibus
+"Marco Rubio",12.00,"Echelon Insights",1,NULL,418,"Registered Voters",2026-05-14,https://echeloninsights.com/insights/may-2026-verified-voter-omnibus
+"Ron Desantis",9.00,"Overton Insights",1,NULL,509,NULL,2026-05-16,https://overtoninsights.com/poll/overton-insights-poll-may-2026/
+"J.D. Vance",39.00,"Overton Insights",1,NULL,509,NULL,2026-05-16,https://overtoninsights.com/poll/overton-insights-poll-may-2026/
+"Nikki Haley",4.00,"Overton Insights",1,NULL,509,NULL,2026-05-16,https://overtoninsights.com/poll/overton-insights-poll-may-2026/
+"Marco Rubio",32.00,"Overton Insights",1,NULL,509,NULL,2026-05-16,https://overtoninsights.com/poll/overton-insights-poll-may-2026/
+"J.D. Vance",35.50,"Emerson College",1,NULL,432,"Likely Voters",2026-05-24,https://emersoncollegepolling.com/may-2026-national-poll/
+"Nikki Haley",4.60,"Emerson College",1,NULL,432,"Likely Voters",2026-05-24,https://emersoncollegepolling.com/may-2026-national-poll/
+"Ted Cruz",0.70,"Emerson College",1,NULL,432,"Likely Voters",2026-05-24,https://emersoncollegepolling.com/may-2026-national-poll/
+"Marco Rubio",34.60,"Emerson College",1,NULL,432,"Likely Voters",2026-05-24,https://emersoncollegepolling.com/may-2026-national-poll/
+"Ron Desantis",5.40,"Emerson College",1,NULL,432,"Likely Voters",2026-05-24,https://emersoncollegepolling.com/may-2026-national-poll/
+"J.D. Vance",52.50,"Detroit Chamber of Commerce",NULL,Michigan,500,"Likely Voters",2026-04-21,https://floridapolitics.com/archives/793486-michigan-detroit-chamber-poll/
+"Marco Rubio",26.70,"Detroit Chamber of Commerce",NULL,Michigan,500,"Likely Voters",2026-04-21,https://floridapolitics.com/archives/793486-michigan-detroit-chamber-poll/
+"Ron Desantis",7.90,"Detroit Chamber of Commerce",NULL,Michigan,500,"Likely Voters",2026-04-21,https://floridapolitics.com/archives/793486-michigan-detroit-chamber-poll/
+"J.D. Vance",43.00,"New Hampshire Journal/Praecones Analytica",NULL,"New Hampshire",350,"Registered Voters",2026-04-22,https://nhjournal.com/exclusive-vance-dominates-new-nhgop-2028-poll/
+"Nikki Haley",9.00,"New Hampshire Journal/Praecones Analytica",NULL,"New Hampshire",350,"Registered Voters",2026-04-22,https://nhjournal.com/exclusive-vance-dominates-new-nhgop-2028-poll/
+"Mike Pence",4.00,"New Hampshire Journal/Praecones Analytica",NULL,"New Hampshire",350,"Registered Voters",2026-04-22,https://nhjournal.com/exclusive-vance-dominates-new-nhgop-2028-poll/
+"Ted Cruz",1.00,"New Hampshire Journal/Praecones Analytica",NULL,"New Hampshire",350,"Registered Voters",2026-04-22,https://nhjournal.com/exclusive-vance-dominates-new-nhgop-2028-poll/
+"Tucker Carlson",1.00,"New Hampshire Journal/Praecones Analytica",NULL,"New Hampshire",350,"Registered Voters",2026-04-22,https://nhjournal.com/exclusive-vance-dominates-new-nhgop-2028-poll/
+"Marco Rubio",10.00,"New Hampshire Journal/Praecones Analytica",NULL,"New Hampshire",350,"Registered Voters",2026-04-22,https://nhjournal.com/exclusive-vance-dominates-new-nhgop-2028-poll/
+"Ron Desantis",5.00,"New Hampshire Journal/Praecones Analytica",NULL,"New Hampshire",350,"Registered Voters",2026-04-22,https://nhjournal.com/exclusive-vance-dominates-new-nhgop-2028-poll/
+"J.D. Vance",43.00,Berkeley/Politico,NULL,California,702,"Likely Voters",2026-02-25,https://www.politico.com/news/2026/03/12/newsom-opens-commanding-lead-over-harris-in-2028-california-primary-poll-00824633
+"Nikki Haley",3.00,Berkeley/Politico,NULL,California,702,"Likely Voters",2026-02-25,https://www.politico.com/news/2026/03/12/newsom-opens-commanding-lead-over-harris-in-2028-california-primary-poll-00824633
+"Vivek Ramaswamy",3.00,Berkeley/Politico,NULL,California,702,"Likely Voters",2026-02-25,https://www.politico.com/news/2026/03/12/newsom-opens-commanding-lead-over-harris-in-2028-california-primary-poll-00824633
+"Josh Hawley",2.00,Berkeley/Politico,NULL,California,702,"Likely Voters",2026-02-25,https://www.politico.com/news/2026/03/12/newsom-opens-commanding-lead-over-harris-in-2028-california-primary-poll-00824633
+"Marco Rubio",15.00,Berkeley/Politico,NULL,California,702,"Likely Voters",2026-02-25,https://www.politico.com/news/2026/03/12/newsom-opens-commanding-lead-over-harris-in-2028-california-primary-poll-00824633
+"Ted Cruz",3.00,Berkeley/Politico,NULL,California,702,"Likely Voters",2026-02-25,https://www.politico.com/news/2026/03/12/newsom-opens-commanding-lead-over-harris-in-2028-california-primary-poll-00824633
+"Ron Desantis",4.00,Berkeley/Politico,NULL,California,702,"Likely Voters",2026-02-25,https://www.politico.com/news/2026/03/12/newsom-opens-commanding-lead-over-harris-in-2028-california-primary-poll-00824633
+"Tim Scott",2.00,Berkeley/Politico,NULL,California,702,"Likely Voters",2026-02-25,https://www.politico.com/news/2026/03/12/newsom-opens-commanding-lead-over-harris-in-2028-california-primary-poll-00824633
+"Sarah Huckabee Sanders",1.00,Berkeley/Politico,NULL,California,702,"Likely Voters",2026-02-25,https://www.politico.com/news/2026/03/12/newsom-opens-commanding-lead-over-harris-in-2028-california-primary-poll-00824633
+"Glenn Youngkin",1.00,Berkeley/Politico,NULL,California,702,"Likely Voters",2026-02-25,https://www.politico.com/news/2026/03/12/newsom-opens-commanding-lead-over-harris-in-2028-california-primary-poll-00824633
+"Kristi Noem",4.00,Berkeley/Politico,NULL,California,702,"Likely Voters",2026-02-25,https://www.politico.com/news/2026/03/12/newsom-opens-commanding-lead-over-harris-in-2028-california-primary-poll-00824633
+"J.D. Vance",40.00,"J.L. Partners",1,NULL,1000,"Registered Voters",2025-10-14,https://static1.squarespace.com/static/663253f0bc87b7070102f41f/t/68fbe53d5a9c093e5efcd510/1761338685053/2028+-+October+2025.pdf
+"Nikki Haley",5.00,"J.L. Partners",1,NULL,1000,"Registered Voters",2025-10-14,https://static1.squarespace.com/static/663253f0bc87b7070102f41f/t/68fbe53d5a9c093e5efcd510/1761338685053/2028+-+October+2025.pdf
+"Vivek Ramaswamy",3.00,"J.L. Partners",1,NULL,1000,"Registered Voters",2025-10-14,https://static1.squarespace.com/static/663253f0bc87b7070102f41f/t/68fbe53d5a9c093e5efcd510/1761338685053/2028+-+October+2025.pdf
+"Marco Rubio",8.00,"J.L. Partners",1,NULL,1000,"Registered Voters",2025-10-14,https://static1.squarespace.com/static/663253f0bc87b7070102f41f/t/68fbe53d5a9c093e5efcd510/1761338685053/2028+-+October+2025.pdf
+"Ted Cruz",4.00,"J.L. Partners",1,NULL,1000,"Registered Voters",2025-10-14,https://static1.squarespace.com/static/663253f0bc87b7070102f41f/t/68fbe53d5a9c093e5efcd510/1761338685053/2028+-+October+2025.pdf
+"Ron Desantis",7.00,"J.L. Partners",1,NULL,1000,"Registered Voters",2025-10-14,https://static1.squarespace.com/static/663253f0bc87b7070102f41f/t/68fbe53d5a9c093e5efcd510/1761338685053/2028+-+October+2025.pdf
+"Tim Scott",2.00,"J.L. Partners",1,NULL,1000,"Registered Voters",2025-10-14,https://static1.squarespace.com/static/663253f0bc87b7070102f41f/t/68fbe53d5a9c093e5efcd510/1761338685053/2028+-+October+2025.pdf
+"Kristi Noem",1.00,"J.L. Partners",1,NULL,1000,"Registered Voters",2025-10-14,https://static1.squarespace.com/static/663253f0bc87b7070102f41f/t/68fbe53d5a9c093e5efcd510/1761338685053/2028+-+October+2025.pdf
+"Glenn Youngkin",1.00,"J.L. Partners",1,NULL,1000,"Registered Voters",2025-10-14,https://static1.squarespace.com/static/663253f0bc87b7070102f41f/t/68fbe53d5a9c093e5efcd510/1761338685053/2028+-+October+2025.pdf
+"Elise Stefanik",1.00,"J.L. Partners",1,NULL,1000,"Registered Voters",2025-10-14,https://static1.squarespace.com/static/663253f0bc87b7070102f41f/t/68fbe53d5a9c093e5efcd510/1761338685053/2028+-+October+2025.pdf
+"Ron Desantis",7.00,YouGov,1,NULL,2172,NULL,2025-11-06,https://ygo-assets-websites-editorial-emea.yougov.net/documents/2028_Presidential_Nominee_Preferences_poll_results.pdf
+"J.D. Vance",42.00,YouGov,1,NULL,2172,NULL,2025-11-06,https://ygo-assets-websites-editorial-emea.yougov.net/documents/2028_Presidential_Nominee_Preferences_poll_results.pdf
+"Nikki Haley",1.00,YouGov,1,NULL,2172,NULL,2025-11-06,https://ygo-assets-websites-editorial-emea.yougov.net/documents/2028_Presidential_Nominee_Preferences_poll_results.pdf
+"Vivek Ramaswamy",2.00,YouGov,1,NULL,2172,NULL,2025-11-06,https://ygo-assets-websites-editorial-emea.yougov.net/documents/2028_Presidential_Nominee_Preferences_poll_results.pdf
+"Marco Rubio",5.00,YouGov,1,NULL,2172,NULL,2025-11-06,https://ygo-assets-websites-editorial-emea.yougov.net/documents/2028_Presidential_Nominee_Preferences_poll_results.pdf
+"Mike Pence",1.00,YouGov,1,NULL,2172,NULL,2025-11-06,https://ygo-assets-websites-editorial-emea.yougov.net/documents/2028_Presidential_Nominee_Preferences_poll_results.pdf
+"Tulsi Gabbard",1.00,YouGov,1,NULL,2172,NULL,2025-11-06,https://ygo-assets-websites-editorial-emea.yougov.net/documents/2028_Presidential_Nominee_Preferences_poll_results.pdf
+"Ted Cruz",4.00,YouGov,1,NULL,2172,NULL,2025-11-06,https://ygo-assets-websites-editorial-emea.yougov.net/documents/2028_Presidential_Nominee_Preferences_poll_results.pdf
+"J.D. Vance",44.00,YouGov,1,NULL,1114,NULL,2025-09-05,https://ygo-assets-websites-editorial-emea.yougov.net/documents/2028_Presidential_Nominee_Preferences_poll_results.pdf
+"Ron Desantis",8.00,YouGov,1,NULL,1114,NULL,2025-09-05,https://ygo-assets-websites-editorial-emea.yougov.net/documents/2028_Presidential_Nominee_Preferences_poll_results.pdf
+"Ted Cruz",2.00,YouGov,1,NULL,1114,NULL,2025-09-05,https://ygo-assets-websites-editorial-emea.yougov.net/documents/2028_Presidential_Nominee_Preferences_poll_results.pdf
+"Nikki Haley",3.00,YouGov,1,NULL,1114,NULL,2025-09-05,https://ygo-assets-websites-editorial-emea.yougov.net/documents/2028_Presidential_Nominee_Preferences_poll_results.pdf
+"Vivek Ramaswamy",2.00,YouGov,1,NULL,1114,NULL,2025-09-05,https://ygo-assets-websites-editorial-emea.yougov.net/documents/2028_Presidential_Nominee_Preferences_poll_results.pdf
+"Marco Rubio",4.00,YouGov,1,NULL,1114,NULL,2025-09-05,https://ygo-assets-websites-editorial-emea.yougov.net/documents/2028_Presidential_Nominee_Preferences_poll_results.pdf
+"Mike Pence",2.00,YouGov,1,NULL,1114,NULL,2025-09-05,https://ygo-assets-websites-editorial-emea.yougov.net/documents/2028_Presidential_Nominee_Preferences_poll_results.pdf
+"Tulsi Gabbard",1.00,YouGov,1,NULL,1114,NULL,2025-09-05,https://ygo-assets-websites-editorial-emea.yougov.net/documents/2028_Presidential_Nominee_Preferences_poll_results.pdf
+"Tim Scott",1.00,YouGov,1,NULL,1114,NULL,2025-09-05,https://ygo-assets-websites-editorial-emea.yougov.net/documents/2028_Presidential_Nominee_Preferences_poll_results.pdf
+"Ron Desantis",8.00,YouGov,1,NULL,2250,NULL,2026-01-09,https://ygo-assets-websites-editorial-emea.yougov.net/documents/2028_Presidential_Nominee_Preferences_poll_results.pdf
+"J.D. Vance",41.00,YouGov,1,NULL,2250,NULL,2026-01-09,https://ygo-assets-websites-editorial-emea.yougov.net/documents/2028_Presidential_Nominee_Preferences_poll_results.pdf
+"Nikki Haley",1.00,YouGov,1,NULL,2250,NULL,2026-01-09,https://ygo-assets-websites-editorial-emea.yougov.net/documents/2028_Presidential_Nominee_Preferences_poll_results.pdf
+"Vivek Ramaswamy",2.00,YouGov,1,NULL,2250,NULL,2026-01-09,https://ygo-assets-websites-editorial-emea.yougov.net/documents/2028_Presidential_Nominee_Preferences_poll_results.pdf
+"Marco Rubio",7.00,YouGov,1,NULL,2250,NULL,2026-01-09,https://ygo-assets-websites-editorial-emea.yougov.net/documents/2028_Presidential_Nominee_Preferences_poll_results.pdf
+"Mike Pence",3.00,YouGov,1,NULL,2250,NULL,2026-01-09,https://ygo-assets-websites-editorial-emea.yougov.net/documents/2028_Presidential_Nominee_Preferences_poll_results.pdf
+"Tulsi Gabbard",1.00,YouGov,1,NULL,2250,NULL,2026-01-09,https://ygo-assets-websites-editorial-emea.yougov.net/documents/2028_Presidential_Nominee_Preferences_poll_results.pdf
+"Glenn Youngkin",1.00,YouGov,1,NULL,2250,NULL,2026-01-09,https://ygo-assets-websites-editorial-emea.yougov.net/documents/2028_Presidential_Nominee_Preferences_poll_results.pdf
+"Ted Cruz",2.00,YouGov,1,NULL,2250,NULL,2026-01-09,https://ygo-assets-websites-editorial-emea.yougov.net/documents/2028_Presidential_Nominee_Preferences_poll_results.pdf
